@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T03:56:32.028342+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-04-21T04:37:46.343603+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
@@ -18,20 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 03时56分]"
-        },
-        {
-          "title": "陈哲远、曾舜晞等百位演员入驻爱奇艺 AI 艺人库，明知可能分走自己饭碗，演员们为何还要入场？",
-          "url": "https://www.zhihu.com/question/2029556060424332961",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 03时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时13分 ~ 04时37分]"
         },
         {
           "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
@@ -42,8 +30,55 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 03时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时13分 ~ 04时37分]"
+        },
+        {
+          "title": "陈哲远、曾舜晞等百位演员入驻爱奇艺 AI 艺人库，明知可能分走自己饭碗，演员们为何还要入场？",
+          "url": "https://www.zhihu.com/question/2029556060424332961",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时13分 ~ 04时37分]"
+        },
+        {
+          "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
+          "url": "https://wallstreetcn.com/articles/3770370",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时13分 ~ 04时37分]"
+        },
+        {
+          "title": "AI围剿影视圈,演员签卖身契",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时13分 ~ 04时37分]"
+        },
+        {
+          "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
+          "url": "https://www.zhihu.com/question/2029565174948914400",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时13分 ~ 04时37分]"
         },
         {
           "title": "【焦点复盘】沪指日线3连阳收复60日线，全市场超百股涨逾10%，算力链再现多点开花",
@@ -57,38 +92,17 @@
           "time_info": "[01时13分 ~ 03时56分]"
         },
         {
-          "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
-          "url": "https://wallstreetcn.com/articles/3770370",
-          "source": "华尔街见闻",
+          "title": "女子酒窝超大被网友怀疑是AI",
+          "url": "https://www.toutiao.com/trending/7630464363427069993/",
+          "source": "今日头条",
           "ranks": [
-            8
+            23,
+            26,
+            13
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时13分 ~ 03时56分]"
-        },
-        {
-          "title": "AI围剿影视圈,演员签卖身契",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 03时56分]"
-        },
-        {
-          "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
-          "url": "https://www.zhihu.com/question/2029565174948914400",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 03时56分]"
+          "time_info": "[01时13分 ~ 04时37分]"
         },
         {
           "title": "为什么新能源汽车的轮胎那么贵，还特别脆弱?",
@@ -103,6 +117,19 @@
           "time_info": "[01时13分 ~ 03时56分]"
         },
         {
+          "title": "在招聘页面放AI聚餐照",
+          "url": "https://s.weibo.com/weibo?q=%E5%9C%A8%E6%8B%9B%E8%81%98%E9%A1%B5%E9%9D%A2%E6%94%BEAI%E8%81%9A%E9%A4%90%E7%85%A7&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时56分 ~ 04时37分]"
+        },
+        {
           "title": "AI核能开发商Fermi股价下跌，该公司CEO突然离职",
           "url": "https://wallstreetcn.com/livenews/3091262",
           "source": "华尔街见闻-快讯",
@@ -113,6 +140,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时14分 ~ 02时56分]"
+        },
+        {
+          "title": "华为首款AI眼镜来了",
+          "url": "https://www.toutiao.com/trending/7630378679035101225/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时56分 ~ 04时37分]"
         },
         {
           "title": "华为发布首款鸿蒙AI眼镜 2499元起售",
@@ -126,42 +166,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时13分 ~ 03时22分]"
-        },
-        {
-          "title": "女子酒窝超大被网友怀疑是AI",
-          "url": "https://www.toutiao.com/trending/7630464363427069993/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 03时22分]"
-        },
-        {
-          "title": "在招聘页面放AI聚餐照",
-          "url": "https://s.weibo.com/weibo?q=%E5%9C%A8%E6%8B%9B%E8%81%98%E9%A1%B5%E9%9D%A2%E6%94%BEAI%E8%81%9A%E9%A4%90%E7%85%A7&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时56分 ~ 03时56分]"
-        },
-        {
-          "title": "华为首款AI眼镜来了",
-          "url": "https://www.toutiao.com/trending/7630378679035101225/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时56分 ~ 03时56分]"
         },
         {
           "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
@@ -186,6 +190,17 @@
           "time_info": "[01时13分 ~ 01时14分]"
         },
         {
+          "title": "马上评｜“AI艺人库”来了，爱奇艺到底在打什么算盘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011850",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 04时37分]"
+        },
+        {
           "title": "苏醒说AI艺人这方向真的对么",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E8%AF%B4AI%E8%89%BA%E4%BA%BA%E8%BF%99%E6%96%B9%E5%90%91%E7%9C%9F%E7%9A%84%E5%AF%B9%E4%B9%88%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -197,24 +212,13 @@
           "time_info": "[01时13分 ~ 01时14分]"
         },
         {
-          "title": "马上评｜“AI艺人库”来了，爱奇艺到底在打什么算盘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011850",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时56分"
-        },
-        {
           "title": "AI版成何体统逐玉",
           "url": "https://s.weibo.com/weibo?q=%23AI%E7%89%88%E6%88%90%E4%BD%95%E4%BD%93%E7%BB%9F%E9%80%90%E7%8E%89%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
         }
