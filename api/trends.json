@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-23T01:53:44.498391+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-04-23T03:06:17.348576+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "OpenAI在ChatGPT引入Workspace Agents。",
           "url": "https://wallstreetcn.com/livenews/3092779",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时53分 ~ 03时06分]"
         },
         {
           "title": "谷歌设立7.5亿美元基金，助力咨询公司应用AI",
@@ -38,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 03时06分]"
         },
         {
           "title": "华晨宇演唱会延期",
@@ -49,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 03时06分]"
         },
         {
           "title": "如果“AI艺人”真的来了，观众能接受吗",
@@ -60,19 +61,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时53分]"
-        },
-        {
-          "title": "用AI办了场车展",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E8%BD%A6%E5%B1%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 03时06分]"
         },
         {
           "title": "沪指重返4100，算力硬件爆发，万亿巨头工业富联盘中涨停，恒科指跌超近2%，宁德时代H股跌超5%",
@@ -83,19 +73,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 03时06分]"
+        },
+        {
+          "title": "用AI办了场车展",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E8%BD%A6%E5%B1%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 03时06分]"
         },
         {
           "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
           "url": "https://m.thepaper.cn/newsDetail_forward_33025322",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 03时06分]"
         },
         {
           "title": "核心拒绝AI,异环美术光速滑跪",
@@ -105,8 +108,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 03时06分]"
         },
         {
           "title": "我选择QQ秀作为徐良演唱会穿搭",
@@ -114,11 +117,12 @@
           "source": "抖音",
           "ranks": [
             14,
-            11
+            11,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 03时06分]"
         },
         {
           "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
@@ -128,19 +132,42 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 03时06分]"
         },
         {
           "title": "微软：与Anthropic和行业合作伙伴们密切合作。 我们正在测试Anthropic旗下Claude AI模型Mythos的概览。 利用CTI-Realm评估Mythos。 将在安全开发生命周期内应用Mythos。",
           "url": "https://wallstreetcn.com/livenews/3092771",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时53分 ~ 03时06分]"
+        },
+        {
+          "title": "甲骨文(ORCL.N)：随着公司为满足日益增长的客户需求而扩展人工智能基础设施，位于阿比林等地的设施已投入运营，同时新园区项目仍在按计划推进。",
+          "url": "https://flash.jin10.com/detail/20260423021134912800",
+          "source": "金十数据",
+          "ranks": [
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时53分"
+          "time_info": "03时06分"
+        },
+        {
+          "title": "OpenAI：在ChatGPT中引入工作空间助手。",
+          "url": "https://flash.jin10.com/detail/20260423014529135800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时06分"
         },
         {
           "title": "能定位会判断，AI乒乓机器人击败人类高手",
@@ -149,7 +176,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         },
