@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T21:48:06.210117+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2026-04-22T23:54:56.319444+08:00",
+  "total_titles_processed": 1824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 66,
+      "match_count": 69,
       "titles": [
         {
           "title": "灵魂摆渡电影全AI生成",
@@ -51,11 +51,12 @@
             2,
             3,
             5,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时40分 ~ 21时48分]"
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 23时54分]"
         },
         {
           "title": "SpaceX放出“IPO重磅炸弹”：太空AI技术未经验证，未必能商业化！",
@@ -80,6 +81,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时49分 ~ 09时28分]"
+        },
+        {
+          "title": "如果“AI艺人”真的来了，观众能接受吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            14,
+            10,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 23时54分]"
         },
         {
           "title": "【焦点复盘】创业板指深V反转迎四连阳，算力硬件股现极致分化，商业航天概念强者恒强",
@@ -110,6 +128,19 @@
           "time_info": "[00时49分 ~ 07时29分]"
         },
         {
+          "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
+          "url": "https://www.cls.cn/detail/2352317",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时54分 ~ 23时54分]"
+        },
+        {
           "title": "尼日利亚总统任命泰沃·奥耶德莱（Taiwo Oyedele）为财政部长，接替瓦莱·埃敦（Wale Edun）。",
           "url": "https://flash.jin10.com/detail/20260422004214145800",
           "source": "金十数据",
@@ -119,22 +150,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
-        },
-        {
-          "title": "如果“AI艺人”真的来了，观众能接受吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            14,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时40分 ~ 21时48分]"
         },
         {
           "title": "为什么说中国大厂的 AI 战，归根结底是阿里 VS 字节？",
@@ -149,6 +164,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时40分 ~ 21时48分]"
+        },
+        {
+          "title": "我选择QQ秀作为徐良演唱会穿搭",
+          "url": "https://www.douyin.com/hot/2474522",
+          "source": "抖音",
+          "ranks": [
+            24,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时12分 ~ 23时54分]"
         },
         {
           "title": "唐诡导演 真人能演为啥让AI演",
@@ -236,29 +263,6 @@
           "time_info": "18时12分"
         },
         {
-          "title": "华晨宇演唱会延期",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BB%B6%E6%9C%9F%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
-          "title": "我选择QQ秀作为徐良演唱会穿搭",
-          "url": "https://www.douyin.com/hot/2474522",
-          "source": "抖音",
-          "ranks": [
-            24,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时12分 ~ 21时48分]"
-        },
-        {
           "title": "【每日收评】沪指重返4100点，创业板综指创历史新高，AI算力链再迎全线爆发",
           "url": "https://www.cls.cn/detail/2352172",
           "source": "财联社热门",
@@ -270,6 +274,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时12分 ~ 21时48分]"
+        },
+        {
+          "title": "华晨宇演唱会延期",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BB%B6%E6%9C%9F%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 23时54分]"
         },
         {
           "title": "苹果公司候任CEO Ternus：我们将再次改变世界。 AI将创造“几乎无限的潜力”。 在我任期内，公司的使命不会变化。",
@@ -284,16 +300,16 @@
           "time_info": "[02时59分 ~ 04时02分]"
         },
         {
-          "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
-          "url": "https://www.cls.cn/detail/2352317",
-          "source": "财联社热门",
+          "title": "沪指重返4100，算力硬件爆发，万亿巨头工业富联盘中涨停，恒科指跌超近2%，宁德时代H股跌超5%",
+          "url": "https://wallstreetcn.com/articles/3770568",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            3
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 21时48分]"
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 23时54分]"
         },
         {
           "title": "Meta将跟踪美国员工工作流程数据，从而进行AI训练。（路透）",
@@ -308,16 +324,18 @@
           "time_info": "[00时49分 ~ 02时05分]"
         },
         {
-          "title": "沪指重返4100，算力硬件爆发，万亿巨头工业富联盘中涨停，恒科指跌超近2%，宁德时代H股跌超5%",
-          "url": "https://wallstreetcn.com/articles/3770568",
-          "source": "华尔街见闻",
+          "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33025322",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            8
+            14,
+            12,
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时12分 ~ 21时48分]"
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 23时54分]"
         },
         {
           "title": "《灵魂摆渡》电影全AI生成",
@@ -333,19 +351,6 @@
           "time_info": "[09时28分 ~ 14时33分]"
         },
         {
-          "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33025322",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时12分 ~ 21时48分]"
-        },
-        {
           "title": "OpenAI因杀手使用ChatGPT而在美国佛罗里达州面临刑事调查。",
           "url": "https://wallstreetcn.com/livenews/3092028",
           "source": "华尔街见闻-快讯",
@@ -356,6 +361,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时05分 ~ 02时59分]"
+        },
+        {
+          "title": "用AI办了场车展",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E8%BD%A6%E5%B1%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 23时54分]"
         },
         {
           "title": "网传华晨宇演唱会因泼水节延期",
@@ -425,6 +442,17 @@
           "time_info": "04时02分"
         },
         {
+          "title": "硅谷精神之父谈AI时代",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A1%85%E8%B0%B7%E7%B2%BE%E7%A5%9E%E4%B9%8B%E7%88%B6%E8%B0%88AI%E6%97%B6%E4%BB%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "OpenAI推出ChatGPT Images2.0图像模型。",
           "url": "https://flash.jin10.com/detail/20260422032424290800",
           "source": "金十数据",
@@ -434,17 +462,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
-        },
-        {
-          "title": "用AI办了场车展",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E8%BD%A6%E5%B1%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
         },
         {
           "title": "特斯拉将上线AI语音功能",
@@ -497,9 +514,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
+        },
+        {
+          "title": "OpenAI发布隐私过滤器模型以编辑个人数据",
+          "url": "https://wallstreetcn.com/livenews/3092726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "谢娜演唱会成都加场来了",
@@ -607,7 +635,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -684,7 +712,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -711,13 +739,24 @@
           "time_info": "12时40分"
         },
         {
+          "title": "谷歌公司：Drive Now现在普遍可以使用Gemini和AI概览。",
+          "url": "https://wallstreetcn.com/livenews/3092705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "谷歌云AI使用量达到每分钟160亿Tokens。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3092620",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -728,7 +767,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
