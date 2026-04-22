@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T19:54:12.826846+08:00",
-  "total_titles_processed": 1565,
+  "generated_at": "2026-04-22T21:48:06.210117+08:00",
+  "total_titles_processed": 1699,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 59,
+      "match_count": 66,
       "titles": [
         {
           "title": "灵魂摆渡电影全AI生成",
@@ -43,19 +43,6 @@
           "time_info": "[00时49分 ~ 07时29分]"
         },
         {
-          "title": "SpaceX放出“IPO重磅炸弹”：太空AI技术未经验证，未必能商业化！",
-          "url": "https://www.cls.cn/detail/2351466",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 16时26分]"
-        },
-        {
           "title": "核心拒绝AI,异环美术光速滑跪",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
           "source": "贴吧",
@@ -67,8 +54,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时40分 ~ 19时54分]"
+          "appearance_count": 6,
+          "time_info": "[12时40分 ~ 21时48分]"
+        },
+        {
+          "title": "SpaceX放出“IPO重磅炸弹”：太空AI技术未经验证，未必能商业化！",
+          "url": "https://www.cls.cn/detail/2351466",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 16时26分]"
         },
         {
           "title": "AI围剿影视圈,演员签卖身契",
@@ -119,6 +119,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "如果“AI艺人”真的来了，观众能接受吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            14,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时40分 ~ 21时48分]"
+        },
+        {
+          "title": "为什么说中国大厂的 AI 战，归根结底是阿里 VS 字节？",
+          "url": "https://www.zhihu.com/question/1984557341190873580",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时40分 ~ 21时48分]"
         },
         {
           "title": "唐诡导演 真人能演为啥让AI演",
@@ -206,32 +236,40 @@
           "time_info": "18时12分"
         },
         {
-          "title": "为什么说中国大厂的 AI 战，归根结底是阿里 VS 字节？",
-          "url": "https://www.zhihu.com/question/1984557341190873580",
-          "source": "知乎",
+          "title": "华晨宇演唱会延期",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BB%B6%E6%9C%9F%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            20,
-            13,
-            9
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时40分 ~ 19时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
-          "title": "如果“AI艺人”真的来了，观众能接受吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
-          "source": "澎湃新闻",
+          "title": "我选择QQ秀作为徐良演唱会穿搭",
+          "url": "https://www.douyin.com/hot/2474522",
+          "source": "抖音",
           "ranks": [
-            18,
-            16,
-            14,
-            10,
-            9
+            24,
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时40分 ~ 19时54分]"
+          "time_info": "[18时12分 ~ 21时48分]"
+        },
+        {
+          "title": "【每日收评】沪指重返4100点，创业板综指创历史新高，AI算力链再迎全线爆发",
+          "url": "https://www.cls.cn/detail/2352172",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 21时48分]"
         },
         {
           "title": "苹果公司候任CEO Ternus：我们将再次改变世界。 AI将创造“几乎无限的潜力”。 在我任期内，公司的使命不会变化。",
@@ -246,16 +284,16 @@
           "time_info": "[02时59分 ~ 04时02分]"
         },
         {
-          "title": "【每日收评】沪指重返4100点，创业板综指创历史新高，AI算力链再迎全线爆发",
-          "url": "https://www.cls.cn/detail/2352172",
+          "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
+          "url": "https://www.cls.cn/detail/2352317",
           "source": "财联社热门",
           "ranks": [
-            5,
-            7
+            8,
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时12分 ~ 19时54分]"
+          "time_info": "[19时54分 ~ 21时48分]"
         },
         {
           "title": "Meta将跟踪美国员工工作流程数据，从而进行AI训练。（路透）",
@@ -268,6 +306,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 02时05分]"
+        },
+        {
+          "title": "沪指重返4100，算力硬件爆发，万亿巨头工业富联盘中涨停，恒科指跌超近2%，宁德时代H股跌超5%",
+          "url": "https://wallstreetcn.com/articles/3770568",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 21时48分]"
         },
         {
           "title": "《灵魂摆渡》电影全AI生成",
@@ -283,15 +333,17 @@
           "time_info": "[09时28分 ~ 14时33分]"
         },
         {
-          "title": "我选择QQ秀作为徐良演唱会穿搭",
-          "url": "https://www.douyin.com/hot/2474522",
-          "source": "抖音",
+          "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33025322",
+          "source": "澎湃新闻",
           "ranks": [
-            24
+            14,
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时12分 ~ 19时54分]"
+          "time_info": "[18时12分 ~ 21时48分]"
         },
         {
           "title": "OpenAI因杀手使用ChatGPT而在美国佛罗里达州面临刑事调查。",
@@ -304,30 +356,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时05分 ~ 02时59分]"
-        },
-        {
-          "title": "沪指重返4100，算力硬件爆发，万亿巨头工业富联盘中涨停，恒科指跌超近2%，宁德时代H股跌超5%",
-          "url": "https://wallstreetcn.com/articles/3770568",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 19时54分]"
-        },
-        {
-          "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33025322",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 19时54分]"
         },
         {
           "title": "网传华晨宇演唱会因泼水节延期",
@@ -386,17 +414,6 @@
           "time_info": "12时40分"
         },
         {
-          "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
-          "url": "https://www.cls.cn/detail/2352317",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
           "title": "OpenAI：ChatGPT Images 2.0即日起向所有ChatGPT和Codex用户开放。",
           "url": "https://flash.jin10.com/detail/20260422032455495800",
           "source": "金十数据",
@@ -417,6 +434,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "用AI办了场车展",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E8%BD%A6%E5%B1%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "特斯拉将上线AI语音功能",
@@ -461,6 +489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "美股三大股指高开，道指涨0.7%，标普500指数涨0.7%，纳指涨0.8%。波音(BA.N)涨4%，一季度财报好于预期，营收同比增长14%。Alphabet(GOOGL.O)涨1.1%，谷歌云发布用于人工智能的新型TPU芯片。特斯拉(TSLA.O)跌0.1%，其将于今日盘后发布一季度财报。",
+          "url": "https://flash.jin10.com/detail/20260422213035194800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "谢娜演唱会成都加场来了",
@@ -562,6 +601,17 @@
           "time_info": "12时40分"
         },
         {
+          "title": "谷歌发布一系列新AI工具 挑战OpenAI和Anthropic",
+          "url": "https://wallstreetcn.com/livenews/3092631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
           "title": "爱奇艺回应 AI 授权，称真人完成关键表演后将其数字化，未来减少对「顶流」的依赖，对影视行业是好事吗？",
           "url": "https://www.zhihu.com/question/2029620355082335491",
           "source": "知乎",
@@ -628,6 +678,17 @@
           "time_info": "06时32分"
         },
         {
+          "title": "Merck与谷歌云签订最高达10亿美元AI合作协议",
+          "url": "https://wallstreetcn.com/livenews/3092628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
           "title": "市场消息：文件显示，SpaceX表示其在轨人工智能数据中心、月球和火星基础设施的计划涉及未经验证的技术，可能无法实现商业可行性。",
           "url": "https://flash.jin10.com/detail/20260422051341497800",
           "source": "金十数据",
@@ -648,6 +709,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
+        },
+        {
+          "title": "谷歌云AI使用量达到每分钟160亿Tokens。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3092620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "Altimetrik今日宣布已加入谷歌云的AI原生合作伙伴队列，谷歌云正通过与这一群体合作，在全球企业中推广规模化代理型AI。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3092619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "库克卸任：4万亿市值与AI失落的十年",
