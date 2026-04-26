@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T06:29:18.364239+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-04-27T07:32:14.249270+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 07时32分]"
         },
         {
           "title": "专家热议AI短剧以规范促发展",
@@ -27,11 +27,12 @@
             14,
             10,
             8,
-            18
+            18,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 07时32分]"
         },
         {
           "title": "AI 编程从「vibe coding」到「wish coding」，迎来 C 端拐点，这意味着什么？",
@@ -42,11 +43,12 @@
             13,
             7,
             10,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 07时32分]"
         },
         {
           "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
@@ -57,8 +59,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 07时32分]"
+        },
+        {
+          "title": "AI图以假乱真,恐怖谷效应拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 07时32分]"
         },
         {
           "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
@@ -68,17 +81,6 @@
             12,
             13,
             14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时29分]"
-        },
-        {
-          "title": "AI图以假乱真,恐怖谷效应拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -108,8 +110,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时31分]"
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 07时32分]"
         },
         {
           "title": "单依纯郑州演唱会",
