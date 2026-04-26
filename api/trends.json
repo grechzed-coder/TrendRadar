@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-04-26T20:43:18.790023+08:00",
-  "total_titles_processed": 1285,
-  "failed_sources": [],
+  "generated_at": "2026-04-26T22:02:11.292164+08:00",
+  "total_titles_processed": 1369,
+  "failed_sources": [
+    "bilibili-hot-search"
+  ],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
@@ -55,11 +57,43 @@
             19,
             20,
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 20时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 22时02分]"
+        },
+        {
+          "title": "陈楚生南昌演唱会",
+          "url": "https://www.douyin.com/hot/2479205",
+          "source": "抖音",
+          "ranks": [
+            21,
+            26,
+            19,
+            24,
+            23,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时53分 ~ 22时02分]"
+        },
+        {
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时56分 ~ 22时02分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -73,18 +107,18 @@
           "time_info": "[00时32分 ~ 09时48分]"
         },
         {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
+          "title": "专家热议AI短剧以规范促发展",
+          "url": "https://www.douyin.com/hot/2479735",
+          "source": "抖音",
           "ranks": [
-            7,
-            6,
-            4,
-            3
+            17,
+            21,
+            22,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时56分 ~ 20时43分]"
+          "appearance_count": 8,
+          "time_info": "[17时44分 ~ 22时02分]"
         },
         {
           "title": "说唱歌曲工厂真的过誉了吗",
@@ -101,22 +135,6 @@
           "time_info": "[00时32分 ~ 07时30分]"
         },
         {
-          "title": "陈楚生南昌演唱会",
-          "url": "https://www.douyin.com/hot/2479205",
-          "source": "抖音",
-          "ranks": [
-            21,
-            26,
-            19,
-            24,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时53分 ~ 20时43分]"
-        },
-        {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
           "url": "https://m.thepaper.cn/newsDetail_forward_33051014",
           "source": "澎湃新闻",
@@ -127,19 +145,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 09时48分]"
-        },
-        {
-          "title": "专家热议AI短剧以规范促发展",
-          "url": "https://www.douyin.com/hot/2479735",
-          "source": "抖音",
-          "ranks": [
-            17,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时44分 ~ 20时43分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
@@ -176,8 +181,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 19时33分]"
+          "appearance_count": 4,
+          "time_info": "[17时45分 ~ 22时02分]"
         },
         {
           "title": "AI帮忙投资靠谱吗",
@@ -210,9 +215,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 22时02分]"
         },
         {
           "title": "AI对广告行业有何冲击",
