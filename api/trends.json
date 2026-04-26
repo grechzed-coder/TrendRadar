@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T17:45:11.770731+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2026-04-26T18:38:17.164225+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
@@ -57,8 +57,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 17时45分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 18时38分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -98,6 +98,20 @@
           "time_info": "[00时32分 ~ 09时48分]"
         },
         {
+          "title": "陈楚生南昌演唱会",
+          "url": "https://www.douyin.com/hot/2479205",
+          "source": "抖音",
+          "ranks": [
+            21,
+            26,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时53分 ~ 18时38分]"
+        },
+        {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
           "url": "https://wallstreetcn.com/articles/3770911",
           "source": "华尔街见闻",
@@ -107,8 +121,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时56分 ~ 17时45分]"
+          "appearance_count": 4,
+          "time_info": "[14时56分 ~ 18时38分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
@@ -124,6 +138,18 @@
           "time_info": "[12时53分 ~ 16时13分]"
         },
         {
+          "title": "专家热议AI短剧以规范促发展",
+          "url": "https://www.douyin.com/hot/2479735",
+          "source": "抖音",
+          "ranks": [
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时44分 ~ 18时38分]"
+        },
+        {
           "title": "陶喆广州演唱会",
           "url": "https://www.douyin.com/hot/2479020",
           "source": "抖音",
@@ -135,19 +161,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时37分 ~ 04时30分]"
-        },
-        {
-          "title": "陈楚生南昌演唱会",
-          "url": "https://www.douyin.com/hot/2479205",
-          "source": "抖音",
-          "ranks": [
-            21,
-            26,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时53分 ~ 17时45分]"
         },
         {
           "title": "AI帮忙投资靠谱吗",
@@ -174,26 +187,15 @@
           "time_info": "[16时13分 ~ 17时45分]"
         },
         {
-          "title": "专家热议AI短剧以规范促发展",
-          "url": "https://www.douyin.com/hot/2479735",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 17时45分]"
-        },
-        {
           "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
           "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
           "source": "澎湃新闻",
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 18时38分]"
         },
         {
           "title": "AI对广告行业有何冲击",
