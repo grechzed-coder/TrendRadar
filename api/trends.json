@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T19:52:14.572713+08:00",
-  "total_titles_processed": 1376,
+  "generated_at": "2026-05-01T20:57:03.554513+08:00",
+  "total_titles_processed": 1477,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "时代少年团广州演唱会",
@@ -31,11 +31,12 @@
           "ranks": [
             20,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 19时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 20时57分]"
         },
         {
           "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
@@ -52,6 +53,22 @@
           "time_info": "[00时23分 ~ 16时14分]"
         },
         {
+          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
+          "url": "https://www.cls.cn/detail/2361533",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8,
+            11,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[05时49分 ~ 20时57分]"
+        },
+        {
           "title": "【数据看盘】超30亿元资金买入算力芯片龙头 多路资金联手抢筹中国长城",
           "url": "https://www.cls.cn/detail/2361202",
           "source": "财联社热门",
@@ -63,21 +80,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时23分 ~ 10时03分]"
-        },
-        {
-          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
-          "url": "https://www.cls.cn/detail/2361533",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时49分 ~ 19时52分]"
         },
         {
           "title": "假如AI能模拟去世亲人",
@@ -126,22 +128,12 @@
             1,
             8,
             20,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时03分 ~ 19时52分]"
-        },
-        {
-          "title": "五角大楼的MICHAEL：在人工智能方面不能只依赖一个合作伙伴。",
-          "url": "https://wallstreetcn.com/livenews/3097888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
+          "appearance_count": 6,
+          "time_info": "[10时03分 ~ 20时57分]"
         },
         {
           "title": "美国白宫人工智能顾问萨克斯：Mythos不是世界末日装置。",
@@ -155,15 +147,16 @@
           "time_info": "02时05分"
         },
         {
-          "title": "女子被AI误导闯入毒蛇窝",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9D%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "时代少年团演唱会",
+          "url": "https://www.douyin.com/hot/2484805",
+          "source": "抖音",
           "ranks": [
-            5
+            11,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时16分 ~ 20时57分]"
         },
         {
           "title": "人民日报：不能让AI生成内容误导公众",
@@ -189,6 +182,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时05分 ~ 04时06分]"
+        },
+        {
+          "title": "五角大楼的MICHAEL：在人工智能方面不能只依赖一个合作伙伴。",
+          "url": "https://wallstreetcn.com/livenews/3097888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 20时57分]"
+        },
+        {
+          "title": "女子被AI误导闯入毒蛇窝",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9D%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 20时57分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -229,16 +246,17 @@
           "time_info": "[02时05分 ~ 06时43分]"
         },
         {
-          "title": "时代少年团演唱会",
-          "url": "https://www.douyin.com/hot/2484805",
-          "source": "抖音",
+          "title": "女子被AI误导闯入响尾蛇窝：无比后怕",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E5%93%8D%E5%B0%BE%E8%9B%87%E7%AA%9D%EF%BC%9A%E6%97%A0%E6%AF%94%E5%90%8E%E6%80%95",
+          "source": "百度热搜",
           "ranks": [
-            11,
-            6
+            8,
+            15,
+            21
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时16分 ~ 19时52分]"
+          "time_info": "[18时16分 ~ 20时57分]"
         },
         {
           "title": "李现又去看五月天演唱会了",
@@ -277,18 +295,6 @@
           "time_info": "[00时23分 ~ 02时05分]"
         },
         {
-          "title": "女子被AI误导闯入响尾蛇窝：无比后怕",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E5%93%8D%E5%B0%BE%E8%9B%87%E7%AA%9D%EF%BC%9A%E6%97%A0%E6%AF%94%E5%90%8E%E6%80%95",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 19时52分]"
-        },
-        {
           "title": "西部数据预计季度营收将超出预期，得益于人工智能存储需求",
           "url": "https://flash.jin10.com/detail/20260501045130303800",
           "source": "金十数据",
@@ -325,6 +331,30 @@
           "time_info": "[07时43分 ~ 10时03分]"
         },
         {
+          "title": "五角大楼将扩大英伟达和微软人工智能技术在机密网络中的应用。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3097879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 20时57分]"
+        },
+        {
+          "title": "时代少年团演唱会节目单",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 20时57分]"
+        },
+        {
           "title": "美国国防部长赫格塞思：人工智能并未做出致命决策；Anthropic公司由一位“意识形态狂人”领导。",
           "url": "https://flash.jin10.com/detail/20260501014458806800",
           "source": "金十数据",
@@ -353,7 +383,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -364,18 +394,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "五角大楼将扩大英伟达和微软人工智能技术在机密网络中的应用。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3097879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -408,7 +427,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -422,17 +441,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
-        },
-        {
-          "title": "时代少年团演唱会节目单",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
         },
         {
           "title": "受AI相关需求提振，韩国出口继续激增",
@@ -523,13 +531,24 @@
           "time_info": "14时01分"
         },
         {
+          "title": "美国防部与7家AI公司达成协议",
+          "url": "https://wallstreetcn.com/livenews/3097883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "时代少年团演唱会直播",
           "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9B%B4%E6%92%AD&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         }
