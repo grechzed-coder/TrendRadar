@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T02:44:39.970441+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-05-03T03:48:28.959533+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "随后，阿贝尔揭晓真相：这段视频并非真实影像，而是利用AI技术生成的“深度伪造”（deepfake）视频。他借此机会，向在场股东着重提示了网络安全风险。",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 03时48分]"
         },
         {
           "title": "对于AI巴菲特的问题“投资者为何应该继续持有伯克希尔股票”，阿贝尔在回答中着重强调了公司3970亿美元巨额现金储备的强大实力，正是这笔资金赋予了伯克希尔充分的行动自由。“我们持有现金和美国国债，这有几方面的用途，我们不打算受制于任何人。”",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 03时48分]"
         },
         {
           "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 03时48分]"
         },
         {
           "title": "伯克希尔拒绝跟风押注AI，CEO延续巴菲特一贯的投资哲学",
@@ -51,8 +51,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 03时48分]"
+        },
+        {
+          "title": "美联储古尔斯比：尽管各界热议人工智能中心建设，但真正拉动经济的仍是消费者需求。 ​​​",
+          "url": "https://flash.jin10.com/detail/20260503021929638800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
         },
         {
           "title": "Anthropic正在洽谈从英国初创公司Fractile购买AI芯片。（The Information）",
@@ -63,8 +74,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 03时48分]"
         },
         {
           "title": "专访｜赵又廷：别让AI取代我就行",
@@ -74,8 +85,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 03时48分]"
         },
         {
           "title": "赛道挤爆,AI短剧收益不够电费",
@@ -85,8 +96,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 03时48分]"
         },
         {
           "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
@@ -96,8 +107,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 03时48分]"
         },
         {
           "title": "AI 时代已经来了，为什么很多人明知道它重要，却迟迟不敢真正开始？",
@@ -109,8 +120,21 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 03时48分]"
+        },
+        {
+          "title": "误导女子闯入毒蛇窝AI道歉",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AF%AF%E5%AF%BC%E5%A5%B3%E5%AD%90%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9DAI%E9%81%93%E6%AD%89%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            12,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时37分 ~ 02时44分]"
+          "time_info": "[01时38分 ~ 03时48分]"
         },
         {
           "title": "邓紫棋厦门演唱会",
@@ -137,16 +161,16 @@
           "time_info": "[00时37分 ~ 01时38分]"
         },
         {
-          "title": "误导女子闯入毒蛇窝AI道歉",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%AF%AF%E5%AF%BC%E5%A5%B3%E5%AD%90%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9DAI%E9%81%93%E6%AD%89%23&t=31&band_rank=22&Refer=top",
+          "title": "严浩翔演唱会状态",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8A%B6%E6%80%81%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
-            22,
-            12
+            15,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时38分 ~ 02时44分]"
+          "time_info": "[00时37分 ~ 03时48分]"
         },
         {
           "title": "不盲目跟风 伯克希尔谨慎推进AI策略并确立三大原则",
@@ -171,17 +195,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 01时38分]"
-        },
-        {
-          "title": "严浩翔演唱会状态",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8A%B6%E6%80%81%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
         },
         {
           "title": "在 AI 时代，最重要的能力是什么？",
