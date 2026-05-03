@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T05:34:28.644590+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-05-04T06:31:46.188545+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时31分]"
         },
         {
           "title": "云南的水果像极了AI生成的",
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 06时31分]"
         },
         {
           "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
@@ -59,8 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时31分]"
         },
         {
           "title": "李荣浩哈尔滨演唱会",
@@ -71,8 +71,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 06时31分]"
         },
         {
           "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
@@ -84,8 +84,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时31分]"
         },
         {
           "title": "美国财长贝森特：特朗普应该因英特尔投资获利而受到表扬。 人们应该担心人工智能可能对银行进行黑客攻击。",
@@ -94,11 +94,12 @@
           "ranks": [
             2,
             13,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时31分]"
         },
         {
           "title": "梁祯元演唱会坠落入水封神了",
@@ -108,11 +109,12 @@
             17,
             21,
             20,
-            27
+            27,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 05时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 06时31分]"
         },
         {
           "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
@@ -124,8 +126,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时31分]"
         },
         {
           "title": "湖南广电 AI播新闻",
@@ -135,8 +137,33 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时31分]"
+        },
+        {
+          "title": "赛道挤爆,AI短剧收益不够电费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353950&amp;topic_name=%E8%B5%9B%E9%81%93%E6%8C%A4%E7%88%86%2CAI%E7%9F%AD%E5%89%A7%E6%94%B6%E7%9B%8A%E4%B8%8D%E5%A4%9F%E7%94%B5%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 06时31分]"
+        },
+        {
+          "title": "和AI玩猜历史人物游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%8CAI%E7%8E%A9%E7%8C%9C%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            9,
+            8,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时34分]"
+          "time_info": "[01时40分 ~ 06时31分]"
         },
         {
           "title": "博主：美军早就开始用AI进行实战了",
@@ -153,28 +180,33 @@
           "time_info": "[00时38分 ~ 05时34分]"
         },
         {
-          "title": "赛道挤爆,AI短剧收益不够电费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353950&amp;topic_name=%E8%B5%9B%E9%81%93%E6%8C%A4%E7%88%86%2CAI%E7%9F%AD%E5%89%A7%E6%94%B6%E7%9B%8A%E4%B8%8D%E5%A4%9F%E7%94%B5%E8%B4%B9",
-          "source": "贴吧",
+          "title": "央视披露公司用AI替岗35岁主管详情",
+          "url": "https://www.toutiao.com/trending/7635183364001234963/",
+          "source": "今日头条",
           "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时34分]"
-        },
-        {
-          "title": "和AI玩猜历史人物游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%8CAI%E7%8E%A9%E7%8C%9C%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            9,
-            8
+            22,
+            23,
+            29,
+            18,
+            5
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时40分 ~ 05时34分]"
+          "time_info": "[00时38分 ~ 06时31分]"
+        },
+        {
+          "title": "湖南经视启用 AI 主播播新闻，这会成为一种趋势吗？你觉得 AI 主播怎么样？",
+          "url": "https://www.zhihu.com/question/2034308747380482937",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时44分 ~ 06时31分]"
         },
         {
           "title": "害怕被落下就盲目跟风、需求不大也要上？警惕算力招商内卷！",
@@ -189,33 +221,6 @@
           "time_info": "[00时38分 ~ 04时33分]"
         },
         {
-          "title": "湖南经视启用 AI 主播播新闻，这会成为一种趋势吗？你觉得 AI 主播怎么样？",
-          "url": "https://www.zhihu.com/question/2034308747380482937",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时44分 ~ 05时34分]"
-        },
-        {
-          "title": "央视披露公司用AI替岗35岁主管详情",
-          "url": "https://www.toutiao.com/trending/7635183364001234963/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            23,
-            29,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 04时33分]"
-        },
-        {
           "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
           "url": "https://wallstreetcn.com/articles/3771507",
           "source": "华尔街见闻",
@@ -224,8 +229,30 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时47分 ~ 05时34分]"
+          "appearance_count": 4,
+          "time_info": "[03时47分 ~ 06时31分]"
+        },
+        {
+          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
+          "url": "https://www.cls.cn/detail/2362279",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "如果 AI 演员真的可以普及，你最想看哪个老戏骨被 AI 化，又想看他们出演哪些影片呢？",
+          "url": "https://www.zhihu.com/question/2030620331904333198",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         }
       ]
     }
