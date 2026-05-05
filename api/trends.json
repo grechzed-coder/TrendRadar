@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T07:54:25.183003+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-05-05T09:56:08.468308+08:00",
+  "total_titles_processed": 764,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 07时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 09时56分]"
         },
         {
           "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
@@ -26,11 +27,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 07时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 09时56分]"
         },
         {
           "title": "时代少年团演唱会",
@@ -40,11 +42,12 @@
             18,
             17,
             11,
-            16
+            16,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时22分 ~ 07时54分]"
+          "appearance_count": 10,
+          "time_info": "[01时22分 ~ 09时56分]"
         },
         {
           "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
@@ -55,8 +58,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 07时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 09时56分]"
         },
         {
           "title": "美国豪赌AI,取代人类科学家",
@@ -66,8 +69,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 07时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 09时56分]"
         },
         {
           "title": "AI主播上电视,虚拟人抢饭碗?",
@@ -77,8 +80,34 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 07时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 09时56分]"
+        },
+        {
+          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
+          "url": "https://www.cls.cn/detail/2362279",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 09时56分]"
+        },
+        {
+          "title": "马上评｜AI替岗，还是“科技向善”吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33096788",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 09时56分]"
         },
         {
           "title": "杨紫送谢娜演唱会花篮",
@@ -96,29 +125,16 @@
           "time_info": "[01时23分 ~ 07时54分]"
         },
         {
-          "title": "马上评｜AI替岗，还是“科技向善”吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33096788",
-          "source": "澎湃新闻",
+          "title": "美光CEO：AI才刚开始，但内存已经不够了，今年DRAM与NAND需求或吞噬过半市场",
+          "url": "https://wallstreetcn.com/articles/3771542",
+          "source": "华尔街见闻",
           "ranks": [
             10,
-            11,
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时23分 ~ 07时54分]"
-        },
-        {
-          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
-          "url": "https://www.cls.cn/detail/2362279",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 07时54分]"
+          "time_info": "[03时15分 ~ 09时56分]"
         },
         {
           "title": "据纽约时报：美国白宫考虑在发布人工智能模型前对其进行审查。",
@@ -146,16 +162,15 @@
           "time_info": "[04时59分 ~ 07时54分]"
         },
         {
-          "title": "美光CEO：AI才刚开始，但内存已经不够了，今年DRAM与NAND需求或吞噬过半市场",
-          "url": "https://wallstreetcn.com/articles/3771542",
+          "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
+          "url": "https://wallstreetcn.com/articles/3771533",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 07时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 09时56分]"
         },
         {
           "title": "据华尔街日报：Anthropic与FIS正在开发一款人工智能代理，旨在帮助银行打击金融犯罪行为。",
@@ -168,17 +183,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 06时59分]"
-        },
-        {
-          "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
-          "url": "https://wallstreetcn.com/articles/3771533",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 07时54分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁格雷格·布罗克曼表示，他在OpenAI的持股目前价值接近300亿美元，使其成为持股规模较大的个人股东之一。",
@@ -198,7 +202,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -212,6 +216,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI首席执行官Sam Altman去年年底曾讨论将公司机器人及消费硬件部门分拆出去。将OpenAI机器人及消费硬件部门分拆出去的计划被否决。",
+          "url": "https://flash.jin10.com/detail/20260505090141713800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "Boehly：还没有发现AI造成软件之外的行业“疲软”。",
