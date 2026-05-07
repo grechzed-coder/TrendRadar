@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T05:55:57.493691+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2026-05-08T06:53:49.722010+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "“人工智能+”走向智能经济新形态",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 06时53分]"
         },
         {
           "title": "刘维去谢娜演唱会被指忘本",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 05时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 06时53分]"
         },
         {
           "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
@@ -41,6 +41,34 @@
           "time_info": "[00时13分 ~ 04时58分]"
         },
         {
+          "title": "A股总市值突破120万亿大关，创业板刷新逾10年新高，算力硬件再爆发，恒科指大涨3%，离岸人民币升破6.8",
+          "url": "https://wallstreetcn.com/articles/3771709",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 06时53分]"
+        },
+        {
+          "title": "演唱会卫生间配了卫生巾的明星",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%AB%E7%94%9F%E9%97%B4%E9%85%8D%E4%BA%86%E5%8D%AB%E7%94%9F%E5%B7%BE%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            25,
+            23,
+            20,
+            21,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 06时53分]"
+        },
+        {
           "title": "英伟达与IREN宣布达成战略合作，以加速部署高达5吉瓦的人工智能基础设施。",
           "url": "https://flash.jin10.com/detail/20260508043705146800",
           "source": "金十数据",
@@ -52,16 +80,15 @@
           "time_info": "04时58分"
         },
         {
-          "title": "A股总市值突破120万亿大关，创业板刷新逾10年新高，算力硬件再爆发，恒科指大涨3%，离岸人民币升破6.8",
-          "url": "https://wallstreetcn.com/articles/3771709",
-          "source": "华尔街见闻",
+          "title": "加码科技金融，中小银行盼AIC试点扩容",
+          "url": "https://wallstreetcn.com/livenews/3100243",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 05时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         },
         {
           "title": "【每日收评】创业板指涨超1%续创近11年新高，全市场连续两日超百股涨停，算力硬件卷土重来",
@@ -70,21 +97,6 @@
           "ranks": [
             12,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 05时55分]"
-        },
-        {
-          "title": "演唱会卫生间配了卫生巾的明星",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%AB%E7%94%9F%E9%97%B4%E9%85%8D%E4%BA%86%E5%8D%AB%E7%94%9F%E5%B7%BE%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            25,
-            23,
-            20,
-            21
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -111,8 +123,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时26分 ~ 05时55分]"
+          "appearance_count": 4,
+          "time_info": "[03时26分 ~ 06时53分]"
         },
         {
           "title": "三角洲如何忽悠AI送礼",
@@ -260,6 +272,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "谢娜首场演唱会半个内娱都来“捧场”",
+          "url": "https://www.toutiao.com/trending/7636726032120987702/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时53分"
         }
       ]
     }
