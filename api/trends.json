@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T17:09:19.934358+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2026-05-09T18:48:38.447331+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
@@ -33,6 +33,61 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时03分 ~ 09时59分]"
+        },
+        {
+          "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
+          "url": "https://wallstreetcn.com/articles/3771864",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 18时48分]"
+        },
+        {
+          "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
+          "url": "https://www.cls.cn/detail/2366653",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 18时48分]"
+        },
+        {
+          "title": "四部门：探索核电、氢能等能源以直连方式为算力设施供能，持续提升算力设施绿电占比",
+          "url": "https://wallstreetcn.com/articles/3771852",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时47分 ~ 18时48分]"
+        },
+        {
+          "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            9,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 18时48分]"
         },
         {
           "title": "市场消息：人工智能芯片制造商Cerebras据称计划在下周一提高首次公开募股的定价，预计首次公开募股定价区间为每股125至135美元。",
@@ -69,54 +124,27 @@
           "time_info": "09时59分"
         },
         {
-          "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
-          "url": "https://wallstreetcn.com/articles/3771864",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 17时09分]"
-        },
-        {
-          "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
-          "url": "https://www.cls.cn/detail/2366653",
+          "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
+          "url": "https://www.cls.cn/detail/2366780",
           "source": "财联社热门",
           "ranks": [
-            12,
-            6,
+            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 17时09分]"
+          "appearance_count": 3,
+          "time_info": "[15时44分 ~ 18时48分]"
         },
         {
-          "title": "工信部启动人工智能科技伦理审查与服务先导计划",
-          "url": "https://flash.jin10.com/detail/20260509162114709800",
-          "source": "金十数据",
+          "title": "报道：字节跳动计划将AI基础设施支出增加25%",
+          "url": "https://wallstreetcn.com/articles/3771900",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "四部门：探索核电、氢能等能源以直连方式为算力设施供能，持续提升算力设施绿电占比",
-          "url": "https://wallstreetcn.com/articles/3771852",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时47分 ~ 17时09分]"
+          "time_info": "18时48分"
         },
         {
           "title": "GAI新歌星梦MV",
@@ -171,18 +199,6 @@
           "time_info": "[07时47分 ~ 09时59分]"
         },
         {
-          "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
-          "url": "https://www.cls.cn/detail/2366780",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 17时09分]"
-        },
-        {
           "title": "周五（5月8日），美股人工智能（AI）赢家指数收涨3.46%，报393.07点，创收盘历史新高，本周累计上涨8.09%。 成分股Fluence能源收涨27.36%，Sandisk涨16.60%，美光科技涨15.49%，戴尔科技涨13.11%，AMD涨11.44%表现第六，安费诺则收跌6.29%表现倒数第二，CoreWeave跌11.40%。",
           "url": "https://wallstreetcn.com/livenews/3100960",
           "source": "华尔街见闻-快讯",
@@ -193,20 +209,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时47分 ~ 09时59分]"
-        },
-        {
-          "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            11,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 17时09分]"
         },
         {
           "title": "中共中央政治局会议指出，加强水网、新型电网、算力网、新一代通信网、物流网等规划建设，释放哪些信息？",
@@ -221,6 +223,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时46分 ~ 07时47分]"
+        },
+        {
+          "title": "工信部启动人工智能科技伦理审查与服务先导计划",
+          "url": "https://flash.jin10.com/detail/20260509162114709800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 18时48分]"
+        },
+        {
+          "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33120610",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 18时48分]"
         },
         {
           "title": "美联储报告：地缘政治风险、石油冲击、人工智能、私人信贷以及持续通胀/货币紧缩是威胁美国金融稳定的五大主要风险。",
@@ -247,6 +275,19 @@
           "time_info": "[04时46分 ~ 07时47分]"
         },
         {
+          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
+          "url": "https://www.cls.cn/detail/2366815",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时44分 ~ 18时48分]"
+        },
+        {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
           "url": "https://www.cls.cn/detail/2366733",
           "source": "财联社热门",
@@ -260,29 +301,40 @@
           "time_info": "[13时20分 ~ 17时09分]"
         },
         {
-          "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33120610",
-          "source": "澎湃新闻",
+          "title": "据悉字节跳动计划将AI基础设施支出增加25%",
+          "url": "https://flash.jin10.com/detail/20260509162004695800",
+          "source": "金十数据",
           "ranks": [
-            18,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 17时09分]"
-        },
-        {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
+            6,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时44分 ~ 17时09分]"
+          "time_info": "[17时09分 ~ 18时48分]"
+        },
+        {
+          "title": "工信部启动人工智能科技伦理审查与服务先导计划，加快推动审查工作落地实施",
+          "url": "https://wallstreetcn.com/livenews/3101030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 18时48分]"
+        },
+        {
+          "title": "字节跳动已将今年的AI基础设施支出计划增加25%至2,000亿元人民币。（南华早报）",
+          "url": "https://wallstreetcn.com/livenews/3101029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 18时48分]"
         },
         {
           "title": "Forward Air Corp.（FWRD）收跌43%，创1999年以来最差单日表现。",
@@ -321,37 +373,15 @@
           "time_info": "[04时46分 ~ 05时51分]"
         },
         {
-          "title": "据悉字节跳动计划将AI基础设施支出增加25%",
-          "url": "https://flash.jin10.com/detail/20260509162004695800",
-          "source": "金十数据",
+          "title": "谢娜演唱会在内娱算什么水平？",
+          "url": "https://www.zhihu.com/question/2035140896732215035",
+          "source": "知乎",
           "ranks": [
-            6
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "工信部启动人工智能科技伦理审查与服务先导计划，加快推动审查工作落地实施",
-          "url": "https://wallstreetcn.com/livenews/3101030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
-          "title": "字节跳动已将今年的AI基础设施支出计划增加25%至2,000亿元人民币。（南华早报）",
-          "url": "https://wallstreetcn.com/livenews/3101029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 18时48分]"
         },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -360,9 +390,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
+        },
+        {
+          "title": "协鑫能科：目前阶段公司算力相关收入占总营收比重较低",
+          "url": "https://flash.jin10.com/detail/20260509174509438800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "Anthropic PBC与Akamai签署18亿美元计算协议。Akamai涨幅迅速扩大至28%。",
@@ -387,17 +428,6 @@
           "time_info": "03时04分"
         },
         {
-          "title": "谢娜演唱会在内娱算什么水平？",
-          "url": "https://www.zhihu.com/question/2035140896732215035",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时09分"
-        },
-        {
           "title": "中信建投：AI算力与商业航天迎来产业加速期",
           "url": "https://flash.jin10.com/detail/20260509122338306800",
           "source": "金十数据",
@@ -407,6 +437,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "AI修复美国公布UFO照片",
@@ -426,7 +467,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时09分"
         },
