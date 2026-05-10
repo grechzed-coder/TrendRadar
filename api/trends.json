@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T03:53:43.269406+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2026-05-11T04:38:58.360288+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "国常会：加强水网、新型电网、算力网、新一代通信网、城市地下管网、物流网等规划建设",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "妈妈的AI在岁月里具象",
@@ -61,8 +61,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "GAI新歌太费口红",
@@ -75,8 +75,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -88,8 +88,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
@@ -99,8 +99,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
@@ -111,8 +111,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "乌克兰亚速旅称，该部队利用人工智能辅助无人机对俄控马里乌波尔纵深地区实施了打击，命中前线后方160公里处的目标。亚速旅表示，这是对该城的象征性“回归”。",
@@ -127,6 +127,18 @@
           "time_info": "[02时46分 ~ 03时53分]"
         },
         {
+          "title": "法拉第未来正式任命贾跃亭为全球唯一首席执行官，同时任命王佳伟为全球执行董事长；公司将于下周公布升级版转型计划，开启作为物理人工智能公司的新增长篇章。",
+          "url": "https://flash.jin10.com/detail/20260511030929783800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 04时38分]"
+        },
+        {
           "title": "AI正在污染我们的判断力",
           "url": "https://www.toutiao.com/trending/7638257796718267946/",
           "source": "今日头条",
@@ -137,6 +149,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时43分]"
+        },
+        {
+          "title": "时代少年团演唱会后台花絮",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8E%E5%8F%B0%E8%8A%B1%E7%B5%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 04时38分]"
         },
         {
           "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
@@ -162,17 +186,6 @@
           "time_info": "00时43分"
         },
         {
-          "title": "法拉第未来正式任命贾跃亭为全球唯一首席执行官，同时任命王佳伟为全球执行董事长；公司将于下周公布升级版转型计划，开启作为物理人工智能公司的新增长篇章。",
-          "url": "https://flash.jin10.com/detail/20260511030929783800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
           "title": "世界周刊谈美国AI暗钱网络",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E5%91%A8%E5%88%8A%E8%B0%88%E7%BE%8E%E5%9B%BDAI%E6%9A%97%E9%92%B1%E7%BD%91%E7%BB%9C",
           "source": "bilibili 热搜",
@@ -182,17 +195,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
-        },
-        {
-          "title": "时代少年团演唱会后台花絮",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8E%E5%8F%B0%E8%8A%B1%E7%B5%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时53分"
         }
       ]
     }
