@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T20:56:37.284309+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2026-05-10T22:17:58.820596+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时42分 ~ 20时56分]"
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 22时17分]"
         },
         {
           "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
@@ -68,8 +68,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时57分 ~ 20时56分]"
+          "appearance_count": 8,
+          "time_info": "[09时57分 ~ 22时17分]"
         },
         {
           "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
@@ -115,6 +115,19 @@
           "time_info": "[00时42分 ~ 09时57分]"
         },
         {
+          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
+          "url": "https://wallstreetcn.com/articles/3771913",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时33分 ~ 22时17分]"
+        },
+        {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
           "url": "https://www.cls.cn/detail/2366815",
           "source": "财联社热门",
@@ -126,19 +139,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时42分 ~ 17时25分]"
-        },
-        {
-          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
-          "url": "https://wallstreetcn.com/articles/3771913",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时33分 ~ 20时56分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -235,8 +235,24 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时57分 ~ 20时56分]"
+          "appearance_count": 6,
+          "time_info": "[15时57分 ~ 22时17分]"
+        },
+        {
+          "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
+          "url": "https://wallstreetcn.com/livenews/3101113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            13,
+            17,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时57分 ~ 22时17分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -276,19 +292,17 @@
           "time_info": "[03时51分 ~ 09时57分]"
         },
         {
-          "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
-          "url": "https://wallstreetcn.com/livenews/3101113",
-          "source": "华尔街见闻-快讯",
+          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
+          "url": "https://www.cls.cn/detail/2367107",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            8,
-            13,
-            17,
-            20
+            10,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时57分 ~ 20时56分]"
+          "time_info": "[17时25分 ~ 22时17分]"
         },
         {
           "title": "报道：阿里巴巴整合千问AI与淘宝，推出智能对话购物服务",
@@ -349,6 +363,31 @@
           "time_info": "[13时33分 ~ 19时42分]"
         },
         {
+          "title": "分析｜受AI热潮与大宗商品价格推动，4月进出口双双高增",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33143971",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 22时17分]"
+        },
+        {
+          "title": "除了算力，还能买什么？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2367265",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 22时17分]"
+        },
+        {
           "title": "【社论】一本正经胡说八道，谁为AI幻觉担责？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33138759",
           "source": "澎湃新闻",
@@ -363,29 +402,18 @@
           "time_info": "[07时38分 ~ 15时57分]"
         },
         {
-          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
-          "url": "https://www.cls.cn/detail/2367107",
-          "source": "财联社热门",
+          "title": "时代少年团演唱会后台花絮",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8E%E5%8F%B0%E8%8A%B1%E7%B5%AE",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时25分 ~ 20时56分]"
-        },
-        {
-          "title": "分析｜受AI热潮与大宗商品价格推动，4月进出口双双高增",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33143971",
-          "source": "澎湃新闻",
-          "ranks": [
+            11,
+            18,
             19,
-            20,
-            17
+            23
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时57分 ~ 20时56分]"
+          "time_info": "[18时55分 ~ 22时17分]"
         },
         {
           "title": "投诉演唱会座椅脏 游客遭文旅拉黑",
@@ -400,19 +428,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时51分 ~ 13时33分]"
-        },
-        {
-          "title": "时代少年团演唱会后台花絮",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8E%E5%8F%B0%E8%8A%B1%E7%B5%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时55分 ~ 20时56分]"
         },
         {
           "title": "英伟达全面布局AI生态 股权投资今年已超400亿美元",
@@ -438,6 +453,17 @@
           "time_info": "[13时33分 ~ 15时57分]"
         },
         {
+          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
+          "url": "https://wallstreetcn.com/articles/3771914",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 22时17分]"
+        },
+        {
           "title": "DeepSeek 被曝融资 500 亿美元，将对 AI 领域产生哪些影响？",
           "url": "https://www.zhihu.com/question/2035400318624733173",
           "source": "知乎",
@@ -450,17 +476,6 @@
           "time_info": "[18时55分 ~ 19时42分]"
         },
         {
-          "title": "除了算力，还能买什么？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2367265",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
           "title": "AI修复美国公布UFO照片",
           "url": "https://search.bilibili.com/all?keyword=AI%E4%BF%AE%E5%A4%8D%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B8%83UFO%E7%85%A7%E7%89%87",
           "source": "bilibili 热搜",
@@ -470,17 +485,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
-        },
-        {
-          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
-          "url": "https://wallstreetcn.com/articles/3771914",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
         },
         {
           "title": "如何理解「马斯克一边告 OpenAI，一边把算力租给 Claude」的操作？",
