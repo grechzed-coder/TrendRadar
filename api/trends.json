@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-12T00:25:42.189302+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-05-12T02:52:38.159795+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "市场消息：美国俄克拉何马州HF Sinclair炼油厂发生大火，现场浓烟滚滚。",
+          "url": "https://flash.jin10.com/detail/20260512024009408800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
         {
           "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
           "url": "https://www.cls.cn/detail/2367918",
@@ -23,44 +34,93 @@
           "url": "https://www.douyin.com/hot/2495756",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时52分]"
         },
         {
           "title": "时代少年团演唱会 青岛",
           "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%20%E9%9D%92%E5%B2%9B&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时52分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
           "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时52分]"
         },
         {
           "title": "AI时代如何评价各专业",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%90%84%E4%B8%93%E4%B8%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            18
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时52分]"
+        },
+        {
+          "title": "AI原创短片国产爱死机",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时52分]"
+        },
+        {
+          "title": "美国总统特朗普最快将于周一签署关于AI安全的命令。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3101803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时25分"
+          "time_info": "02时52分"
+        },
+        {
+          "title": "Bain & Co.投资OpenAI Deployment Company。",
+          "url": "https://wallstreetcn.com/livenews/3101802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "谷歌：首次发现黑客借助AI开发“零日”漏洞攻击工具",
+          "url": "https://wallstreetcn.com/livenews/3101797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
         },
         {
           "title": "CORTIS新歌ACAI的MV来了",
@@ -85,17 +145,6 @@
           "time_info": "00时25分"
         },
         {
-          "title": "AI原创短片国产爱死机",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
           "title": "AI会取代哪些职业？多个AI意见不统一",
           "url": "https://www.baidu.com/s?wd=AI%E4%BC%9A%E5%8F%96%E4%BB%A3%E5%93%AA%E4%BA%9B%E8%81%8C%E4%B8%9A%EF%BC%9F%E5%A4%9A%E4%B8%AAAI%E6%84%8F%E8%A7%81%E4%B8%8D%E7%BB%9F%E4%B8%80",
           "source": "百度热搜",
@@ -105,6 +154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "据华盛顿邮报：特朗普最早可能在周一签署一项关于人工智能安全的行政命令。",
+          "url": "https://flash.jin10.com/detail/20260512013750764800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
         },
         {
           "title": "Mosaic Co.（MOS）评估在美国的稀土机会。",
