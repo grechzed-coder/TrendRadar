@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T06:02:02.306968+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-05-12T07:48:31.229558+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "把AI用到了最有意义的场合",
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             5,
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 07时48分]"
         },
         {
           "title": "市场消息：美国俄克拉何马州HF Sinclair炼油厂发生大火，现场浓烟滚滚。",
@@ -49,11 +50,12 @@
             13,
             30,
             28,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 06时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 07时48分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -62,11 +64,12 @@
           "ranks": [
             15,
             18,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 06时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 07时48分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -79,8 +82,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 06时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 07时48分]"
         },
         {
           "title": "时代少年团演唱会 青岛",
@@ -89,11 +92,12 @@
           "ranks": [
             6,
             18,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 07时48分]"
         },
         {
           "title": "CORTIS新歌ACAI的MV来了",
@@ -136,7 +140,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -147,9 +151,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "OpenAI CEO Sam Altman：说到那些对我而言已经跨过某个临界点的东西，新版ChatGPT模型、个性风格以及个性化的组合，现在感觉已经像是一种全新的东西了。",
+          "url": "https://flash.jin10.com/detail/20260512065650611800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时48分"
         },
         {
           "title": "谷歌：首次发现黑客借助AI开发“零日”漏洞攻击工具",
