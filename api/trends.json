@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T18:29:43.807816+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-05-11T21:38:44.551461+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 42,
+      "match_count": 52,
       "titles": [
         {
           "title": "除了算力，还能买什么？十大券商策略来了",
@@ -66,11 +66,12 @@
             5,
             21,
             24,
-            30
+            30,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 18时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 21时38分]"
         },
         {
           "title": "GAI新歌太费口红",
@@ -83,11 +84,12 @@
             15,
             18,
             19,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 18时29分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 21时38分]"
         },
         {
           "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
@@ -138,6 +140,17 @@
           "time_info": "07时42分"
         },
         {
+          "title": "布鲁克菲尔德将投资5亿美元，与OpenAI建立战略合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3101686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33149635",
           "source": "澎湃新闻",
@@ -150,6 +163,42 @@
           "time_info": "[00时43分 ~ 05时39分]"
         },
         {
+          "title": "OpenAI将收购咨询公司以组建私募股权合资企业",
+          "url": "https://wallstreetcn.com/livenews/3101685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
+          "title": "感受赵露思演唱会美学冲击",
+          "url": "https://www.douyin.com/hot/2493798",
+          "source": "抖音",
+          "ranks": [
+            20,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 21时38分]"
+        },
+        {
+          "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
+          "url": "https://www.cls.cn/detail/2367918",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 21时38分]"
+        },
+        {
           "title": "论文严查AI使用率是否合理",
           "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
           "source": "bilibili 热搜",
@@ -160,18 +209,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时31分 ~ 18时29分]"
-        },
-        {
-          "title": "感受赵露思演唱会美学冲击",
-          "url": "https://www.douyin.com/hot/2493798",
-          "source": "抖音",
-          "ranks": [
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 14时31分]"
         },
         {
           "title": "法拉第未来正式任命贾跃亭为全球唯一首席执行官，同时任命王佳伟为全球执行董事长；公司将于下周公布升级版转型计划，开启作为物理人工智能公司的新增长篇章。",
@@ -198,6 +235,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时43分 ~ 07时42分]"
+        },
+        {
+          "title": "AI原创短片国产爱死机",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 21时38分]"
         },
         {
           "title": "乌克兰亚速旅称，该部队利用人工智能辅助无人机对俄控马里乌波尔纵深地区实施了打击，命中前线后方160公里处的目标。亚速旅表示，这是对该城的象征性“回归”。",
@@ -236,18 +286,6 @@
           "time_info": "[00时43分 ~ 10时08分]"
         },
         {
-          "title": "AI原创短片国产爱死机",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 18时29分]"
-        },
-        {
           "title": "时代少年团演唱会后台花絮",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8E%E5%8F%B0%E8%8A%B1%E7%B5%AE",
           "source": "bilibili 热搜",
@@ -283,15 +321,15 @@
           "time_info": "14时31分"
         },
         {
-          "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
-          "url": "https://www.cls.cn/detail/2367918",
-          "source": "财联社热门",
+          "title": "OpenAI：启动OpenAI部署公司；该部署公司帮助企业构建人工智能。",
+          "url": "https://flash.jin10.com/detail/20260511211207553800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时29分"
+          "time_info": "21时38分"
         },
         {
           "title": "加速渗透！宠物AI手机交付订单达数万台 距离真正“人宠互通”还有多远",
@@ -300,7 +338,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -355,7 +393,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -393,6 +431,17 @@
           "time_info": "06时37分"
         },
         {
+          "title": "工信部：把握人工智能发展重大机遇，带领企业向智能化、绿色化、融合化升级跃迁",
+          "url": "https://wallstreetcn.com/livenews/3101668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "阿里或将整合千问与淘宝，打造 AI 对话式购物，你会把购物交给 AI 吗？",
           "url": "https://www.zhihu.com/question/2037110129963661155",
           "source": "知乎",
@@ -402,6 +451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
+        },
+        {
+          "title": "AI会取代哪些职业？多个AI意见不统一",
+          "url": "https://www.baidu.com/s?wd=AI%E4%BC%9A%E5%8F%96%E4%BB%A3%E5%93%AA%E4%BA%9B%E8%81%8C%E4%B8%9A%EF%BC%9F%E5%A4%9A%E4%B8%AAAI%E6%84%8F%E8%A7%81%E4%B8%8D%E7%BB%9F%E4%B8%80",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "Jefferies：中国AI、苹果及特斯拉供应链二季度有望获正贝塔收益",
@@ -415,6 +475,17 @@
           "time_info": "10时08分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：股市表现良好是因为盈利超出预期。 微观经济层面通胀正在下降。 过去六个月核心通胀率平均为2.6%。 高能源价格非常不可能导致美国经济衰退。 特朗普将决定是否需要新的人工智能行政命令。 不想让一个庞大的新官僚机构来审批人工智能。",
+          "url": "https://wallstreetcn.com/livenews/3101666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "OpenAI允许员工出售价值至多3000万美元的股票。去年10月，超过600名OpenAI员工出售了股票，总共获利66亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3101246",
           "source": "华尔街见闻-快讯",
@@ -426,13 +497,24 @@
           "time_info": "10时08分"
         },
         {
+          "title": "今年新能源汽车零部件领域有无新客户？隆源股份业绩说明会回应：洽谈中",
+          "url": "https://wallstreetcn.com/livenews/3101665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "群智咨询：预计2027年AI服务器内存需求将占DRAM市场容量近50%",
           "url": "https://flash.jin10.com/detail/20260511180041376800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -459,6 +541,17 @@
           "time_info": "14时31分"
         },
         {
+          "title": "AI正把韩国推成全球最疯狂牛市",
+          "url": "https://www.toutiao.com/trending/7638535831472311827/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "4月我国新能源汽车产销及出口均实现稳定增长",
           "url": "https://flash.jin10.com/detail/20260511140045106800",
           "source": "金十数据",
@@ -470,15 +563,37 @@
           "time_info": "14时31分"
         },
         {
+          "title": "OpenAI将与TPG和Brookfield合作成立新合资企业，推动人工智能应用。",
+          "url": "https://flash.jin10.com/detail/20260511210031661800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
+        },
+        {
           "title": "国务院办公厅：完善人工智能治理，加快推进人工智能健康发展综合性立法",
           "url": "https://wallstreetcn.com/livenews/3101515",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
+        },
+        {
+          "title": "OpenAI将收购咨询公司TOMORO以成立私募股权合资企业。",
+          "url": "https://flash.jin10.com/detail/20260511210017337800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时38分"
         },
         {
           "title": "AI 掠夺水资源",
