@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T19:13:31.884045+08:00",
-  "total_titles_processed": 1293,
+  "generated_at": "2026-05-12T22:36:30.969118+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "把AI用到了最有意义的场合",
@@ -34,8 +34,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 19时13分]"
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 22时36分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -47,11 +47,12 @@
             16,
             15,
             12,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 19时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 22时36分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -63,11 +64,12 @@
             28,
             23,
             21,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 19时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 22时36分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -85,6 +87,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时25分 ~ 19时13分]"
+        },
+        {
+          "title": "AI巨头面临严峻的“芯片通货膨胀”",
+          "url": "https://www.toutiao.com/trending/7638919710259547689/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "市场消息：美国俄克拉何马州HF Sinclair炼油厂发生大火，现场浓烟滚滚。",
@@ -107,6 +120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "白鹿演唱会过审",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%BC%94%E5%94%B1%E4%BC%9A%E8%BF%87%E5%AE%A1%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
@@ -149,6 +173,20 @@
           "time_info": "[00时25分 ~ 07时48分]"
         },
         {
+          "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时59分 ~ 22时36分]"
+        },
+        {
           "title": "国产AI爱死机到底怎么做出来的",
           "url": "https://www.douyin.com/hot/2495617",
           "source": "抖音",
@@ -159,19 +197,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时58分 ~ 16时37分]"
-        },
-        {
-          "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时59分 ~ 19时13分]"
         },
         {
           "title": "CORTIS新歌ACAI的MV来了",
