@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T16:37:13.096271+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2026-05-12T19:13:31.884045+08:00",
+  "total_titles_processed": 1293,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             2,
             1,
             6,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 16时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 19时13分]"
         },
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
@@ -33,8 +34,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时04分 ~ 16时37分]"
+          "appearance_count": 4,
+          "time_info": "[10时04分 ~ 19时13分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -49,8 +50,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 16时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 19时13分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -61,11 +62,12 @@
             30,
             28,
             23,
-            21
+            21,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 16时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 19时13分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -77,11 +79,12 @@
             25,
             24,
             20,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 16时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 19时13分]"
         },
         {
           "title": "市场消息：美国俄克拉何马州HF Sinclair炼油厂发生大火，现场浓烟滚滚。",
@@ -104,6 +107,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
+          "url": "https://www.cls.cn/detail/2368705",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 19时13分]"
+        },
+        {
+          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
+          "url": "https://www.zhihu.com/question/2037128887558207003",
+          "source": "知乎",
+          "ranks": [
+            10,
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 19时13分]"
         },
         {
           "title": "时代少年团演唱会 青岛",
@@ -132,40 +161,17 @@
           "time_info": "[13时58分 ~ 16时37分]"
         },
         {
-          "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
-          "url": "https://www.cls.cn/detail/2368705",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 16时37分]"
-        },
-        {
-          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
-          "url": "https://www.zhihu.com/question/2037128887558207003",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 16时37分]"
-        },
-        {
           "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
           "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
           "source": "澎湃新闻",
           "ranks": [
             16,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 16时37分]"
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 19时13分]"
         },
         {
           "title": "CORTIS新歌ACAI的MV来了",
@@ -230,7 +236,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -329,7 +335,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
