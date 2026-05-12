@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T07:48:31.229558+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-05-12T10:04:40.611041+08:00",
+  "total_titles_processed": 787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "把AI用到了最有意义的场合",
@@ -14,11 +14,27 @@
           "ranks": [
             5,
             7,
-            2
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 10时04分]"
+        },
+        {
+          "title": "AI原创短片国产爱死机",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            17,
+            16,
+            15,
+            12
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时25分 ~ 07时48分]"
+          "time_info": "[00时25分 ~ 10时04分]"
         },
         {
           "title": "市场消息：美国俄克拉何马州HF Sinclair炼油厂发生大火，现场浓烟滚滚。",
@@ -30,6 +46,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
+          "url": "https://wallstreetcn.com/articles/3772036",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
           "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
@@ -72,20 +99,6 @@
           "time_info": "[00时25分 ~ 07时48分]"
         },
         {
-          "title": "AI原创短片国产爱死机",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            17,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 07时48分]"
-        },
-        {
           "title": "时代少年团演唱会 青岛",
           "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%20%E9%9D%92%E5%B2%9B&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -110,6 +123,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 04时27分]"
+        },
+        {
+          "title": "差点死掉的玻璃厂凭什么成AI的神经",
+          "url": "https://www.toutiao.com/trending/7638646924790205990/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
           "title": "美国总统特朗普最快将于周一签署关于AI安全的命令。（华盛顿邮报）",
@@ -145,6 +169,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "日本财务大臣片山皋月：意识到 Mythos 及其他先进AI可能构成重大威胁。",
+          "url": "https://wallstreetcn.com/livenews/3101938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
           "title": "OpenAI：推出面向网络防御人员的前沿人工智能Daybreak。Daybreak整合了OpenAI最强大的模型、Codex以及我们的安全合作伙伴，以加速网络防御并持续保障软件安全。",
           "url": "https://flash.jin10.com/detail/20260512044813399800",
           "source": "金十数据",
@@ -162,7 +197,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -189,6 +224,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "日本财务大臣片山皋月：与美国财长贝森特举行了会谈，讨论了包括汇率在内的市场情况，还讨论了人工智能和关键矿产问题。",
+          "url": "https://wallstreetcn.com/livenews/3101935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
           "title": "AI正把韩国推成全球最疯狂牛市",
           "url": "https://www.toutiao.com/trending/7638535831472311827/",
           "source": "今日头条",
@@ -209,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "韩国政策高层提议以AI产业的超额利润向全体国民发放“公民红利”",
+          "url": "https://wallstreetcn.com/livenews/3101924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
           "title": "据华盛顿邮报：特朗普最早可能在周一签署一项关于人工智能安全的行政命令。",
