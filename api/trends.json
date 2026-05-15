@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T01:24:25.714657+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-16T03:17:37.053570+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI全员娘化,豆包变呆瓜",
@@ -15,19 +15,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
         },
         {
           "title": "赵露思演唱会曼谷站幕后",
           "url": "https://search.bilibili.com/all?keyword=%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9B%BC%E8%B0%B7%E7%AB%99%E5%B9%95%E5%90%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
         },
         {
           "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
@@ -37,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
         },
         {
           "title": "如果黄仁勋愿意，凭借英伟达目前造算力卡的技术，最高可以造出什么水平的游戏显卡？",
@@ -48,8 +49,43 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
+        },
+        {
+          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
+          "url": "https://www.zhihu.com/question/2035685308566610183",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
+        },
+        {
+          "title": "球迷帮孙颖莎在周杰伦演唱会点歌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%90%83%E8%BF%B7%E5%B8%AE%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9C%A8%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E7%82%B9%E6%AD%8C%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时17分]"
+        },
+        {
+          "title": "云南小伙用AI制作短片爆红",
+          "url": "https://www.douyin.com/hot/2499805",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "03时17分"
         },
         {
           "title": "OpenAI联手Plaid，为大众提供量身定制的财务咨询",
@@ -57,17 +93,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
-          "url": "https://www.zhihu.com/question/2035685308566610183",
-          "source": "知乎",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -96,15 +121,15 @@
           "time_info": "01时24分"
         },
         {
-          "title": "球迷帮孙颖莎在周杰伦演唱会点歌",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%90%83%E8%BF%B7%E5%B8%AE%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9C%A8%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E7%82%B9%E6%AD%8C%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
+          "title": "市场消息：OpenAI告知员工将启动重组，整合全线业务产品。",
+          "url": "https://flash.jin10.com/detail/20260516014944429800",
+          "source": "金十数据",
           "ranks": [
-            26
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "03时17分"
         }
       ]
     }
