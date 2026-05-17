@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T14:14:27.336611+08:00",
-  "total_titles_processed": 739,
+  "generated_at": "2026-05-17T16:58:37.347373+08:00",
+  "total_titles_processed": 860,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 14时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 16时58分]"
         },
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -42,8 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 14时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 16时58分]"
         },
         {
           "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
@@ -65,11 +65,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 14时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 16时58分]"
         },
         {
           "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
@@ -86,17 +87,6 @@
           "time_info": "[00时46分 ~ 10时04分]"
         },
         {
-          "title": "桥头断裂人群四散奔逃？男子用AI恶意造谣“张家界玻璃桥坍塌”被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33183822",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时42分]"
-        },
-        {
           "title": "陈楚生广州演唱会",
           "url": "https://www.douyin.com/hot/2501296",
           "source": "抖音",
@@ -106,11 +96,23 @@
             20,
             22,
             27,
-            26
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时47分 ~ 16时58分]"
+        },
+        {
+          "title": "桥头断裂人群四散奔逃？男子用AI恶意造谣“张家界玻璃桥坍塌”被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33183822",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[01时47分 ~ 14时14分]"
+          "time_info": "[00时46分 ~ 07时42分]"
         },
         {
           "title": "单依纯大连演唱会上座率",
@@ -129,6 +131,18 @@
           "time_info": "[00时46分 ~ 06时37分]"
         },
         {
+          "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
+          "url": "https://www.cls.cn/detail/2373269",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时14分 ~ 16时58分]"
+        },
+        {
           "title": "朱孝天回应F4演唱会掀桌事件",
           "url": "https://www.douyin.com/hot/2501578",
           "source": "抖音",
@@ -144,15 +158,15 @@
           "time_info": "[01时47分 ~ 07时42分]"
         },
         {
-          "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
-          "url": "https://www.cls.cn/detail/2373269",
-          "source": "财联社热门",
+          "title": "吴彦祖带女儿追星看演唱会",
+          "url": "https://search.bilibili.com/all?keyword=%E5%90%B4%E5%BD%A6%E7%A5%96%E5%B8%A6%E5%A5%B3%E5%84%BF%E8%BF%BD%E6%98%9F%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时14分"
+          "time_info": "16时58分"
         },
         {
           "title": "算力版国家电网要来了",
@@ -181,6 +195,29 @@
           "time_info": "[00时46分 ~ 14时14分]"
         },
         {
+          "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
+          "url": "https://wallstreetcn.com/articles/3772431",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时14分 ~ 16时58分]"
+        },
+        {
+          "title": "算力网要来了！",
+          "url": "https://wallstreetcn.com/articles/3772436",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
           "title": "中国汽车专利公开量领跑全球 我国新能源汽车专利突破11万件",
           "url": "https://flash.jin10.com/detail/20260517084050281800",
           "source": "金十数据",
@@ -203,15 +240,26 @@
           "time_info": "00时46分"
         },
         {
-          "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
-          "url": "https://wallstreetcn.com/articles/3772431",
+          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
+          "url": "https://wallstreetcn.com/articles/3772446",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时14分"
+          "time_info": "16时58分"
+        },
+        {
+          "title": "中信证券：今年的AI+能化或与2025年的AI+资源类似",
+          "url": "https://flash.jin10.com/detail/20260517152451542800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "分析师：债市抛售潮来袭，AI股票狂热或遭冲击",
