@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T07:42:23.019520+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-05-17T10:04:30.712396+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 10时04分]"
         },
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -36,11 +36,12 @@
           "url": "https://www.cls.cn/detail/2373036",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 10时04分]"
         },
         {
           "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
@@ -48,22 +49,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时42分]"
-        },
-        {
-          "title": "桥头断裂人群四散奔逃？男子用AI恶意造谣“张家界玻璃桥坍塌”被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33183822",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 10时04分]"
         },
         {
           "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
@@ -72,11 +63,12 @@
           "ranks": [
             17,
             22,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 10时04分]"
         },
         {
           "title": "AI全员娘化,豆包变呆瓜",
@@ -84,6 +76,17 @@
           "source": "贴吧",
           "ranks": [
             20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 10时04分]"
+        },
+        {
+          "title": "桥头断裂人群四散奔逃？男子用AI恶意造谣“张家界玻璃桥坍塌”被刑拘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33183822",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -106,6 +109,22 @@
           "time_info": "[00时46分 ~ 06时37分]"
         },
         {
+          "title": "陈楚生广州演唱会",
+          "url": "https://www.douyin.com/hot/2501296",
+          "source": "抖音",
+          "ranks": [
+            28,
+            29,
+            20,
+            22,
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时47分 ~ 10时04分]"
+        },
+        {
           "title": "朱孝天回应F4演唱会掀桌事件",
           "url": "https://www.douyin.com/hot/2501578",
           "source": "抖音",
@@ -121,30 +140,16 @@
           "time_info": "[01时47分 ~ 07时42分]"
         },
         {
-          "title": "陈楚生广州演唱会",
-          "url": "https://www.douyin.com/hot/2501296",
-          "source": "抖音",
-          "ranks": [
-            28,
-            29,
-            20,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 06时37分]"
-        },
-        {
           "title": "这一次，真的不一样！野村：拥抱AI新常态，三星、海力士估值应参考台积电",
           "url": "https://wallstreetcn.com/articles/3772426",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 07时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 10时04分]"
         },
         {
           "title": "算力版国家电网要来了",
@@ -157,6 +162,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 07时42分]"
+        },
+        {
+          "title": "中国汽车专利公开量领跑全球 我国新能源汽车专利突破11万件",
+          "url": "https://flash.jin10.com/detail/20260517084050281800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
           "title": "美军AIM-260空空导弹首次亮相",
