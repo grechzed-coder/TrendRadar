@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T04:01:40.893904+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-05-18T05:45:38.670761+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
@@ -8,27 +8,16 @@
       "match_count": 12,
       "titles": [
         {
-          "title": "以色列交通部表示，以色列官员在阿布扎比会见了阿布扎比港口集团（AD Ports）和阿联酋铁路公司（Etihad Rail）的CEO，就促进港口、物流和铁路领域的合作进行了讨论。",
-          "url": "https://wallstreetcn.com/livenews/3104897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 04时01分]"
-        },
-        {
           "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
           "url": "https://www.cls.cn/detail/2373269",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 05时45分]"
         },
         {
           "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
@@ -38,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 05时45分]"
         },
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -49,8 +38,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 05时45分]"
+        },
+        {
+          "title": "以色列交通部表示，以色列官员在阿布扎比会见了阿布扎比港口集团（AD Ports）和阿联酋铁路公司（Etihad Rail）的CEO，就促进港口、物流和铁路领域的合作进行了讨论。",
+          "url": "https://wallstreetcn.com/livenews/3104897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 05时45分]"
         },
         {
           "title": "算力网要来了！",
@@ -60,8 +62,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 05时45分]"
         },
         {
           "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
@@ -71,19 +73,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 05时45分]"
         },
         {
           "title": "Token工厂落地无锡 依托华为昇腾384集群 算力进入“智能单元计费”时代",
           "url": "https://www.cls.cn/detail/2373394",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 05时45分]"
         },
         {
           "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
@@ -91,11 +94,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 05时45分]"
         },
         {
           "title": "博主：中国AI算力产业链正在全面腾飞",
@@ -107,8 +111,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 05时45分]"
         },
         {
           "title": "AI全员娘化,豆包变呆瓜",
@@ -118,8 +122,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 05时45分]"
         },
         {
           "title": "十个勤天演唱会",
