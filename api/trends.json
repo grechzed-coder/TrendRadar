@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T07:49:46.829498+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-05-18T10:16:44.081875+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
@@ -16,19 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 10时16分]"
         },
         {
           "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
           "url": "https://news.ifeng.com/c/8tCYxqxYOCE",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 10时16分]"
         },
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -41,6 +42,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时46分 ~ 07时49分]"
+        },
+        {
+          "title": "Token工厂落地无锡 依托华为昇腾384集群 算力进入“智能单元计费”时代",
+          "url": "https://www.cls.cn/detail/2373394",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 10时16分]"
+        },
+        {
+          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
+          "url": "https://wallstreetcn.com/articles/3772446",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 10时16分]"
         },
         {
           "title": "以色列交通部表示，以色列官员在阿布扎比会见了阿布扎比港口集团（AD Ports）和阿联酋铁路公司（Etihad Rail）的CEO，就促进港口、物流和铁路领域的合作进行了讨论。",
@@ -57,45 +82,22 @@
           "time_info": "[00时46分 ~ 06时44分]"
         },
         {
-          "title": "算力网要来了！",
-          "url": "https://wallstreetcn.com/articles/3772436",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 07时49分]"
-        },
-        {
-          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
-          "url": "https://wallstreetcn.com/articles/3772446",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 07时49分]"
-        },
-        {
-          "title": "Token工厂落地无锡 依托华为昇腾384集群 算力进入“智能单元计费”时代",
-          "url": "https://www.cls.cn/detail/2373394",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 07时49分]"
-        },
-        {
           "title": "AI全员娘化,豆包变呆瓜",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
           "source": "贴吧",
           "ranks": [
             25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 10时16分]"
+        },
+        {
+          "title": "算力网要来了！",
+          "url": "https://wallstreetcn.com/articles/3772436",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -122,7 +124,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -158,7 +160,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -169,9 +171,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "周深演唱会问苏州为什么没有机场",
+          "url": "https://www.toutiao.com/trending/7639637063389724708/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时16分"
         },
         {
           "title": "AI预测世界杯西班牙夺冠",
@@ -180,7 +193,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -194,6 +207,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "A股算力概念股开盘活跃，弘信电子20cm涨停，思特奇涨超15%，平治信息、东方国信、立昂技术、行云科技涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3105005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时16分"
         }
       ]
     }
