@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T14:46:10.751370+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-05-18T18:59:16.992501+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 24,
+      "match_count": 34,
       "titles": [
         {
           "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
@@ -105,6 +105,18 @@
           "time_info": "[00时46分 ~ 07时49分]"
         },
         {
+          "title": "不光存储！光通信成AI交易热门主题 标普500今年十大牛股占三席",
+          "url": "https://www.cls.cn/detail/2373700",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 18时59分]"
+        },
+        {
           "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
           "url": "https://wallstreetcn.com/livenews/3104889",
           "source": "华尔街见闻-快讯",
@@ -130,15 +142,26 @@
           "time_info": "07时49分"
         },
         {
-          "title": "不光存储！光通信成AI交易热门主题 标普500今年十大牛股占三席",
-          "url": "https://www.cls.cn/detail/2373700",
-          "source": "财联社热门",
+          "title": "AI恶意P图白嫖,卖家哭晕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354385&amp;topic_name=AI%E6%81%B6%E6%84%8FP%E5%9B%BE%E7%99%BD%E5%AB%96%2C%E5%8D%96%E5%AE%B6%E5%93%AD%E6%99%95",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
+          "title": "【伊朗主要原油出口枢纽哈尔克岛油轮积压 创美军实施封锁以来的峰值】据报道，大约23艘油轮目前聚集在伊朗主要原油出口枢纽附近，这是自一个月前美国海军开始封锁伊朗港口、拦截并扣押船只以来，哈尔克岛周边出现的最大规模油轮集结。5月16日卫星图像显示，这些运输船停泊在哈尔克岛附近锚地，或靠泊于液化石油气装载码头。相关情况也得到专注于伊朗问题的美国非营利政策咨询机构United Against Nuclear Iran (简称UANI)的分析确认。相比之下，4月13日，也就是美国军舰开始在阿曼湾集结、对船只进行检查和拦截之前，当地仅有4艘油轮。“越来越多船只聚集在该岛周边锚地，显示伊朗原油和石油出口体系中的延误与瓶颈正在加剧，”UANI顾问Charlie Brown表示。",
+          "url": "https://wallstreetcn.com/livenews/3105359",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时46分"
+          "time_info": "18时59分"
         },
         {
           "title": "博主：中国AI算力产业链正在全面腾飞",
@@ -178,13 +201,24 @@
           "time_info": "[01时50分 ~ 02时54分]"
         },
         {
+          "title": "用AI记录早餐奶奶的一生",
+          "url": "https://www.douyin.com/hot/2503064",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时58分 ~ 18时59分]"
+        },
+        {
           "title": "诺贝尔经济学奖得主迈克尔・斯宾塞：AI有望提升劳动生产率，给全球经济带来积极影响",
           "url": "https://wallstreetcn.com/livenews/3105159",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         },
@@ -195,9 +229,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
+        },
+        {
+          "title": "索辰科技：公司物理AI业务目前尚处于布局初期。物理AI技术研发投入大、技术迭代快，存在研发进度不及预期、核心技术迭代风险；同时下游行业应用场景拓展、商业化变现存在不确定性，若市场需求、行业政策、技术竞争格局发生不利变化，物理AI业务收入及盈利贡献存在不及预期风险。",
+          "url": "https://wallstreetcn.com/livenews/3105355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
+          "title": "丁薛祥在调研算力网建设时强调 加快构建全国一体化算力网 赋能经济社会高质量发展",
+          "url": "https://wallstreetcn.com/livenews/3105353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
+          "title": "AI一天 地上一年",
+          "url": "https://s.weibo.com/weibo?q=AI%E4%B8%80%E5%A4%A9%20%E5%9C%B0%E4%B8%8A%E4%B8%80%E5%B9%B4&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "国泰海通：算力期货催化新叙事 行业长期扩容逻辑仍在延续",
@@ -211,6 +278,17 @@
           "time_info": "07时49分"
         },
         {
+          "title": "【焦点复盘】科创50冲高回落涨0.81%，近端次新股获资金持续抱团，物理AI概念异军突起",
+          "url": "https://www.cls.cn/detail/2374303",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "AI高景气与盈利持续兑现，机构：资金或往科技方向进一步集中",
           "url": "https://wallstreetcn.com/livenews/3104924",
           "source": "华尔街见闻-快讯",
@@ -222,15 +300,37 @@
           "time_info": "07时49分"
         },
         {
+          "title": "丁薛祥在调研算力网建设时强调 要扎实做好国内能源保供稳价工作",
+          "url": "https://flash.jin10.com/detail/20260518183336557800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "中国人民银行原副行长朱民：需要形成适当的政策来引领AI使用",
           "url": "https://flash.jin10.com/detail/20260518142251596800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
+        },
+        {
+          "title": "丁薛祥在调研算力网建设时强调 加快构建全国一体化算力网 赋能经济社会高质量发展",
+          "url": "https://flash.jin10.com/detail/20260518183149381800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "AI预测世界杯西班牙夺冠",
@@ -250,7 +350,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         },
@@ -283,9 +383,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
+        },
+        {
+          "title": "美媒：特朗普盟友敦促其在AI模型发布前进行测试和审查",
+          "url": "https://flash.jin10.com/detail/20260518182739773800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         }
       ]
     }
