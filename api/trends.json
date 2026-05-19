@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T18:33:05.526385+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-05-19T21:51:05.628211+08:00",
+  "total_titles_processed": 1341,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 51,
+      "match_count": 57,
       "titles": [
         {
           "title": "英伟达周三财报夜：决定AI牛市命运的一战来了！",
@@ -38,11 +38,12 @@
             2,
             4,
             12,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时26分 ~ 18时33分]"
+          "appearance_count": 9,
+          "time_info": "[01时26分 ~ 21时51分]"
         },
         {
           "title": "丁薛祥：算力是国家综合国力的重要体现，要统筹布局、有序建设",
@@ -54,6 +55,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时26分 ~ 07时57分]"
+        },
+        {
+          "title": "外交部：中美同意开展人工智能政府间对话",
+          "url": "https://www.cls.cn/detail/2375378",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 21时51分]"
+        },
+        {
+          "title": "AI抢爆CPU产能！英特尔被传敦促PC厂商转用18A高端芯片",
+          "url": "https://www.cls.cn/detail/2375439",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 21时51分]"
         },
         {
           "title": "中专生花10天手搓AI短片火遍全网",
@@ -78,37 +103,40 @@
           "time_info": "05时03分"
         },
         {
-          "title": "中专生花10天手搓AI短片火遍全网",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%93%E7%94%9F%E8%8A%B110%E5%A4%A9%E6%89%8B%E6%90%93AI%E7%9F%AD%E7%89%87%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "外交部：中美同意开展人工智能政府间对话",
-          "url": "https://www.cls.cn/detail/2375378",
-          "source": "财联社热门",
+          "title": "中美同意开展人工智能政府间对话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
+          "source": "bilibili 热搜",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时33分"
+          "time_info": "21时51分"
         },
         {
-          "title": "AI抢爆CPU产能！英特尔被传敦促PC厂商转用18A高端芯片",
-          "url": "https://www.cls.cn/detail/2375439",
-          "source": "财联社热门",
+          "title": "中专生花10天手搓AI短片火遍全网",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%93%E7%94%9F%E8%8A%B110%E5%A4%A9%E6%89%8B%E6%90%93AI%E7%9F%AD%E7%89%87%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91",
+          "source": "百度热搜",
           "ranks": [
-            5
+            2,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 21时51分]"
+        },
+        {
+          "title": "赢!米哈游携千亿进军AI行业",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354404&amp;topic_name=%E8%B5%A2%21%E7%B1%B3%E5%93%88%E6%B8%B8%E6%90%BA%E5%8D%83%E4%BA%BF%E8%BF%9B%E5%86%9BAI%E8%A1%8C%E4%B8%9A",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时41分 ~ 21时51分]"
         },
         {
           "title": "九大看点梳理！谷歌I/O大会前瞻：“AI全栈霸主”能否再度惊艳华尔街？",
@@ -117,18 +145,6 @@
           "ranks": [
             10,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 18时33分]"
-        },
-        {
-          "title": "赢!米哈游携千亿进军AI行业",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354404&amp;topic_name=%E8%B5%A2%21%E7%B1%B3%E5%93%88%E6%B8%B8%E6%90%BA%E5%8D%83%E4%BA%BF%E8%BF%9B%E5%86%9BAI%E8%A1%8C%E4%B8%9A",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            9
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -156,8 +172,21 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 21时51分]"
+        },
+        {
+          "title": "莫奈钓出嘉豪哥,真迹变AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354399&amp;topic_name=%E8%8E%AB%E5%A5%88%E9%92%93%E5%87%BA%E5%98%89%E8%B1%AA%E5%93%A5%2C%E7%9C%9F%E8%BF%B9%E5%8F%98AI",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            12,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时35分 ~ 18时33分]"
+          "time_info": "[14时41分 ~ 21时51分]"
         },
         {
           "title": "AI自动驾驶赛车有搞头吗",
@@ -186,16 +215,40 @@
           "time_info": "[01时26分 ~ 05时03分]"
         },
         {
-          "title": "莫奈钓出嘉豪哥,真迹变AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354399&amp;topic_name=%E8%8E%AB%E5%A5%88%E9%92%93%E5%87%BA%E5%98%89%E8%B1%AA%E5%93%A5%2C%E7%9C%9F%E8%BF%B9%E5%8F%98AI",
-          "source": "贴吧",
+          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
+          "url": "https://wallstreetcn.com/articles/3772582",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            12
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时41分 ~ 18时33分]"
+          "time_info": "[18时33分 ~ 21时51分]"
+        },
+        {
+          "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
+          "url": "https://www.zhihu.com/question/2039715538398663059",
+          "source": "知乎",
+          "ranks": [
+            17,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 21时51分]"
+        },
+        {
+          "title": "【焦点复盘】沪指企稳反弹涨近1%，物理AI概念活跃不减，Token经济产业链热度扩散",
+          "url": "https://www.cls.cn/detail/2375531",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 21时51分]"
         },
         {
           "title": "戴尔AI服务器新增1,000家客户，全力进军企业级用户市场",
@@ -222,6 +275,17 @@
           "time_info": "[07时57分 ~ 10时35分]"
         },
         {
+          "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33198546",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 21时51分]"
+        },
+        {
           "title": "用AI记录早餐奶奶的一生",
           "url": "https://www.douyin.com/hot/2503064",
           "source": "抖音",
@@ -245,6 +309,17 @@
           "time_info": "03时25分"
         },
         {
+          "title": "微软(MSFT.O)推出新款Surface设备，专注于商业和人工智能提升。新设备搭载英特尔处理器。",
+          "url": "https://flash.jin10.com/detail/20260519212220088800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
           "title": "戴尔：人工智能解决方案将持续提供至2026年。",
           "url": "https://flash.jin10.com/detail/20260519010958023800",
           "source": "金十数据",
@@ -256,15 +331,15 @@
           "time_info": "01时26分"
         },
         {
-          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
-          "url": "https://wallstreetcn.com/articles/3772582",
-          "source": "华尔街见闻",
+          "title": "微软推出新款Surface设备，专注于商业和人工智能提升。新设备搭载英特尔处理器。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3106087",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时33分"
+          "time_info": "21时51分"
         },
         {
           "title": "戴尔：Reflection的开源前沿人工智能模型将于戴尔AI工厂上线。",
@@ -295,9 +370,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
+        },
+        {
+          "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
+          "url": "https://www.cls.cn/detail/2375797",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         },
         {
           "title": "戴尔：SpaceXAI与戴尔共同为Grok提供更先进的推理能力与多模态能力，使其成为更安全、企业级的人工智能助手。",
@@ -309,17 +395,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
-        },
-        {
-          "title": "【焦点复盘】沪指企稳反弹涨近1%，物理AI概念活跃不减，Token经济产业链热度扩散",
-          "url": "https://www.cls.cn/detail/2375531",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
         },
         {
           "title": "戴尔：Palantir的Foundry和AIP平台将进驻戴尔AI工厂。",
@@ -344,13 +419,24 @@
           "time_info": "10时35分"
         },
         {
+          "title": "影石发布首款旗舰无线麦克风Mic Pro，以墨水屏与AI降噪切入专业音频市场",
+          "url": "https://wallstreetcn.com/livenews/3106084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
           "title": "英伟达重磅CPU Vera交付：专为智能体AI设计 甲骨文承诺部署数十万颗",
           "url": "https://www.cls.cn/detail/2374998",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -397,28 +483,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
-        },
-        {
-          "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
-          "url": "https://www.zhihu.com/question/2039715538398663059",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33198546",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
         },
         {
           "title": "戴尔宣布与英伟达合作，推出一系列戴尔人工智能工厂的重大进展。",
@@ -471,7 +535,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -493,7 +557,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -564,6 +628,17 @@
           "time_info": "07时57分"
         },
         {
+          "title": "巴克莱称AI热潮将提振资源丰富型新兴市场的货币",
+          "url": "https://wallstreetcn.com/livenews/3106061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
           "title": "马斯克败诉：美AI权力格局更加清晰",
           "url": "https://www.toutiao.com/trending/7641379878092148287/",
           "source": "今日头条",
@@ -581,7 +656,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         }
