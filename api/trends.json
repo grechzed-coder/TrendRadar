@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-20T06:07:52.350030+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-05-20T07:55:35.413361+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
         {
           "title": "从卖流量到卖Token，运营商算力生意破局",
           "url": "https://m.thepaper.cn/newsDetail_forward_33193847",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 06时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 07时55分]"
         },
         {
           "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
@@ -24,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 06时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 07时55分]"
         },
         {
           "title": "中美同意开展人工智能政府间对话",
@@ -39,8 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 06时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 07时55分]"
         },
         {
           "title": "据知情人士透露，SpaceX预计在其公司开始IPO 30天后，推进对人工智能编码初创公司Cursor的收购。",
@@ -49,9 +51,33 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "Meta在AI推动的效率提升计划中开始裁员",
+          "url": "https://wallstreetcn.com/livenews/3106303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "【焦点复盘】沪指企稳反弹涨近1%，物理AI概念活跃不减，Token经济产业链热度扩散",
+          "url": "https://www.cls.cn/detail/2375531",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 07时55分]"
         },
         {
           "title": "xAI允许在OpenClaw中使用Grok。",
@@ -65,28 +91,17 @@
           "time_info": "04时25分"
         },
         {
-          "title": "【焦点复盘】沪指企稳反弹涨近1%，物理AI概念活跃不减，Token经济产业链热度扩散",
-          "url": "https://www.cls.cn/detail/2375531",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 06时07分]"
-        },
-        {
           "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
           "url": "https://wallstreetcn.com/articles/3772582",
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 06时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 07时55分]"
         },
         {
           "title": "赢!米哈游携千亿进军AI行业",
@@ -96,8 +111,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 06时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 07时55分]"
         },
         {
           "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
@@ -105,11 +120,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 06时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 07时55分]"
         },
         {
           "title": "莫奈钓出嘉豪哥,真迹变AI",
@@ -119,8 +135,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 06时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 07时55分]"
         },
         {
           "title": "AI恶意P图白嫖,卖家哭晕",
@@ -130,8 +146,21 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 06时07分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 07时55分]"
+        },
+        {
+          "title": "中专生花10天手搓AI短片火遍全网",
+          "url": "https://www.toutiao.com/trending/7640988449969864731/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 07时55分]"
         },
         {
           "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
@@ -157,16 +186,15 @@
           "time_info": "[00时45分 ~ 02时54分]"
         },
         {
-          "title": "中专生花10天手搓AI短片火遍全网",
-          "url": "https://www.toutiao.com/trending/7640988449969864731/",
-          "source": "今日头条",
+          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
+          "url": "https://wallstreetcn.com/articles/3772658",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            19
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 06时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
           "title": "谷歌AI模型大幅降价迎战OpenAI与Anthropic",
@@ -274,7 +302,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -296,9 +324,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "摩根大通：AI掀起产业变革正全方位考验管理层的领导力",
+          "url": "https://wallstreetcn.com/livenews/3106284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
           "title": "谷歌人工智能负责人宣布推出面向科学的研究导向型Gemini。",
@@ -310,6 +349,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "美联储保尔森：关于人工智能对生产力和通胀影响的考虑仍处于早期阶段。",
+          "url": "https://flash.jin10.com/detail/20260520072312271800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
           "title": "谷歌CEO Pichai：AI概览功能月活用户数25亿。 Gemini APP月活用户数一年翻倍，至超过9亿。 公司一个月处理3200万亿Token。 今年夏季，在美国推出“Ask YouTube”AI搜索功能。 “Docs Live”允许用户创作利用语音指令来创建Docs。",
@@ -343,6 +393,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "报道：SpaceX计划在美国IPO后30天内收购AI编程初创公司Cursor",
+          "url": "https://wallstreetcn.com/livenews/3106274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "周二（5月19日），美股AI软件先驱指数跌0.12%，报107.31点，高开高走之际、北京时间21:52刷新日高至110.81点，随后回吐涨幅，23:25以来大致持平。 成分股甲骨文收跌2.76%，铿腾电子跌2.27%，ServiceNOW、微软至少跌1.44%，新思科技跌0.91%，GitLab涨1.47%，Datadog涨3.03%，Snowflake涨3.23%。",
+          "url": "https://wallstreetcn.com/livenews/3106273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
           "title": "印度为何押注AI和芯片产业",
