@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T18:20:05.323923+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2026-05-20T21:32:11.037455+08:00",
+  "total_titles_processed": 1399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 55,
+      "match_count": 62,
       "titles": [
         {
           "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
@@ -21,6 +21,22 @@
           "time_info": "[00时45分 ~ 10时14分]"
         },
         {
+          "title": "中美同意开展人工智能政府间对话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8,
+            12,
+            14,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 21时32分]"
+        },
+        {
           "title": "从卖流量到卖Token，运营商算力生意破局",
           "url": "https://m.thepaper.cn/newsDetail_forward_33193847",
           "source": "澎湃新闻",
@@ -33,19 +49,17 @@
           "time_info": "[00时45分 ~ 07时55分]"
         },
         {
-          "title": "中美同意开展人工智能政府间对话",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
-          "source": "bilibili 热搜",
+          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
+          "url": "https://wallstreetcn.com/articles/3772658",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            8,
-            12,
-            14,
-            16
+            7,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 18时20分]"
+          "appearance_count": 5,
+          "time_info": "[07时55分 ~ 21时32分]"
         },
         {
           "title": "赢!米哈游携千亿进军AI行业",
@@ -60,19 +74,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时45分 ~ 18时20分]"
-        },
-        {
-          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
-          "url": "https://wallstreetcn.com/articles/3772658",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时55分 ~ 18时20分]"
         },
         {
           "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
@@ -178,9 +179,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "蔡崇信吴泳铭致股东信：努力将AI+云打造成阿里巴巴又一个增长动力",
+          "url": "https://wallstreetcn.com/livenews/3106746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
@@ -194,6 +206,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时45分 ~ 07时55分]"
+        },
+        {
+          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
+          "url": "https://www.cls.cn/detail/2376546",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 21时32分]"
         },
         {
           "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
@@ -258,17 +282,6 @@
           "time_info": "[00时45分 ~ 02时54分]"
         },
         {
-          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
-          "url": "https://www.cls.cn/detail/2376546",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
           "title": "谷歌AI模型大幅降价迎战OpenAI与Anthropic",
           "url": "https://flash.jin10.com/detail/20260520033552705800",
           "source": "金十数据",
@@ -308,9 +321,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "风华高科：公司汽车电子、人工智能、储能及低空经济等新兴市场营收占比不超过15%",
+          "url": "https://wallstreetcn.com/livenews/3106744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "阿斯麦(ASML.O)CEO：强劲的人工智能需求意味着芯片将在相当长一段时间内处于“供给受限的市场”。",
+          "url": "https://flash.jin10.com/detail/20260520210200432800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "王力宏演唱会主题曲是 AI 制作，《在梅边》新版也被指 AI 编曲，他是第一个全面拥抱 AI 的主流歌手吗？",
@@ -319,7 +354,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -333,6 +368,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "阿斯麦(ASML.O)CEO：欧洲人工智能法案需要改革和撤销，必须避免限制技术供应链的“简单化”规则。",
+          "url": "https://flash.jin10.com/detail/20260520210140732800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "谷歌公司将在美国面向AI Ultra订阅用户推出Gemini Spark测试版。",
@@ -363,7 +409,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -396,7 +442,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -423,6 +469,17 @@
           "time_info": "00时45分"
         },
         {
+          "title": "金螳螂：公司目前未从事商业航天核心产业，亦未开展数据中心算力运营业务",
+          "url": "https://wallstreetcn.com/livenews/3106735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "伊朗战争冲击AI供应链 分析人士警告：最坏影响或仍未到来",
           "url": "https://www.cls.cn/detail/2375963",
           "source": "财联社热门",
@@ -432,6 +489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "贝佐斯：特朗普比第一任期更成熟、更自律。 我仍然会打电话给奥巴马征求意见。 在太空建立数据中心“非常现实”。 地面数据中心的能源预算将会增加。 发射成本需要降低十倍。 人工智能将导致劳动力短缺。 亚马逊没有因为人工智能而裁员。 我在亚马逊、蓝色起源以及普罗米修斯公司的工作经历，都与人工智能相关。 太空产业将会成为一个“庞大规模”的产业。",
+          "url": "https://wallstreetcn.com/livenews/3106732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "英伟达(NVDA.O)：与谷歌云助力下一波人工智能开发者。",
@@ -484,7 +552,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -553,6 +621,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "风华高科：公司汽车电子、人工智能、储能及低空经济等新兴市场营收占比不超过15%",
+          "url": "https://flash.jin10.com/detail/20260520205348154800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "谷歌CEO Pichai：AI概览功能月活用户数25亿。 Gemini APP月活用户数一年翻倍，至超过9亿。 公司一个月处理3200万亿Token。 今年夏季，在美国推出“Ask YouTube”AI搜索功能。 “Docs Live”允许用户创作利用语音指令来创建Docs。",
