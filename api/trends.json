@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T14:41:05.971968+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-05-20T18:20:05.323923+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 48,
+      "match_count": 55,
       "titles": [
         {
           "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
@@ -40,11 +40,12 @@
             5,
             8,
             12,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 14时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 18时20分]"
         },
         {
           "title": "赢!米哈游携千亿进军AI行业",
@@ -53,11 +54,25 @@
           "ranks": [
             12,
             13,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 14时41分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 18时20分]"
+        },
+        {
+          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
+          "url": "https://wallstreetcn.com/articles/3772658",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 18时20分]"
         },
         {
           "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
@@ -97,19 +112,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时14分 ~ 14时41分]"
-        },
-        {
-          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
-          "url": "https://wallstreetcn.com/articles/3772658",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时55分 ~ 14时41分]"
         },
         {
           "title": "据知情人士透露，SpaceX预计在其公司开始IPO 30天后，推进对人工智能编码初创公司Cursor的收购。",
@@ -170,6 +172,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "云南：力争到2027年全省算力规模达20Eflops",
+          "url": "https://wallstreetcn.com/livenews/3106655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
           "url": "https://wallstreetcn.com/articles/3772582",
           "source": "华尔街见闻",
@@ -221,6 +234,18 @@
           "time_info": "[10时14分 ~ 14时41分]"
         },
         {
+          "title": "国台办回应周杰伦等在大陆开演唱会",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%AD%89%E5%9C%A8%E5%A4%A7%E9%99%86%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 18时20分]"
+        },
+        {
           "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
           "url": "https://www.zhihu.com/question/2039715538398663059",
           "source": "知乎",
@@ -231,6 +256,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时45分 ~ 02时54分]"
+        },
+        {
+          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
+          "url": "https://www.cls.cn/detail/2376546",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "谷歌AI模型大幅降价迎战OpenAI与Anthropic",
@@ -261,9 +297,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
+        },
+        {
+          "title": "广东：鼓励软件服务企业在“一带一路”共建国家布局数据中心输出“广东算力”",
+          "url": "https://wallstreetcn.com/livenews/3106651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "王力宏演唱会主题曲是 AI 制作，《在梅边》新版也被指 AI 编曲，他是第一个全面拥抱 AI 的主流歌手吗？",
+          "url": "https://www.zhihu.com/question/2040077336809322399",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "谷歌搜索宣布大改版 AI模式与代理助手全面嵌入",
@@ -299,15 +357,15 @@
           "time_info": "04时25分"
         },
         {
-          "title": "国台办回应周杰伦等在大陆开演唱会",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%AD%89%E5%9C%A8%E5%A4%A7%E9%99%86%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A",
-          "source": "百度热搜",
+          "title": "高盛交易台预警：市场主导叙事正悄然从AI转向利率",
+          "url": "https://wallstreetcn.com/articles/3772653",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时41分"
+          "time_info": "18时20分"
         },
         {
           "title": "OpenAI担保给予开支水平的算力。",
@@ -330,6 +388,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "印度总理莫迪：我在罗马见到了意大利总统塞尔吉奥·马塔雷拉。我们讨论了印度和意大利之间友谊的多个方面，包括贸易、投资和文化联系。我们谈到了人工智能、关键矿产、太空和核能等领域如何成为我们国家合作的机会。",
+          "url": "https://flash.jin10.com/detail/20260520180919616800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "谷歌新增Android Vibe编程支持到Google AI Studio。",
@@ -409,6 +478,17 @@
           "time_info": "10时14分"
         },
         {
+          "title": "云南：力争到2027年全省算力规模达20Eflops",
+          "url": "https://flash.jin10.com/detail/20260520180539549800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "摩根大通：AI掀起产业变革正全方位考验管理层的领导力",
           "url": "https://wallstreetcn.com/livenews/3106284",
           "source": "华尔街见闻-快讯",
@@ -426,7 +506,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
