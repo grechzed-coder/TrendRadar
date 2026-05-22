@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T02:29:54.243131+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-05-23T04:29:10.804076+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 02时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时29分]"
         },
         {
           "title": "标普500成分股有望创五年来最强财报季，增长势头从AI向其他行业扩展",
@@ -38,8 +38,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 02时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时29分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
@@ -49,8 +49,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 02时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时29分]"
         },
         {
           "title": "AI还原祖国人注射V1后的战斗力",
@@ -61,19 +61,32 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 02时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时29分]"
         },
         {
           "title": "郝哥李广奇回应AI买瓜",
           "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 02时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时29分]"
+        },
+        {
+          "title": "夏奇拉来批daidai作业啦",
+          "url": "https://www.douyin.com/hot/2508674",
+          "source": "抖音",
+          "ranks": [
+            30,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时29分 ~ 04时29分]"
         },
         {
           "title": "创业板涨超2%，算力硬件集体爆发，PCB、光模块齐涨，恒科指涨超2%，联想暴涨20%，智谱狂飙斤30%",
@@ -96,17 +109,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        },
-        {
-          "title": "夏奇拉来批daidai作业啦",
-          "url": "https://www.douyin.com/hot/2508674",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时29分"
         }
       ]
     }
