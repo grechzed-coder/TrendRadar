@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T21:01:50.369828+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-05-23T22:41:54.769525+08:00",
+  "total_titles_processed": 1373,
   "failed_sources": [],
   "trends": [
     {
@@ -162,6 +162,20 @@
           "time_info": "[17时44分 ~ 19时04分]"
         },
         {
+          "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时44分 ~ 22时41分]"
+        },
+        {
           "title": "ai漫剧硬通货 泡面火腿纯净水",
           "url": "https://s.weibo.com/weibo?q=ai%E6%BC%AB%E5%89%A7%E7%A1%AC%E9%80%9A%E8%B4%A7%20%E6%B3%A1%E9%9D%A2%E7%81%AB%E8%85%BF%E7%BA%AF%E5%87%80%E6%B0%B4&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -188,19 +202,6 @@
           "time_info": "[17时44分 ~ 21时01分]"
         },
         {
-          "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时44分 ~ 21时01分]"
-        },
-        {
           "title": "AI 泡沫还能持续多久？",
           "url": "https://www.zhihu.com/question/1903030274536743238",
           "source": "知乎",
@@ -209,8 +210,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 21时01分]"
+          "appearance_count": 3,
+          "time_info": "[19时04分 ~ 22时41分]"
         },
         {
           "title": "AI光算力第一股上市首日暴涨380%",
@@ -218,11 +219,36 @@
           "source": "微博",
           "ranks": [
             28,
-            19
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时04分 ~ 22时41分]"
+        },
+        {
+          "title": "算力巨头超聚变闯关创业板，80亿募资要下怎样一盘棋？",
+          "url": "https://www.cls.cn/detail/2379778",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时04分 ~ 21时01分]"
+          "time_info": "[21时01分 ~ 22时41分]"
+        },
+        {
+          "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
+          "url": "https://wallstreetcn.com/articles/3772963",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 22时41分]"
         },
         {
           "title": "创业板涨超2%，算力硬件集体爆发，PCB、光模块齐涨，恒科指涨超2%，联想暴涨20%，智谱狂飙斤30%",
@@ -236,17 +262,6 @@
           "time_info": "00时16分"
         },
         {
-          "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
-          "url": "https://wallstreetcn.com/articles/3772963",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时01分"
-        },
-        {
           "title": "美银乐观预测：AI十年内每年将拉动增长约1个百分点",
           "url": "https://flash.jin10.com/detail/20260523110713640800",
           "source": "金十数据",
@@ -256,17 +271,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
-        },
-        {
-          "title": "算力巨头超聚变闯关创业板，80亿募资要下怎样一盘棋？",
-          "url": "https://www.cls.cn/detail/2379778",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时01分"
         },
         {
           "title": "马斯克重建xAI组织图曝光",
