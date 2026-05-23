@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T04:02:48.593015+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-05-24T05:44:46.960165+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 05时44分]"
         },
         {
           "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 05时44分]"
         },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
@@ -37,11 +37,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 05时44分]"
         },
         {
           "title": "李荣浩南宁演唱会",
@@ -53,8 +54,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 05时44分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -64,8 +65,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 05时44分]"
         },
         {
           "title": "俄银行采购中国芯片，为大模型提供算力，对中俄科技合作意味着什么？",
@@ -74,11 +75,12 @@
           "ranks": [
             19,
             17,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 04时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 05时44分]"
         },
         {
           "title": "国产算力的大刀向英伟达砍去",
@@ -90,8 +92,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 04时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 05时44分]"
         },
         {
           "title": "你觉得 ai 会完全替代人类吗？",
