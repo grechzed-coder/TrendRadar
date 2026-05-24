@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T05:46:18.297397+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-05-25T06:48:23.692051+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 05时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 06时48分]"
         },
         {
           "title": "算力巨头超聚变闯关创业板，80亿募资要下怎样一盘棋？",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 05时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 06时48分]"
         },
         {
           "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
@@ -37,11 +37,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时02分 ~ 05时46分]"
+          "appearance_count": 4,
+          "time_info": "[03时02分 ~ 06时48分]"
         },
         {
           "title": "张靓颖杭州演唱会意外摔倒",
@@ -75,11 +76,12 @@
           "ranks": [
             28,
             24,
-            27
+            27,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时53分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时53分 ~ 06时48分]"
         },
         {
           "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
@@ -127,6 +129,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时53分]"
+        },
+        {
+          "title": "训练AI取代自己？纺织工和外卖骑手正收集“第一人称视角数据”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33219435",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
         }
       ]
     }
