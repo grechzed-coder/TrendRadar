@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T04:43:30.590236+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-05-25T05:46:18.297397+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "算力巨头超聚变闯关创业板，80亿募资要下怎样一盘棋？",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
@@ -40,8 +40,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 05时46分]"
+        },
+        {
+          "title": "张靓颖杭州演唱会意外摔倒",
+          "url": "https://www.toutiao.com/trending/7642907577554305060/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 05时46分]"
         },
         {
           "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
@@ -54,19 +67,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时53分 ~ 03时02分]"
-        },
-        {
-          "title": "张靓颖杭州演唱会意外摔倒",
-          "url": "https://www.toutiao.com/trending/7642907577554305060/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 04时43分]"
         },
         {
           "title": "世界杯主题曲Dai Dai MV正式上线",
