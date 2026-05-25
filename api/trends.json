@@ -1,53 +1,12 @@
 {
-  "generated_at": "2026-05-25T22:34:26.875223+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-05-26T00:59:57.960803+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 26,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "什么情况下，本轮AI大行情会结束？",
-          "url": "https://wallstreetcn.com/articles/3773004",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 15时03分]"
-        },
-        {
-          "title": "算力巨头超聚变闯关创业板，80亿募资要下怎样一盘棋？",
-          "url": "https://www.cls.cn/detail/2379778",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 06时48分]"
-        },
-        {
-          "title": "世界杯主题曲Dai Dai MV正式上线",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            24,
-            27,
-            22,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时53分 ~ 15时03分]"
-        },
         {
           "title": "AI吸附挂泛滥,力度碾压端游",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
@@ -56,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时44分 ~ 22时34分]"
+          "appearance_count": 1,
+          "time_info": "00时59分"
         },
         {
           "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
@@ -67,94 +26,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时44分 ~ 22时34分]"
+          "appearance_count": 1,
+          "time_info": "00时59分"
         },
         {
-          "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3108534",
+          "title": "惠誉评级：北美企业面临战争溢出效应、关税和人工智能带来的信用风险",
+          "url": "https://wallstreetcn.com/livenews/3108971",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            11,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时02分 ~ 07时52分]"
-        },
-        {
-          "title": "实名购药、严禁AI替代审方 《处方药网络零售合规指南》发布",
-          "url": "https://flash.jin10.com/detail/20260525143618155800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "张靓颖杭州演唱会意外摔倒",
-          "url": "https://www.toutiao.com/trending/7642907577554305060/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 05时46分]"
-        },
-        {
-          "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
-          "url": "https://flash.jin10.com/detail/20260525012651977800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 03时02分]"
-        },
-        {
-          "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
-          "url": "https://wallstreetcn.com/livenews/3108500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 03时02分]"
-        },
-        {
-          "title": "券商晨会精华：看好AI产业链与算力网建设",
-          "url": "https://www.cls.cn/detail/2380227",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 15时03分]"
-        },
-        {
-          "title": "欧洲央行将在周二的会议上敦促银行加快保护其信息技术系统的工作，讨论最新人工智能模型所暴露的网络安全风险。",
-          "url": "https://flash.jin10.com/detail/20260525010427079800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 03时02分]"
+          "time_info": "00时59分"
         },
         {
           "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
@@ -164,8 +48,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时44分 ~ 22时34分]"
+          "appearance_count": 1,
+          "time_info": "00时59分"
         },
         {
           "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
@@ -175,142 +59,41 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时44分 ~ 22时34分]"
+          "appearance_count": 1,
+          "time_info": "00时59分"
         },
         {
-          "title": "据英国《金融时报》：欧洲央行召集银行要求其修补最新人工智能模型暴露出的缺陷。",
-          "url": "https://flash.jin10.com/detail/20260525010206221800",
+          "title": "惠誉评级：北美企业面临来自战争溢出、关税和人工智能的信用风险。",
+          "url": "https://flash.jin10.com/detail/20260525234937534800",
           "source": "金十数据",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 03时02分]"
-        },
-        {
-          "title": "训练AI取代自己？纺织工和外卖骑手正收集“第一人称视角数据”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33219435",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时48分 ~ 07时52分]"
-        },
-        {
-          "title": "促进全国算力资源优化配置，我国加快制定全国一体化算力网技术标准",
-          "url": "https://wallstreetcn.com/livenews/3108496",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 01时53分]"
-        },
-        {
-          "title": "香港交易所回应“算力期货布局规划”：暂无评论可提供，将来如有相关信息将及时公布。（一财）",
-          "url": "https://wallstreetcn.com/livenews/3108615",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "00时59分"
         },
         {
-          "title": "实名购药、严禁AI替代审方 《处方药网络零售合规指南》发布",
-          "url": "https://wallstreetcn.com/livenews/3108725",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "多家巨头密集押注 “百镜大战”催热供应链！AI眼镜有望加速进入千万台级别市场？",
-          "url": "https://www.cls.cn/detail/2380061",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "对话中邮资管张戬：基于账户负债属性平衡票息与波段，哑铃策略锚定“六张网”、AI及高安全三大方向",
-          "url": "https://www.cls.cn/detail/2380627",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "DeepSeek宣布降价，算力租赁概念股放量大跌，多家上市公司回应",
-          "url": "https://wallstreetcn.com/livenews/3108720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "DeepSeek宣布降价，算力租赁概念股放量大跌，多家上市公司回应",
-          "url": "https://flash.jin10.com/detail/20260525142932464800",
-          "source": "金十数据",
+          "title": "戛纳电影节「抵制 AI」、毕业典礼嘘声四起，海外「反 AI」浪潮反映了何种社会心态？",
+          "url": "https://www.zhihu.com/question/2040478565859381749",
+          "source": "知乎",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时03分"
+          "time_info": "00时59分"
         },
         {
-          "title": "AI 中转站是什么，便宜 Token 背后暗藏什么玄机？",
-          "url": "https://www.zhihu.com/question/2040496731704528936",
+          "title": "超六成游戏工作室采用 AI 进行开发，AI 将会如何改变游戏行业？",
+          "url": "https://www.zhihu.com/question/649375328",
           "source": "知乎",
           "ranks": [
-            17
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "【李强同巴基斯坦总理夏巴兹会谈】5月25日上午，国务院总理李强在北京人民大会堂同来华进行正式访问的巴基斯坦总理夏巴兹举行会谈。李强指出，中方愿同巴方深入推进中巴经济走廊建设，继续抓好两国重大联通项目，加强产业、矿业、农业、民生、金融等领域合作。中方愿进口巴方更多优质产品，同巴方积极打造双边自贸协定升级版，促进两国贸易不断扩容提质。双方还可以探讨开展人工智能、数字经济、绿色能源等领域合作，共同培育发展新动能。中方也愿同巴方深化人力资源开发合作，欢迎更多巴基斯坦青年学生来华学习深造。希望巴方继续采取必要措施，保护在巴中国人员、项目和机构安全，营造安全稳定的合作环境。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3108917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
-        },
-        {
-          "title": "九安医疗：不涉及AI业务单独收费，糖尿病照护业务收入占比低",
-          "url": "https://wallstreetcn.com/livenews/3108907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
+          "time_info": "00时59分"
         }
       ]
     }
