@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T00:59:57.960803+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-26T02:26:08.903504+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时26分]"
         },
         {
           "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
@@ -26,19 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时26分]"
         },
         {
           "title": "惠誉评级：北美企业面临战争溢出效应、关税和人工智能带来的信用风险",
           "url": "https://wallstreetcn.com/livenews/3108971",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时26分]"
         },
         {
           "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
@@ -48,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时26分]"
         },
         {
           "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
@@ -59,30 +60,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时26分]"
         },
         {
           "title": "惠誉评级：北美企业面临来自战争溢出、关税和人工智能的信用风险。",
           "url": "https://flash.jin10.com/detail/20260525234937534800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时26分]"
         },
         {
           "title": "戛纳电影节「抵制 AI」、毕业典礼嘘声四起，海外「反 AI」浪潮反映了何种社会心态？",
           "url": "https://www.zhihu.com/question/2040478565859381749",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时26分]"
         },
         {
           "title": "超六成游戏工作室采用 AI 进行开发，AI 将会如何改变游戏行业？",
@@ -92,8 +95,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时26分]"
         }
       ]
     }
