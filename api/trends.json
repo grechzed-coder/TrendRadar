@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T14:44:26.446250+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2026-05-28T18:45:52.628894+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "AI大行其道,古法PS吧没落",
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             4,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 14时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时52分 ~ 18时45分]"
         },
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
@@ -38,11 +39,12 @@
           "ranks": [
             13,
             14,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 14时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时52分 ~ 18时45分]"
         },
         {
           "title": "AI坑爹,棒球名帅丢饭碗",
@@ -51,11 +53,12 @@
           "ranks": [
             17,
             18,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时52分 ~ 14时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时52分 ~ 18时45分]"
         },
         {
           "title": "OpenAI在美国中期选举前部署网络安全及虚假信息防御措施。",
@@ -75,7 +78,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -108,11 +111,59 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            15
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时06分 ~ 18时45分]"
+        },
+        {
+          "title": "AI改写黑袍纠察队结局",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%94%B9%E5%86%99%E9%BB%91%E8%A2%8D%E7%BA%A0%E5%AF%9F%E9%98%9F%E7%BB%93%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时06分 ~ 14时44分]"
+          "time_info": "[14时44分 ~ 18时45分]"
+        },
+        {
+          "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33234425",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 18时45分]"
+        },
+        {
+          "title": "小说AI直出?8u评论区吵翻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354649&amp;topic_name=%E5%B0%8F%E8%AF%B4AI%E7%9B%B4%E5%87%BA%3F8u%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%90%B5%E7%BF%BB",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 18时45分]"
+        },
+        {
+          "title": "仅差1个涨停！“算力新贵”市值剑指茅台，板块均价位次更迭，这些行业紧追白酒",
+          "url": "https://www.cls.cn/detail/2384298",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "中信证券：“AI+能化”构成今年杠铃配置结构",
@@ -126,15 +177,26 @@
           "time_info": "07时14分"
         },
         {
-          "title": "AI改写黑袍纠察队结局",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%94%B9%E5%86%99%E9%BB%91%E8%A2%8D%E7%BA%A0%E5%AF%9F%E9%98%9F%E7%BB%93%E5%B1%80",
-          "source": "bilibili 热搜",
+          "title": "【每日收评】创业板指探底回升涨近2%，AI硬件方向再迎爆发",
+          "url": "https://www.cls.cn/detail/2384259",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时44分"
+          "time_info": "18时45分"
+        },
+        {
+          "title": "昀冢科技：目前公司MLCC产品主要应用于消费电子领域，暂未应用于AI算力服务器",
+          "url": "https://flash.jin10.com/detail/20260528180921068800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "报道：Meta拟成立新部门 为企业客户定制AI服务",
@@ -165,7 +227,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -181,24 +243,24 @@
           "time_info": "04时01分"
         },
         {
+          "title": "三星罢工的众生相，捅破AI时代“不患寡而患不均”这层窗户纸",
+          "url": "https://news.ifeng.com/c/8tUekOdGeku",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
           "title": "美国网红券商允许散户用AI炒股 段永平举牌泡泡玛特 | 环球市场",
           "url": "https://www.cls.cn/detail/2383558",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "小说AI直出?8u评论区吵翻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354649&amp;topic_name=%E5%B0%8F%E8%AF%B4AI%E7%9B%B4%E5%87%BA%3F8u%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%90%B5%E7%BF%BB",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -234,17 +296,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
-        },
-        {
-          "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33234425",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
         },
         {
           "title": "美联储理事库克：要看到经济中因人工智能带来的结构性变化可能需要很长时间。",
@@ -289,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        },
+        {
+          "title": "英伟达服务器制造商纬颖预计AI领域的供应瓶颈将不止于内存",
+          "url": "https://wallstreetcn.com/livenews/3110628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "Salesforce发布温和指引，加剧市场对AI颠覆软件业的担忧",
