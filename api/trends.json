@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T06:48:56.040941+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-05-31T07:53:43.325746+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 07时53分]"
         },
         {
           "title": "全国首个绿色算力全栈AI平台上线",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 07时53分]"
         },
         {
           "title": "多地电力负荷连创新高 算力用电年均或增超千亿度 绿电直连开启消纳“第二通道”",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 07时53分]"
         },
         {
           "title": "面向超大规模药物发现的人工智能虚拟筛选平台——GalaxyVS正式发布",
@@ -54,8 +54,21 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 07时53分]"
+        },
+        {
+          "title": "“牛市”底气：全球企业盈利已“脱离基本面”，利润率将冲击历史记录，“AI效果类似中国加入WTO”",
+          "url": "https://wallstreetcn.com/articles/3773496",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 07时53分]"
         },
         {
           "title": "鸟巢偶遇王菲看谢霆锋演唱会",
@@ -70,20 +83,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 06时48分]"
-        },
-        {
-          "title": "“牛市”底气：全球企业盈利已“脱离基本面”，利润率将冲击历史记录，“AI效果类似中国加入WTO”",
-          "url": "https://wallstreetcn.com/articles/3773496",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 07时53分]"
         },
         {
           "title": "报道：软银承诺投资750亿欧元在法国建设AI设施，总规模5 GW",
@@ -95,8 +96,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时44分 ~ 06时48分]"
+          "appearance_count": 4,
+          "time_info": "[04时44分 ~ 07时53分]"
         },
         {
           "title": "一个月烧掉5亿美元！科技巨头“AI Token消耗赛”踩下急刹",
@@ -108,8 +109,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 07时53分]"
         },
         {
           "title": "官方出手,AI吸附遭刑事打击",
@@ -119,19 +120,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 07时53分]"
         },
         {
           "title": "李荣浩贵阳演唱会",
           "url": "https://www.douyin.com/hot/2517955",
           "source": "抖音",
           "ranks": [
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 07时53分]"
         },
         {
           "title": "谢霆锋北京演唱会",
@@ -142,8 +144,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 07时53分]"
         },
         {
           "title": "据英国金融时报：软银承诺投资750亿欧元在法国建设欧洲最大的人工智能设施。",
@@ -156,8 +158,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时05分 ~ 06时48分]"
+          "appearance_count": 5,
+          "time_info": "[03时05分 ~ 07时53分]"
         },
         {
           "title": "用AI整理会议记录导致泄密",
@@ -171,8 +173,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时57分 ~ 06时48分]"
+          "appearance_count": 6,
+          "time_info": "[01时57分 ~ 07时53分]"
         },
         {
           "title": "陈楚生郑州演唱会",
@@ -181,11 +183,25 @@
           "ranks": [
             28,
             29,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 06时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 07时53分]"
+        },
+        {
+          "title": "软银承诺投资750亿欧元在法国建设欧洲最大的人工智能设施",
+          "url": "https://flash.jin10.com/detail/20260531031045565800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时44分 ~ 07时53分]"
         },
         {
           "title": "报道：OpenAI在讨论将花旗、摩根大通纳入IPO承销商名单",
@@ -198,19 +214,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时05分 ~ 04时44分]"
-        },
-        {
-          "title": "软银承诺投资750亿欧元在法国建设欧洲最大的人工智能设施",
-          "url": "https://flash.jin10.com/detail/20260531031045565800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时44分 ~ 06时48分]"
         },
         {
           "title": "王力宏杭州演唱会",
