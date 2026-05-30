@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-31T00:05:17.586350+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-05-31T01:57:58.647290+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "全国首个绿色算力全栈AI平台上线",
+          "url": "https://www.cls.cn/detail/2386167",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时57分]"
+        },
         {
           "title": "多地电力负荷连创新高 算力用电年均或增超千亿度 绿电直连开启消纳“第二通道”",
           "url": "https://www.cls.cn/detail/2386135",
@@ -15,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时57分]"
         },
         {
           "title": "面向超大规模药物发现的人工智能虚拟筛选平台——GalaxyVS正式发布",
@@ -26,41 +38,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时57分]"
         },
         {
           "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
           "url": "https://wallstreetcn.com/articles/3773482",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "全国首个绿色算力全栈AI平台上线",
-          "url": "https://www.cls.cn/detail/2386167",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时57分]"
         },
         {
           "title": "鸟巢偶遇王菲看谢霆锋演唱会",
           "url": "https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B7%A2%E5%81%B6%E9%81%87%E7%8E%8B%E8%8F%B2%E7%9C%8B%E8%B0%A2%E9%9C%86%E9%94%8B%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时57分]"
         },
         {
           "title": "“牛市”底气：全球企业盈利已“脱离基本面”，利润率将冲击历史记录，“AI效果类似中国加入WTO”",
@@ -70,19 +73,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时57分]"
         },
         {
           "title": "撬动创新药开发 人工智能虚拟筛选平台在天津发布",
           "url": "https://flash.jin10.com/detail/20260530215645145800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时57分]"
         },
         {
           "title": "一个月烧掉5亿美元！科技巨头“AI Token消耗赛”踩下急刹",
@@ -92,19 +96,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时57分]"
         },
         {
           "title": "王力宏杭州演唱会",
           "url": "https://www.douyin.com/hot/2516916",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时57分]"
         },
         {
           "title": "官方出手,AI吸附遭刑事打击",
@@ -114,8 +119,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时57分]"
         },
         {
           "title": "报道：OpenAI在讨论将花旗、摩根大通纳入IPO承销商名单",
@@ -125,8 +130,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时57分]"
         },
         {
           "title": "李荣浩贵阳演唱会",
@@ -136,30 +141,43 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时57分]"
         },
         {
           "title": "陈楚生郑州演唱会",
           "url": "https://www.douyin.com/hot/2517957",
           "source": "抖音",
           "ranks": [
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时57分]"
         },
         {
           "title": "谢霆锋北京演唱会",
           "url": "https://www.douyin.com/hot/2517956",
           "source": "抖音",
           "ranks": [
-            29
+            29,
+            30
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 01时57分]"
+        },
+        {
+          "title": "用AI整理会议记录导致泄密",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8AI%E6%95%B4%E7%90%86%E4%BC%9A%E8%AE%AE%E8%AE%B0%E5%BD%95%E5%AF%BC%E8%87%B4%E6%B3%84%E5%AF%86%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时05分"
+          "time_info": "01时57分"
         }
       ]
     }
