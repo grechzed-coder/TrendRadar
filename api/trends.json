@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T05:42:21.769427+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-06-03T07:28:07.101237+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
         {
           "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 05时42分]"
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 07时28分]"
         },
         {
           "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 05时42分]"
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 07时28分]"
         },
         {
           "title": "白嫖结束!豆包AI开始收费",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 05时42分]"
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 07时28分]"
         },
         {
           "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
@@ -48,8 +48,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 05时42分]"
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 07时28分]"
+        },
+        {
+          "title": "美国众议院推出跨党派立法草案，建议在AI繁荣期保护作者，Adobe支持这样的建议。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3113331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "微软发布可充当行政助理的AI软件",
@@ -63,6 +74,28 @@
           "time_info": "02时32分"
         },
         {
+          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
+          "url": "https://www.cls.cn/detail/2388968",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "澳大利亚5月AIG建筑业表现指数 -9.9，前值-19.3。",
+          "url": "https://flash.jin10.com/detail/20260603070002418800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "葬礼撞上演唱会,追星族想选偶像",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354783&amp;topic_name=%E8%91%AC%E7%A4%BC%E6%92%9E%E4%B8%8A%E6%BC%94%E5%94%B1%E4%BC%9A%2C%E8%BF%BD%E6%98%9F%E6%97%8F%E6%83%B3%E9%80%89%E5%81%B6%E5%83%8F",
           "source": "贴吧",
@@ -70,8 +103,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 05时42分]"
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 07时28分]"
+        },
+        {
+          "title": "AI坑健身小白买20kg哑铃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 07时28分]"
         },
         {
           "title": "我用AI做了祖国人胜利结局",
@@ -86,15 +130,38 @@
           "time_info": "[02时32分 ~ 05时42分]"
         },
         {
-          "title": "AI坑健身小白买20kg哑铃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
-          "source": "贴吧",
+          "title": "在两万人的演唱会舞台上跑步",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E4%B8%A4%E4%B8%87%E4%BA%BA%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%E8%88%9E%E5%8F%B0%E4%B8%8A%E8%B7%91%E6%AD%A5",
+          "source": "bilibili 热搜",
           "ranks": [
+            26,
             23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时32分 ~ 05时42分]"
+          "time_info": "[02时32分 ~ 07时28分]"
+        },
+        {
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "澳大利亚5月AIG/PWC制造业表现指数 -22.4，前值-27.9。",
+          "url": "https://flash.jin10.com/detail/20260603070002375800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "【每日收评】创业板指震荡走高涨超2.5%，CPO、光纤等AI硬件股卷土重来",
@@ -180,7 +247,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -202,7 +269,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
         },
@@ -218,22 +285,22 @@
           "time_info": "02时32分"
         },
         {
+          "title": "OpenAI的CEO Altman将于周三会见美国白宫高级官员。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3113311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "报道：欧盟AI数据中心计划因延误和资金问题受挫",
           "url": "https://wallstreetcn.com/livenews/3113206",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "在两万人的演唱会舞台上跑步",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E4%B8%A4%E4%B8%87%E4%BA%BA%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%E8%88%9E%E5%8F%B0%E4%B8%8A%E8%B7%91%E6%AD%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 1,
