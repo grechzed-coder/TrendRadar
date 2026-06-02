@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T02:32:56.610834+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-03T05:42:21.769427+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
@@ -15,8 +15,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 05时42分]"
+        },
+        {
+          "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
+          "url": "https://wallstreetcn.com/articles/3773656",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 05时42分]"
+        },
+        {
+          "title": "白嫖结束!豆包AI开始收费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 05时42分]"
+        },
+        {
+          "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 05时42分]"
         },
         {
           "title": "微软发布可充当行政助理的AI软件",
@@ -30,37 +63,38 @@
           "time_info": "02时32分"
         },
         {
-          "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
-          "url": "https://wallstreetcn.com/articles/3773656",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "白嫖结束!豆包AI开始收费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
+          "title": "葬礼撞上演唱会,追星族想选偶像",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354783&amp;topic_name=%E8%91%AC%E7%A4%BC%E6%92%9E%E4%B8%8A%E6%BC%94%E5%94%B1%E4%BC%9A%2C%E8%BF%BD%E6%98%9F%E6%97%8F%E6%83%B3%E9%80%89%E5%81%B6%E5%83%8F",
           "source": "贴吧",
           "ranks": [
-            3
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 05时42分]"
         },
         {
-          "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
-          "url": "https://wallstreetcn.com/articles/3773537",
-          "source": "华尔街见闻",
+          "title": "我用AI做了祖国人胜利结局",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E7%A5%96%E5%9B%BD%E4%BA%BA%E8%83%9C%E5%88%A9%E7%BB%93%E5%B1%80",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 05时42分]"
+        },
+        {
+          "title": "AI坑健身小白买20kg哑铃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 05时42分]"
         },
         {
           "title": "【每日收评】创业板指震荡走高涨超2.5%，CPO、光纤等AI硬件股卷土重来",
@@ -129,17 +163,6 @@
           "time_info": "02时32分"
         },
         {
-          "title": "葬礼撞上演唱会,追星族想选偶像",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354783&amp;topic_name=%E8%91%AC%E7%A4%BC%E6%92%9E%E4%B8%8A%E6%BC%94%E5%94%B1%E4%BC%9A%2C%E8%BF%BD%E6%98%9F%E6%97%8F%E6%83%B3%E9%80%89%E5%81%B6%E5%83%8F",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
           "title": "微软展示用于办公的桌面AI设备。 微软展示用于AI互联办公的数字工牌。 微软正与高通、联发科合作开发新设备。",
           "url": "https://wallstreetcn.com/livenews/3113218",
           "source": "华尔街见闻-快讯",
@@ -149,6 +172,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "周二（6月2日），美股AI软件先驱指数跌3.37%，报128.60点。",
+          "url": "https://wallstreetcn.com/livenews/3113281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "优步（Uber Technologies Inc.）对Claude等AI工具设置员工使用上限，希望借机管控成本。",
@@ -162,33 +196,22 @@
           "time_info": "02时32分"
         },
         {
+          "title": "周二（6月2日），美股人工智能（AI）赢家指数涨2.45%，报447.26点。",
+          "url": "https://wallstreetcn.com/livenews/3113280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
           "title": "微软推出Web IQ套件，包含一系列AI原生Grounding API。 Web IQ是一款针对AI系统的搜索引擎。 针对新AI设备推出Project Solara。 推出可让OpenClaw在Windows系统上顺畅运行的技术支持方案。",
           "url": "https://wallstreetcn.com/livenews/3113213",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "我用AI做了祖国人胜利结局",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E7%A5%96%E5%9B%BD%E4%BA%BA%E8%83%9C%E5%88%A9%E7%BB%93%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "AI坑健身小白买20kg哑铃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
-          "source": "贴吧",
-          "ranks": [
-            23
           ],
           "is_new": false,
           "appearance_count": 1,
