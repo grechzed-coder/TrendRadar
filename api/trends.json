@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T10:43:09.854669+08:00",
-  "total_titles_processed": 671,
+  "generated_at": "2026-06-04T15:16:17.072008+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 33,
+      "match_count": 44,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -23,11 +23,46 @@
           "url": "https://www.cls.cn/detail/2390108",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 15时16分]"
+        },
+        {
+          "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
+          "url": "https://www.zhihu.com/question/2045546609027408734",
+          "source": "知乎",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "15时16分"
+        },
+        {
+          "title": "AI脸泛滥成灾,建模师没活了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时17分 ~ 15时16分]"
+        },
+        {
+          "title": "猎鹰崛起AI先导片",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E5%B4%9B%E8%B5%B7AI%E5%85%88%E5%AF%BC%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "AI基础设施需求强劲 台积电预计2026年营收增长超30%",
@@ -36,20 +71,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
         {
-          "title": "AI脸泛滥成灾,建模师没活了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
+          "title": "白嫖结束!豆包AI开始收费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
           "source": "贴吧",
           "ranks": [
-            6
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时17分 ~ 10时43分]"
+          "appearance_count": 5,
+          "time_info": "[02时17分 ~ 15时16分]"
         },
         {
           "title": "胡彦斌一个月开发出 App，AI 时代将给普通人带来哪些机会？",
@@ -74,6 +110,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 07时27分]"
+        },
+        {
+          "title": "黄仁勋概念股又+1：纳微半导体暴涨创新高 凭AI电源技术切入“达链”",
+          "url": "https://www.cls.cn/detail/2390246",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 15时16分]"
         },
         {
           "title": "博通首席执行官：仍预计2027财年人工智能半导体收入将超过1000亿美元，人工智能半导体收入将在2028财年继续增长。",
@@ -126,17 +174,6 @@
           "time_info": "[02时17分 ~ 10时43分]"
         },
         {
-          "title": "白嫖结束!豆包AI开始收费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时17分 ~ 10时43分]"
-        },
-        {
           "title": "葬礼撞上演唱会,追星族想选偶像",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354783&amp;topic_name=%E8%91%AC%E7%A4%BC%E6%92%9E%E4%B8%8A%E6%BC%94%E5%94%B1%E4%BC%9A%2C%E8%BF%BD%E6%98%9F%E6%97%8F%E6%83%B3%E9%80%89%E5%81%B6%E5%83%8F",
           "source": "贴吧",
@@ -172,6 +209,29 @@
           "time_info": "[02时17分 ~ 07时27分]"
         },
         {
+          "title": "博通上季营收超预期增48%再创新高，AI收入指引逊色，盘后跌超10%| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773812",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 15时16分]"
+        },
+        {
+          "title": "黄仁勋向全球富豪家族力荐AI：回报“疯狂可观”，还在质疑的人才是“疯子”！",
+          "url": "https://wallstreetcn.com/articles/3773784",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 15时16分]"
+        },
+        {
           "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
           "url": "https://www.zhihu.com/question/2045160976878680020",
           "source": "知乎",
@@ -184,15 +244,26 @@
           "time_info": "[02时17分 ~ 05时42分]"
         },
         {
-          "title": "博通上季营收超预期增48%再创新高，AI收入指引逊色，盘后跌超10%| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773812",
+          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
+          "url": "https://wallstreetcn.com/articles/3773814",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "15时16分"
+        },
+        {
+          "title": "微信开放手机厂商智能体接入 AI手机迎来“最优解”？",
+          "url": "https://www.cls.cn/detail/2390370",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "【台积电魏哲家：预计今年全年营收成长仍将超过30%】台积电召开股东会，针对AI需求，董事长魏哲家指出，从生成式AI、查询模式，进一步转向代理式AI与指令行动模式，正推升大型语言模型处理文本所需的token消耗量，也使运算能力需求持续成长，进一步支撑先进半导体需求。公司客户以及客户的客户，仍持续给予对AI产业的正面展望。魏哲家强调，台积电仍对未来数年AI大趋势保持信心，半导体需求也具备根本性支撑。在技​​术差异化与广泛客户群支持下，公司维持强劲信心，若以美元计算，预计今年全年营收成长仍将超过30%。",
@@ -201,7 +272,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -217,26 +288,15 @@
           "time_info": "05时42分"
         },
         {
-          "title": "黄仁勋向全球富豪家族力荐AI：回报“疯狂可观”，还在质疑的人才是“疯子”！",
-          "url": "https://wallstreetcn.com/articles/3773784",
-          "source": "华尔街见闻",
+          "title": "财通证券：MLCC需求逻辑重构 AI算力与汽车电子驱动行业步入“K型复苏”",
+          "url": "https://flash.jin10.com/detail/20260604144700700800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "黄仁勋概念股又+1：纳微半导体暴涨创新高 凭AI电源技术切入“达链”",
-          "url": "https://www.cls.cn/detail/2390246",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "15时16分"
         },
         {
           "title": "博通首席执行官：已达成协议，自2027年起，将向Anthropic提供额外5GW基于下一代TPU的算力。已收到Meta Platforms(META.O)的首批订单，规模为1GW，该订单涵盖XPU及我们的网络解决方案，并将于2027年下半年开始交付。",
@@ -250,6 +310,39 @@
           "time_info": "05时42分"
         },
         {
+          "title": "鸿海：将与SK集团探索在AI服务器、数据中心以及能源解决方案方面的合作机会。",
+          "url": "https://flash.jin10.com/detail/20260604144438615800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
+          "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
+          "url": "https://wallstreetcn.com/articles/3773802",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
+          "title": "黄仁勋今晚抵韩！行程曝光：与科技大佬烤肉谈AI、首次亮相综艺……",
+          "url": "https://www.cls.cn/detail/2390517",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
           "title": "博通CEO：重申2027财年AI芯片销售将超过1000亿美元。",
           "url": "https://wallstreetcn.com/livenews/3114024",
           "source": "华尔街见闻-快讯",
@@ -259,6 +352,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "鸿海称其董事长已与SK集团董事长会面，将深化在AI基础设施方面的合作。",
+          "url": "https://flash.jin10.com/detail/20260604144305878800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "博通首席执行官：预计2026财年人工智能半导体收入将达到560亿美元。",
@@ -327,6 +431,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "鸿海与SK集团深化AI基础设施合作",
+          "url": "https://wallstreetcn.com/livenews/3114238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
           "title": "美联储洛根：通胀有上行风险，劳动力市场稳定，经济增长稳健，且人工智能带来额外提振。",
           "url": "https://flash.jin10.com/detail/20260604045100062800",
           "source": "金十数据",
@@ -358,6 +473,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "2026年字节AI的四个关键命题",
+          "url": "https://wallstreetcn.com/livenews/3114229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "英特尔收涨4.43%，报112.71美元，该公司重磅发布18A至强6+芯片及机架级AI战略。",
