@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T06:48:13.913536+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-06-11T08:09:44.573111+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "5月新能源汽车产销量同比增长",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时52分 ~ 06时48分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 08时09分]"
         },
         {
           "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 06时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 08时09分]"
         },
         {
           "title": "好多不是歌手的明星也开演唱会",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 06时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 08时09分]"
         },
         {
           "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 06时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 08时09分]"
         },
         {
           "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
@@ -62,8 +62,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 06时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 08时09分]"
         },
         {
           "title": "市场消息：OpenAI与Visa(V.N)合作，允许人工智能代理在线购物。",
@@ -83,7 +83,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         },
@@ -94,9 +94,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
+        },
+        {
+          "title": "【焦点复盘】科创50冲高回落跌0.65%，算力硬件板块再陷低迷，资金逆势抱团银行等红利股",
+          "url": "https://www.cls.cn/detail/2396101",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 08时09分]"
         },
         {
           "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
@@ -111,27 +123,30 @@
           "time_info": "[01时52分 ~ 04时12分]"
         },
         {
-          "title": "【焦点复盘】科创50冲高回落跌0.65%，算力硬件板块再陷低迷，资金逆势抱团银行等红利股",
-          "url": "https://www.cls.cn/detail/2396101",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 06时48分]"
-        },
-        {
           "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
           "url": "https://wallstreetcn.com/articles/3774282",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 06时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 08时09分]"
+        },
+        {
+          "title": "于娜看到已故老公AI形象崩溃大哭",
+          "url": "https://www.toutiao.com/trending/7649760127175904777/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 08时09分]"
         },
         {
           "title": "谢娜演唱会被抵制的原因",
@@ -139,11 +154,12 @@
           "source": "微博",
           "ranks": [
             11,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 06时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 08时09分]"
         },
         {
           "title": "谢娜曾说开一场演唱会是为「圆梦」，如今却官宣开启全国巡演，被网友质疑动机，为何会有人不舒服？你怎么看？",
@@ -153,20 +169,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 06时48分]"
-        },
-        {
-          "title": "于娜看到已故老公AI形象崩溃大哭",
-          "url": "https://www.toutiao.com/trending/7649760127175904777/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 06时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 08时09分]"
         },
         {
           "title": "于娜看到已故丈夫AI形象崩溃大哭",
@@ -177,8 +181,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 06时48分]"
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 08时09分]"
         },
         {
           "title": "唱功仅粉丝可见的谢娜们该开演唱会吗",
@@ -201,8 +205,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 06时48分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 08时09分]"
         },
         {
           "title": "夏奇拉邀请你来跳Dai Dai",
@@ -259,6 +263,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "OpenAI与甲骨文构建合作伙伴关系。 双方将围绕面向OCI（甲骨文云基础设施建设）客户的Codex进行合作。",
+          "url": "https://wallstreetcn.com/livenews/3117747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
         },
         {
           "title": "丁禹兮成都演唱会官宣",
