@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T15:14:03.993101+08:00",
-  "total_titles_processed": 947,
+  "generated_at": "2026-06-12T19:36:12.721577+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 28,
+      "match_count": 36,
       "titles": [
         {
           "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
@@ -53,9 +53,32 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "我国成功研制出三维多层片上电容 可直接应用于AI/GPU芯片、高性能处理器等高端芯片",
+          "url": "https://wallstreetcn.com/livenews/3118851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "猛男舞团翻跳Dai Dai",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E7%94%B7%E8%88%9E%E5%9B%A2%E7%BF%BB%E8%B7%B3Dai%20Dai",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 19时36分]"
         },
         {
           "title": "AI短片效果看到起鸡皮疙瘩了",
@@ -192,15 +215,48 @@
           "time_info": "[05时13分 ~ 07时15分]"
         },
         {
+          "title": "抖音AI创作大赛首个爆款出现",
+          "url": "https://www.douyin.com/hot/2532139",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 19时36分]"
+        },
+        {
+          "title": "全抖音都在DaiDai",
+          "url": "https://www.douyin.com/hot/2531421",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 19时36分]"
+        },
+        {
           "title": "AI正在杀死音乐吗",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%AD%A3%E5%9C%A8%E6%9D%80%E6%AD%BB%E9%9F%B3%E4%B9%90%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "权威机构：SpaceX世纪IPO引爆“散户套现热”，热门AI股成“ATM机”！",
+          "url": "https://www.cls.cn/detail/2398028",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "OpenAI 考虑大幅降价以与 Anthropic 竞争，此举将如何影响 AI 市场格局？",
@@ -214,24 +270,13 @@
           "time_info": "10时35分"
         },
         {
-          "title": "猛男舞团翻跳Dai Dai",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E7%94%B7%E8%88%9E%E5%9B%A2%E7%BF%BB%E8%B7%B3Dai%20Dai",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
           "title": "代理式AI引爆CPU需求！美银：到2030年服务器CPU市场规模料激增4倍",
           "url": "https://www.cls.cn/detail/2397804",
           "source": "财联社热门",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -242,9 +287,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "谢娜演唱会为何被抵制",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%BA%E4%BD%95%E8%A2%AB%E6%8A%B5%E5%88%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "美国证交会文件显示：Alphabet(GOOG.O)股东关于水资源使用和人工智能报告的提案未在年度股东大会上获得批准。",
@@ -258,15 +314,37 @@
           "time_info": "05时13分"
         },
         {
+          "title": "世界杯揭幕赛前记者实测多家 AI，多数倾向墨西哥胜，千问将红牌都预测中，如何评价 AI 在赛事预测中表现？",
+          "url": "https://www.zhihu.com/question/2048790626066510507",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "外国球迷凌晨买空火锅烧烤店",
           "url": "https://www.toutiao.com/trending/7649361706239180806/",
           "source": "今日头条",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "高盛总裁：SpaceX IPO凸显投资者渴望为AI融资 不担心市场吸纳能力",
+          "url": "https://wallstreetcn.com/livenews/3118829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "AI辅助一次能筛查70多种疾病",
@@ -275,7 +353,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -313,13 +391,24 @@
           "time_info": "10时35分"
         },
         {
+          "title": "LKs AI和真人推歌大PK",
+          "url": "https://search.bilibili.com/all?keyword=LKs%20AI%E5%92%8C%E7%9C%9F%E4%BA%BA%E6%8E%A8%E6%AD%8C%E5%A4%A7PK",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "今年前5个月我国区域外贸持续向好 人工智能等产品同比增长超五成",
           "url": "https://wallstreetcn.com/livenews/3118623",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
