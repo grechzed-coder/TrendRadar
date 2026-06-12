@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T03:53:32.984478+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-06-13T05:25:01.173141+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "抖音AI创作大赛首个爆款出现",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 05时25分]"
         },
         {
           "title": "谢娜演唱会为何被抵制",
@@ -25,11 +25,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            10
+            10,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 03时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时32分 ~ 05时25分]"
         },
         {
           "title": "猛男舞团翻跳Dai Dai",
@@ -39,8 +40,30 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时32分 ~ 05时25分]"
+        },
+        {
+          "title": "抖音AI反网暴行动来了",
+          "url": "https://www.douyin.com/hot/2531858",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时32分 ~ 03时53分]"
+          "time_info": "[05时24分 ~ 05时25分]"
+        },
+        {
+          "title": "全抖音都在DaiDai",
+          "url": "https://www.douyin.com/hot/2531421",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 05时25分]"
         },
         {
           "title": "据The Information：Meta Platforms(META.O)在一份内部备忘录中表示，随着人工智能成本飙升，公司计划加强对员工token使用量的管控。Meta内部人工智能使用成本预计将在2026年达到数十亿美元规模。",
@@ -49,7 +72,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
         },
@@ -60,7 +83,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
         },
@@ -71,7 +94,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
         },
