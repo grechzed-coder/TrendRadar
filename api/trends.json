@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T21:26:13.347599+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2026-06-13T23:26:19.208282+08:00",
+  "total_titles_processed": 1381,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "抖音AI创作大赛首个爆款出现",
@@ -47,8 +47,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时49分 ~ 21时26分]"
+          "appearance_count": 5,
+          "time_info": "[14时49分 ~ 23时26分]"
+        },
+        {
+          "title": "为什么谢娜开演唱会这么多人骂？同样的岳云鹏就没有？",
+          "url": "https://www.zhihu.com/question/2047118369313273085",
+          "source": "知乎",
+          "ranks": [
+            6,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时49分 ~ 23时26分]"
         },
         {
           "title": "猛男舞团翻跳Dai Dai",
@@ -63,17 +76,31 @@
           "time_info": "[01时32分 ~ 10时28分]"
         },
         {
-          "title": "为什么谢娜开演唱会这么多人骂？同样的岳云鹏就没有？",
-          "url": "https://www.zhihu.com/question/2047118369313273085",
-          "source": "知乎",
+          "title": "薛之谦洛阳演唱会",
+          "url": "https://www.douyin.com/hot/2532935",
+          "source": "抖音",
           "ranks": [
-            6,
             12,
-            11
+            14,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时51分 ~ 23时26分]"
+        },
+        {
+          "title": "联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！",
+          "url": "https://wallstreetcn.com/articles/3774568",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时49分 ~ 21时26分]"
+          "time_info": "[17时51分 ~ 23时26分]"
         },
         {
           "title": "世界杯AI视频绿茵恩仇录火了",
@@ -89,17 +116,17 @@
           "time_info": "[14时48分 ~ 19时47分]"
         },
         {
-          "title": "薛之谦洛阳演唱会",
-          "url": "https://www.douyin.com/hot/2532935",
+          "title": "谢霆锋南京演唱会",
+          "url": "https://www.douyin.com/hot/2532939",
           "source": "抖音",
           "ranks": [
-            12,
-            14,
-            15
+            13,
+            20,
+            18
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时51分 ~ 21时26分]"
+          "time_info": "[19时47分 ~ 23时26分]"
         },
         {
           "title": "抖音AI反网暴行动来了",
@@ -112,19 +139,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时24分 ~ 07时08分]"
-        },
-        {
-          "title": "联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！",
-          "url": "https://wallstreetcn.com/articles/3774568",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 21时26分]"
         },
         {
           "title": "粤港澳大湾区枢纽公共算力服务平台Token工厂在韶关正式点亮",
@@ -140,18 +154,6 @@
           "time_info": "[17时51分 ~ 21时26分]"
         },
         {
-          "title": "谢霆锋南京演唱会",
-          "url": "https://www.douyin.com/hot/2532939",
-          "source": "抖音",
-          "ranks": [
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时47分 ~ 21时26分]"
-        },
-        {
           "title": "单依纯纯妹妹2.0演唱会",
           "url": "https://s.weibo.com/weibo?q=%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%BA%AF%E5%A6%B9%E5%A6%B92.0%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -162,6 +164,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时51分 ~ 19时47分]"
+        },
+        {
+          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
+          "url": "https://wallstreetcn.com/articles/3774577",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 23时26分]"
         },
         {
           "title": "报道：美国封锁境外获取Anthropic先进AI模型的渠道",
@@ -224,6 +238,18 @@
           "time_info": "[19时47分 ~ 21时26分]"
         },
         {
+          "title": "张杰谢娜演唱会名场面",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 23时26分]"
+        },
+        {
           "title": "全抖音都在DaiDai",
           "url": "https://www.douyin.com/hot/2531421",
           "source": "抖音",
@@ -244,17 +270,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
-        },
-        {
-          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
-          "url": "https://wallstreetcn.com/articles/3774577",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
         },
         {
           "title": "九鹭非香把七时吉祥重新做成AI剧了",
@@ -285,20 +300,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
         {
-          "title": "张杰谢娜演唱会名场面",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8D%E5%9C%BA%E9%9D%A2",
-          "source": "bilibili 热搜",
+          "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33369600",
+          "source": "澎湃新闻",
           "ranks": [
-            18
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时26分"
+          "time_info": "23时26分"
         },
         {
           "title": "据The Information：Meta Platforms(META.O)在一份内部备忘录中表示，随着人工智能成本飙升，公司计划加强对员工token使用量的管控。Meta内部人工智能使用成本预计将在2026年达到数十亿美元规模。",
@@ -329,7 +344,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -343,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "这才是AI发展真正的意义",
+          "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%89%8D%E6%98%AFAI%E5%8F%91%E5%B1%95%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%84%8F%E4%B9%89&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "SpaceX在遭遇技术问题后将Colossus 1算力出租给Anthropic",
@@ -395,7 +421,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
