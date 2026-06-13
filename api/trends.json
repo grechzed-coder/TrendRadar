@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T19:47:49.470702+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-06-13T21:26:13.347599+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "抖音AI创作大赛首个爆款出现",
@@ -47,8 +47,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时49分 ~ 19时47分]"
+          "appearance_count": 4,
+          "time_info": "[14时49分 ~ 21时26分]"
         },
         {
           "title": "猛男舞团翻跳Dai Dai",
@@ -61,6 +61,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时32分 ~ 10时28分]"
+        },
+        {
+          "title": "为什么谢娜开演唱会这么多人骂？同样的岳云鹏就没有？",
+          "url": "https://www.zhihu.com/question/2047118369313273085",
+          "source": "知乎",
+          "ranks": [
+            6,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时49分 ~ 21时26分]"
         },
         {
           "title": "世界杯AI视频绿茵恩仇录火了",
@@ -76,6 +89,19 @@
           "time_info": "[14时48分 ~ 19时47分]"
         },
         {
+          "title": "薛之谦洛阳演唱会",
+          "url": "https://www.douyin.com/hot/2532935",
+          "source": "抖音",
+          "ranks": [
+            12,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 21时26分]"
+        },
+        {
           "title": "抖音AI反网暴行动来了",
           "url": "https://www.douyin.com/hot/2531858",
           "source": "抖音",
@@ -88,16 +114,17 @@
           "time_info": "[05时24分 ~ 07时08分]"
         },
         {
-          "title": "为什么谢娜开演唱会这么多人骂？同样的岳云鹏就没有？",
-          "url": "https://www.zhihu.com/question/2047118369313273085",
-          "source": "知乎",
+          "title": "联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！",
+          "url": "https://wallstreetcn.com/articles/3774568",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            12
+            10,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时49分 ~ 19时47分]"
+          "time_info": "[17时51分 ~ 21时26分]"
         },
         {
           "title": "粤港澳大湾区枢纽公共算力服务平台Token工厂在韶关正式点亮",
@@ -105,11 +132,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 19时47分]"
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 21时26分]"
+        },
+        {
+          "title": "谢霆锋南京演唱会",
+          "url": "https://www.douyin.com/hot/2532939",
+          "source": "抖音",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时47分 ~ 21时26分]"
         },
         {
           "title": "单依纯纯妹妹2.0演唱会",
@@ -118,18 +158,6 @@
           "ranks": [
             7,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 19时47分]"
-        },
-        {
-          "title": "联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！",
-          "url": "https://wallstreetcn.com/articles/3774568",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -160,18 +188,6 @@
           "time_info": "[10时28分 ~ 14时49分]"
         },
         {
-          "title": "薛之谦洛阳演唱会",
-          "url": "https://www.douyin.com/hot/2532935",
-          "source": "抖音",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 19时47分]"
-        },
-        {
           "title": "周五（6月12日），美股人工智能（AI）赢家指数涨1.93%，报424.15点，本周累计上涨5.43%。 成分股中，Arm控股收涨11.27%，希捷科技涨7.25%，西部数据涨6.35%，高意公司Coherent涨5.90%表现第四，阿斯麦ADR收跌1.89%跌幅第四大。",
           "url": "https://wallstreetcn.com/livenews/3119107",
           "source": "华尔街见闻-快讯",
@@ -182,6 +198,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时28分 ~ 14时49分]"
+        },
+        {
+          "title": "ARCRaiders国服首测PV",
+          "url": "https://search.bilibili.com/all?keyword=ARCRaiders%E5%9B%BD%E6%9C%8D%E9%A6%96%E6%B5%8BPV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 21时26分]"
+        },
+        {
+          "title": "太空AI算力泡沫有多大",
+          "url": "https://www.toutiao.com/trending/7650812029468413450/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时47分 ~ 21时26分]"
         },
         {
           "title": "全抖音都在DaiDai",
@@ -206,6 +246,17 @@
           "time_info": "10时28分"
         },
         {
+          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
+          "url": "https://wallstreetcn.com/articles/3774577",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
           "title": "九鹭非香把七时吉祥重新做成AI剧了",
           "url": "https://s.weibo.com/weibo?q=%E4%B9%9D%E9%B9%AD%E9%9D%9E%E9%A6%99%E6%8A%8A%E4%B8%83%E6%97%B6%E5%90%89%E7%A5%A5%E9%87%8D%E6%96%B0%E5%81%9A%E6%88%90AI%E5%89%A7%E4%BA%86&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -217,39 +268,6 @@
           "time_info": "14时49分"
         },
         {
-          "title": "谢霆锋南京演唱会",
-          "url": "https://www.douyin.com/hot/2532939",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时47分"
-        },
-        {
-          "title": "ARCRaiders国服首测PV",
-          "url": "https://search.bilibili.com/all?keyword=ARCRaiders%E5%9B%BD%E6%9C%8D%E9%A6%96%E6%B5%8BPV",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时47分"
-        },
-        {
-          "title": "太空AI算力泡沫有多大",
-          "url": "https://www.toutiao.com/trending/7650812029468413450/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时47分"
-        },
-        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850550&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/3SNELjbbk6Cqk3c21IZ34.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260613120108121800",
           "source": "金十数据",
@@ -259,6 +277,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
+        },
+        {
+          "title": "日本流行音乐 (J-POP) 有何特点？",
+          "url": "https://www.zhihu.com/question/22534249",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
+          "title": "张杰谢娜演唱会名场面",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "据The Information：Meta Platforms(META.O)在一份内部备忘录中表示，随着人工智能成本飙升，公司计划加强对员工token使用量的管控。Meta内部人工智能使用成本预计将在2026年达到数十亿美元规模。",
@@ -281,6 +321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "如何评价 HDC 官宣鸿蒙高校创新赛？国赛平台和零门槛 AI 开发，能为参赛大学生带来哪些价值？",
+          "url": "https://www.zhihu.com/question/2048803279166088696",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "余承东坦言自己留的算力很有限",
@@ -338,6 +389,17 @@
           "time_info": "10时28分"
         },
         {
+          "title": "王源来了蔡依林演唱会",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%9D%A5%E4%BA%86%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
           "title": "作家自曝用AI写作",
           "url": "https://s.weibo.com/weibo?q=%E4%BD%9C%E5%AE%B6%E8%87%AA%E6%9B%9D%E7%94%A8AI%E5%86%99%E4%BD%9C&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -355,7 +417,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         }
