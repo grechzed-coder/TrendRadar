@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T14:49:10.587140+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-06-13T17:51:51.593598+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "抖音AI创作大赛首个爆款出现",
@@ -30,11 +30,12 @@
             3,
             2,
             19,
-            22
+            22,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时32分 ~ 14时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时32分 ~ 17时51分]"
         },
         {
           "title": "猛男舞团翻跳Dai Dai",
@@ -49,6 +50,18 @@
           "time_info": "[01时32分 ~ 10时28分]"
         },
         {
+          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
+          "url": "https://www.cls.cn/detail/2398996",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 17时51分]"
+        },
+        {
           "title": "抖音AI反网暴行动来了",
           "url": "https://www.douyin.com/hot/2531858",
           "source": "抖音",
@@ -59,6 +72,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时24分 ~ 07时08分]"
+        },
+        {
+          "title": "世界杯AI视频绿茵恩仇录火了",
+          "url": "https://www.douyin.com/hot/2531568",
+          "source": "抖音",
+          "ranks": [
+            20,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时48分 ~ 17时51分]"
+        },
+        {
+          "title": "为什么谢娜开演唱会这么多人骂？同样的岳云鹏就没有？",
+          "url": "https://www.zhihu.com/question/2047118369313273085",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 17时51分]"
         },
         {
           "title": "报道：美国封锁境外获取Anthropic先进AI模型的渠道",
@@ -97,17 +133,6 @@
           "time_info": "[10时28分 ~ 14时49分]"
         },
         {
-          "title": "世界杯AI视频绿茵恩仇录火了",
-          "url": "https://www.douyin.com/hot/2531568",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时48分 ~ 14时49分]"
-        },
-        {
           "title": "全抖音都在DaiDai",
           "url": "https://www.douyin.com/hot/2531421",
           "source": "抖音",
@@ -119,26 +144,26 @@
           "time_info": "[05时24分 ~ 05时25分]"
         },
         {
-          "title": "为什么谢娜开演唱会这么多人骂？同样的岳云鹏就没有？",
-          "url": "https://www.zhihu.com/question/2047118369313273085",
-          "source": "知乎",
+          "title": "粤港澳大湾区枢纽公共算力服务平台Token工厂在韶关正式点亮",
+          "url": "https://wallstreetcn.com/livenews/3119135",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时49分"
+          "time_info": "17时51分"
         },
         {
-          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
-          "url": "https://www.cls.cn/detail/2398996",
-          "source": "财联社热门",
+          "title": "单依纯纯妹妹2.0演唱会",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%BA%AF%E5%A6%B9%E5%A6%B92.0%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时49分"
+          "time_info": "17时51分"
         },
         {
           "title": "AI材料短缺蔓延：英伟达亲自下场抢购HVLP4铜箔，2026年缺口达1500吨",
@@ -152,15 +177,37 @@
           "time_info": "10时28分"
         },
         {
+          "title": "联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！",
+          "url": "https://wallstreetcn.com/articles/3774568",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
           "title": "九鹭非香把七时吉祥重新做成AI剧了",
           "url": "https://s.weibo.com/weibo?q=%E4%B9%9D%E9%B9%AD%E9%9D%9E%E9%A6%99%E6%8A%8A%E4%B8%83%E6%97%B6%E5%90%89%E7%A5%A5%E9%87%8D%E6%96%B0%E5%81%9A%E6%88%90AI%E5%89%A7%E4%BA%86&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
+        },
+        {
+          "title": "薛之谦洛阳演唱会",
+          "url": "https://www.douyin.com/hot/2532935",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850550&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/3SNELjbbk6Cqk3c21IZ34.jpg/lite\" height=\"120\"/></a>",
@@ -169,7 +216,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
