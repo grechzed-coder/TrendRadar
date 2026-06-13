@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T03:08:32.035525+08:00",
-  "total_titles_processed": 356,
+  "generated_at": "2026-06-14T05:03:22.688989+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
@@ -15,32 +15,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时03分]"
         },
         {
-          "title": "薛之谦洛阳演唱会",
-          "url": "https://www.douyin.com/hot/2532935",
-          "source": "抖音",
+          "title": "据The Information：美国政府不太可能将对Anthropic的出口管制扩展至其他人工智能公司。",
+          "url": "https://flash.jin10.com/detail/20260614041529668800",
+          "source": "金十数据",
           "ranks": [
-            19,
-            16
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时08分]"
-        },
-        {
-          "title": "谢霆锋南京演唱会",
-          "url": "https://www.douyin.com/hot/2532939",
-          "source": "抖音",
-          "ranks": [
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         },
         {
           "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
@@ -48,22 +35,50 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时03分]"
+        },
+        {
+          "title": "谢霆锋南京演唱会",
+          "url": "https://www.douyin.com/hot/2532939",
+          "source": "抖音",
+          "ranks": [
+            18,
+            22,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 05时03分]"
+        },
+        {
+          "title": "薛之谦洛阳演唱会",
+          "url": "https://www.douyin.com/hot/2532935",
+          "source": "抖音",
+          "ranks": [
+            19,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 05时03分]"
         },
         {
           "title": "联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！",
           "url": "https://wallstreetcn.com/articles/3774568",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时03分]"
         },
         {
           "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
@@ -74,8 +89,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时03分]"
         },
         {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
@@ -86,8 +101,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时03分]"
         },
         {
           "title": "为什么谢娜开演唱会这么多人骂？同样的岳云鹏就没有？",
@@ -98,8 +113,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时03分]"
         },
         {
           "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
@@ -109,8 +124,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时03分]"
         },
         {
           "title": "张杰谢娜演唱会名场面",
@@ -121,8 +136,20 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时03分]"
+        },
+        {
+          "title": "全猿 AI Coding 会不会导致研发 Leader 或 PM 这种管理大量失业，因为不需要了？",
+          "url": "https://www.zhihu.com/question/1997586495188521827",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时08分]"
+          "time_info": "[03时08分 ~ 05时03分]"
         },
         {
           "title": "单依纯连发9条动态为演唱会打call",
@@ -159,17 +186,6 @@
           "time_info": "01时12分"
         },
         {
-          "title": "全猿 AI Coding 会不会导致研发 Leader 或 PM 这种管理大量失业，因为不需要了？",
-          "url": "https://www.zhihu.com/question/1997586495188521827",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
           "title": "这才是AI发展真正的意义",
           "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%89%8D%E6%98%AFAI%E5%8F%91%E5%B1%95%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%84%8F%E4%B9%89&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -179,6 +195,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "蔡依林演唱会嘉宾是林俊杰",
+          "url": "https://www.baidu.com/s?wd=%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%E6%98%AF%E6%9E%97%E4%BF%8A%E6%9D%B0",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "单依纯厦门演唱会",
+          "url": "https://www.douyin.com/hot/2533434",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         },
         {
           "title": "蔡依林个人演唱会首登鸟巢",
