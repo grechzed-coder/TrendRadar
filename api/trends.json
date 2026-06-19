@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T10:56:41.192636+08:00",
-  "total_titles_processed": 775,
+  "generated_at": "2026-06-19T16:27:05.901843+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
         {
           "title": "让AI走进千家万户",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时08分 ~ 10时56分]"
+          "appearance_count": 4,
+          "time_info": "[06时08分 ~ 16时27分]"
         },
         {
           "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
@@ -94,6 +94,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "法国内政部长勒塔耶：法国必须巩固其威慑力，重建库存，投资于无人机、人工智能、军事空间，并建立一支真正的后备军。",
+          "url": "https://flash.jin10.com/detail/20260619160316949800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "五部门开展新能源汽车下乡活动",
           "url": "https://www.douyin.com/hot/2539139",
           "source": "抖音",
@@ -133,6 +144,19 @@
           "time_info": "[04时17分 ~ 06时08分]"
         },
         {
+          "title": "2026新能源汽车下乡车型目录公布",
+          "url": "https://www.douyin.com/hot/2539912",
+          "source": "抖音",
+          "ranks": [
+            12,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时30分 ~ 16时27分]"
+        },
+        {
           "title": "徐良演唱会伴舞爆火",
           "url": "https://www.toutiao.com/trending/7652675874925379603/",
           "source": "今日头条",
@@ -159,6 +183,19 @@
           "time_info": "[04时17分 ~ 10时56分]"
         },
         {
+          "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
+          "url": "https://wallstreetcn.com/articles/3775010",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时30分 ~ 16时27分]"
+        },
+        {
           "title": "我国将启动2026年新能源汽车下乡",
           "url": "https://www.toutiao.com/trending/7652589530977517610/",
           "source": "今日头条",
@@ -170,18 +207,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时17分 ~ 07时30分]"
-        },
-        {
-          "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
-          "url": "https://wallstreetcn.com/articles/3775010",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 10时56分]"
         },
         {
           "title": "美国采取行动，加快AI数据中心接入电网",
@@ -196,16 +221,16 @@
           "time_info": "[06时08分 ~ 07时30分]"
         },
         {
-          "title": "2026新能源汽车下乡车型目录公布",
-          "url": "https://www.douyin.com/hot/2539912",
-          "source": "抖音",
+          "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
+          "url": "https://wallstreetcn.com/articles/3775011",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            10
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时30分 ~ 10时56分]"
+          "time_info": "[10时56分 ~ 16时27分]"
         },
         {
           "title": "5月证券APP月活1.82亿，月活增速谁最强？新一轮卡位在AI Skill",
@@ -220,15 +245,26 @@
           "time_info": "[04时17分 ~ 06时08分]"
         },
         {
-          "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
-          "url": "https://wallstreetcn.com/articles/3775011",
-          "source": "华尔街见闻",
+          "title": "深圳打造生物医药特殊物品通关AI服务平台",
+          "url": "https://wallstreetcn.com/livenews/3122027",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "16时27分"
+        },
+        {
+          "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "日本央行副行长冰见野良三：今年夏季前后，燃料价格上涨对CPI的影响可能会更大。 我们希望在7月份更新季度预测时，就石油对通胀的影响提供更全面的分析。 即使价格上涨是由供应冲击驱动的，如果这导致广泛的价格上涨并影响到潜在的通胀，我们也需要考虑采取政策行动。 近期价格上涨也有需求驱动因素，如强劲的企业利润、稳定的工资增长、活跃的AI相关需求，都支撑着日本经济。",
@@ -237,9 +273,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "AI预测科隆Major夺冠队伍",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E7%A7%91%E9%9A%86Major%E5%A4%BA%E5%86%A0%E9%98%9F%E4%BC%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "2026新能源汽车下乡车型目录公布",
@@ -248,7 +295,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -270,7 +317,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -303,7 +350,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -319,6 +366,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "新能源汽车下乡车型名单公布",
+          "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E4%B8%8B%E4%B9%A1%E8%BD%A6%E5%9E%8B%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "Meta Platforms(META.O)与数据中心公司Crusoe签署AI算力合作协议，预计将获得约1.6吉瓦的算力。",
           "url": "https://flash.jin10.com/detail/20260619042115583800",
           "source": "金十数据",
@@ -330,13 +388,24 @@
           "time_info": "06时08分"
         },
         {
+          "title": "知名作家承认新书AI写作比重占一半",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E4%BD%9C%E5%AE%B6%E6%89%BF%E8%AE%A4%E6%96%B0%E4%B9%A6AI%E5%86%99%E4%BD%9C%E6%AF%94%E9%87%8D%E5%8D%A0%E4%B8%80%E5%8D%8A",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "日本央行副行长冰见野良三：近期价格上涨也受到需求驱动因素的影响，强劲的企业利润、稳定的工资增长以及活跃的人工智能相关需求支撑了日本经济。",
           "url": "https://flash.jin10.com/detail/20260619095604845800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
