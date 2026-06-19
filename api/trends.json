@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T20:41:10.622004+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-06-19T23:56:41.566983+08:00",
+  "total_titles_processed": 1363,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "让AI走进千家万户",
@@ -64,7 +64,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -118,6 +118,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 23时56分]"
         },
         {
           "title": "法国内政部长勒塔耶：法国必须巩固其威慑力，重建库存，投资于无人机、人工智能、军事空间，并建立一支真正的后备军。",
@@ -183,18 +195,6 @@
           "time_info": "[04时17分 ~ 06时08分]"
         },
         {
-          "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 20时41分]"
-        },
-        {
           "title": "徐良演唱会伴舞爆火",
           "url": "https://www.toutiao.com/trending/7652675874925379603/",
           "source": "今日头条",
@@ -258,6 +258,18 @@
           "time_info": "[10时56分 ~ 16时27分]"
         },
         {
+          "title": "剑指英伟达！报道：亚马逊洽谈向其他公司出售自研AI芯片",
+          "url": "https://wallstreetcn.com/articles/3775047",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 23时56分]"
+        },
+        {
           "title": "5月证券APP月活1.82亿，月活增速谁最强？新一轮卡位在AI Skill",
           "url": "https://www.cls.cn/detail/2403949",
           "source": "财联社热门",
@@ -281,6 +293,17 @@
           "time_info": "16时27分"
         },
         {
+          "title": "挪威首相周五表示，挪威将近乎全面禁止小学生使用生成式人工智能工具，同时限制其在年龄较大的儿童教育中的使用，以防止对学习产生负面影响。",
+          "url": "https://flash.jin10.com/detail/20260619234155159800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "日本央行副行长冰见野良三：今年夏季前后，燃料价格上涨对CPI的影响可能会更大。 我们希望在7月份更新季度预测时，就石油对通胀的影响提供更全面的分析。 即使价格上涨是由供应冲击驱动的，如果这导致广泛的价格上涨并影响到潜在的通胀，我们也需要考虑采取政策行动。 近期价格上涨也有需求驱动因素，如强劲的企业利润、稳定的工资增长、活跃的AI相关需求，都支撑着日本经济。",
           "url": "https://wallstreetcn.com/livenews/3121959",
           "source": "华尔街见闻-快讯",
@@ -290,17 +313,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
-        },
-        {
-          "title": "剑指英伟达！报道：亚马逊洽谈向其他公司出售自研AI芯片",
-          "url": "https://wallstreetcn.com/articles/3775047",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
         },
         {
           "title": "AI预测科隆Major夺冠队伍",
@@ -353,7 +365,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -397,7 +409,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -441,7 +453,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -463,7 +475,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -485,7 +497,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
