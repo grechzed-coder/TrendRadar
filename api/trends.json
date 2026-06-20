@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T04:12:33.622975+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-06-21T06:01:27.475833+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 06时01分]"
         },
         {
           "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
           "url": "https://wallstreetcn.com/articles/3775111",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 06时01分]"
         },
         {
           "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
           "url": "https://wallstreetcn.com/articles/3775113",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 06时01分]"
         },
         {
           "title": "消费龙头们跨界半导体、算力赛道 多家公司出现股价异动",
@@ -47,11 +49,12 @@
           "ranks": [
             11,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 06时01分]"
         },
         {
           "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
@@ -63,8 +66,32 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 06时01分]"
+        },
+        {
+          "title": "谐音歌词版WAIYA",
+          "url": "https://www.douyin.com/hot/2541878",
+          "source": "抖音",
+          "ranks": [
+            29,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 06时01分]"
+        },
+        {
+          "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
+          "url": "https://wallstreetcn.com/articles/3775114",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时12分]"
+          "time_info": "[02时06分 ~ 06时01分]"
         },
         {
           "title": "AI短剧“买脸” 每张脸500元一年",
@@ -79,28 +106,6 @@
           "time_info": "[00时21分 ~ 04时12分]"
         },
         {
-          "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
-          "url": "https://wallstreetcn.com/articles/3775114",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时06分 ~ 04时12分]"
-        },
-        {
-          "title": "谐音歌词版WAIYA",
-          "url": "https://www.douyin.com/hot/2541878",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
-        },
-        {
           "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
           "url": "https://wallstreetcn.com/articles/3775105",
           "source": "华尔街见闻",
@@ -108,8 +113,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 06时01分]"
         }
       ]
     }
