@@ -1,284 +1,66 @@
 {
-  "generated_at": "2026-06-22T20:44:22.974646+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2026-06-23T01:26:41.687592+08:00",
+  "total_titles_processed": 296,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 23,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "消费龙头们跨界半导体、算力赛道 多家公司出现股价异动",
-          "url": "https://www.cls.cn/detail/2404619",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 08时15分]"
-        },
-        {
-          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
-          "url": "https://wallstreetcn.com/articles/3775117",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 07时01分]"
-        },
-        {
-          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 07时01分]"
-        },
-        {
-          "title": "陈小春北京演唱会",
-          "url": "https://www.douyin.com/hot/2542517",
-          "source": "抖音",
-          "ranks": [
-            18,
-            13,
-            19,
-            17,
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 14时22分]"
-        },
-        {
-          "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
-          "url": "https://wallstreetcn.com/articles/3775129",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 14时22分]"
-        },
-        {
-          "title": "父亲节用AI表达爱",
-          "url": "https://www.douyin.com/hot/2542302",
-          "source": "抖音",
-          "ranks": [
-            21,
-            18,
-            24,
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时18分 ~ 08时15分]"
-        },
-        {
-          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
-          "url": "https://wallstreetcn.com/articles/3775121",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 08时15分]"
-        },
-        {
-          "title": "白宫国家经济委员会主任哈塞特：人工智能公司正在印钞。",
-          "url": "https://wallstreetcn.com/livenews/3122842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
-          "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
-          "url": "https://www.cls.cn/detail/2404757",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 08时15分]"
-        },
-        {
-          "title": "首程控股(00697.HK)：近日，本集团所属首程资本旗下公司所管理的基金投资AI服务公司智子芯元。",
-          "url": "https://flash.jin10.com/detail/20260622062950039800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 08时15分]"
-        },
-        {
-          "title": "数学博士生 2 年研究被 AI 抢发，这种现象会越来越普遍吗？如何看待 AI 对数学研究的冲击？",
-          "url": "https://www.zhihu.com/question/2052067691926484153",
-          "source": "知乎",
-          "ranks": [
-            20,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 20时44分]"
-        },
-        {
-          "title": "外资巨头年中投资展望出炉，A股AI板块被视为“价值洼地”",
-          "url": "https://wallstreetcn.com/livenews/3122399",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 08时15分]"
-        },
-        {
-          "title": "AI芯片需求推动 韩国6月上旬出口再度强劲增长",
-          "url": "https://flash.jin10.com/detail/20260622135147454800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
         {
           "title": "【焦点复盘】沪指放量长阳收复30日均线，全市场超200股涨逾10%，AI上游材料方向持续火爆",
           "url": "https://www.cls.cn/detail/2405734",
           "source": "财联社热门",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
-          "title": "供需错配引爆“算力金属”涨价潮 光通信、半导体材料公司多举措应对成本压力",
-          "url": "https://www.cls.cn/detail/2405188",
-          "source": "财联社热门",
-          "ranks": [
-            9
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时22分"
+          "time_info": "01时26分"
         },
         {
-          "title": "AI如此预测今晚焦点战算懂球吗",
-          "url": "https://www.douyin.com/hot/2543848",
-          "source": "抖音",
+          "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
+          "url": "https://wallstreetcn.com/articles/3775200",
+          "source": "华尔街见闻",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
-          "title": "散热成太空算力“命门” 热管理头部企业抢先布局｜行业观察",
-          "url": "https://www.cls.cn/detail/2404892",
-          "source": "财联社热门",
-          "ranks": [
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "“硅谷风投教父”押宝海洋数据中心 比“算力上天”更便宜的方案来了？",
-          "url": "https://www.cls.cn/detail/2405413",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
-          "title": "【午报】三大指数集体收红，有色金属等AI上游材料概念持续活跃，大金融板块爆发",
-          "url": "https://www.cls.cn/detail/2405347",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
+          "time_info": "01时26分"
         },
         {
           "title": "陈小春演唱会上边哭边道歉",
           "url": "https://www.toutiao.com/trending/7653904437433565190/",
           "source": "今日头条",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
-          "title": "马来西亚总理：与孟加拉国总理举行了会晤，讨论集中在加强各领域合作的努力，包括贸易与投资、能源、人工智能（AI）、数字经济、教育、人力资源发展、农业、清真产业以及劳动力管理。",
-          "url": "https://flash.jin10.com/detail/20260622134535956800",
-          "source": "金十数据",
-          "ranks": [
-            16
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时22分"
+          "time_info": "01时26分"
+        },
+        {
+          "title": "谷歌股价下跌，因又一位AI明星人才跳槽至竞争对手公司",
+          "url": "https://flash.jin10.com/detail/20260623003003062800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时26分"
         },
         {
           "title": "说唱巅峰发布会好热闹",
           "url": "https://www.douyin.com/hot/2543584",
           "source": "抖音",
           "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
-          "title": "Sand.ai 3个月连续完成2轮融资，金额超1亿美金",
-          "url": "https://wallstreetcn.com/livenews/3122546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时22分"
+          "time_info": "01时26分"
         }
       ]
     }
