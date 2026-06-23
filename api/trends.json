@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T03:03:28.118228+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-06-24T05:25:04.657396+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "刷新世界算力新高度 “灵晟”问鼎全球超算TOP500",
@@ -15,19 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时03分]"
-        },
-        {
-          "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2407151",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 05时25分]"
         },
         {
           "title": "AI算力新变局：谁能动英伟达奶酪",
@@ -38,8 +27,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 05时25分]"
+        },
+        {
+          "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2407151",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 05时25分]"
         },
         {
           "title": "韩股大跌近 10% 再现熔断，韩国拟对「杠杆 ETF 炒作」出手干预，如何看全球 AI 半导体「散户杠杆化」现象？",
@@ -47,33 +48,49 @@
           "source": "知乎",
           "ranks": [
             11,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 05时25分]"
+        },
+        {
+          "title": "锐评说唱巅峰Cypher",
+          "url": "https://www.douyin.com/hot/2544707",
+          "source": "抖音",
+          "ranks": [
+            28,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 05时25分]"
         },
         {
           "title": "创业板跌逾3%，算力硬件、有色金属重挫，创新药、大金融拉升，港股“大模型双雄”大跌",
           "url": "https://wallstreetcn.com/articles/3775254",
           "source": "华尔街见闻",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时03分]"
-        },
-        {
-          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
-          "url": "https://wallstreetcn.com/articles/3775250",
-          "source": "华尔街见闻",
-          "ranks": [
+            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 05时25分]"
+        },
+        {
+          "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
+          "url": "https://wallstreetcn.com/articles/3775302",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 05时25分]"
         },
         {
           "title": "AI周期已接近终点？空头大佬警告：暴跌30%至50%的大熊市即将到来",
@@ -83,19 +100,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 05时25分]"
         },
         {
-          "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
-          "url": "https://wallstreetcn.com/articles/3775302",
+          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
+          "url": "https://wallstreetcn.com/articles/3775250",
           "source": "华尔街见闻",
           "ranks": [
+            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 05时25分]"
         },
         {
           "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
@@ -105,8 +123,43 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 05时25分]"
+        },
+        {
+          "title": "米游AI女友上线,玩家有福了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 05时25分]"
+        },
+        {
+          "title": "用AI小卡应援世界杯",
+          "url": "https://www.douyin.com/hot/2544441",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时03分 ~ 05时25分]"
+        },
+        {
+          "title": "大模型横评:多款AI翻车实录",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355576&amp;topic_name=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A8%AA%E8%AF%84%3A%E5%A4%9A%E6%AC%BEAI%E7%BF%BB%E8%BD%A6%E5%AE%9E%E5%BD%95",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 05时25分]"
         },
         {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
@@ -121,38 +174,16 @@
           "time_info": "[00时21分 ~ 03时03分]"
         },
         {
-          "title": "米游AI女友上线,玩家有福了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
-          "source": "贴吧",
+          "title": "AI 写了 60% 的代码，为什么企业研发效率还是没飞起来？",
+          "url": "https://www.zhihu.com/question/2051696278954946774",
+          "source": "知乎",
           "ranks": [
-            12
+            17,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时03分]"
-        },
-        {
-          "title": "锐评说唱巅峰Cypher",
-          "url": "https://www.douyin.com/hot/2544707",
-          "source": "抖音",
-          "ranks": [
-            28,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时03分]"
-        },
-        {
-          "title": "大模型横评:多款AI翻车实录",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355576&amp;topic_name=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A8%AA%E8%AF%84%3A%E5%A4%9A%E6%AC%BEAI%E7%BF%BB%E8%BD%A6%E5%AE%9E%E5%BD%95",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时03分]"
+          "time_info": "[03时03分 ~ 05时25分]"
         },
         {
           "title": "OpenAI： 2026年DevDay（开发者大会）申请现已开放。",
@@ -161,9 +192,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "美国亚特兰大联储董事会主席Gregory Haile：我们的委员会正在为下一任亚特兰大联储主席进行全面且审慎的遴选。 我们将继续专注于为第六区挑选最优秀的人才，同时维护遴选程序的公正性。 我们将在适当时候提供有关这一重要领导职务的相关最新进展。",
+          "url": "https://wallstreetcn.com/livenews/3123638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "美国总统特朗普被问及AI对卡车司机们构成的风险，却鼓吹就业数据。",
@@ -172,18 +214,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "AI 写了 60% 的代码，为什么企业研发效率还是没飞起来？",
-          "url": "https://www.zhihu.com/question/2051696278954946774",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         },
@@ -205,20 +236,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         },
         {
-          "title": "用AI小卡应援世界杯",
-          "url": "https://www.douyin.com/hot/2544441",
-          "source": "抖音",
+          "title": "徐良演唱会伴舞两周涨粉超110万",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%90%E8%89%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BC%B4%E8%88%9E%E4%B8%A4%E5%91%A8%E6%B6%A8%E7%B2%89%E8%B6%85110%E4%B8%87",
+          "source": "百度热搜",
           "ranks": [
-            20
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时03分"
+          "time_info": "05时25分"
+        },
+        {
+          "title": "AI时代计算机专业还能学吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%BF%98%E8%83%BD%E5%AD%A6%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         },
         {
           "title": "Baird分析师称，特斯拉第二季度预计将交付39.29万辆汽车",
