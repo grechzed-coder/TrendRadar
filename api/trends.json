@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T06:55:43.483272+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-06-28T07:55:04.913762+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 07时55分]"
         },
         {
           "title": "谢霆锋西安演唱会",
@@ -29,8 +29,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 06时55分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时55分]"
         },
         {
           "title": "锐评说唱巅峰初舞台",
@@ -44,8 +44,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 06时55分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时55分]"
         },
         {
           "title": "欧洲央行执委Schnabel：预计油价将持续走高。 不确定性依然很高。 和平协议使负面情景出现的可能性降低。 能源冲击对欧元区打击尤为严重。 此次能源冲击的程度比以往几次石油危机要缓和。 预测显示通胀上升、增长放缓。 能源成本上升拖累信心和消费。 政府投资和全球人工智能热潮支撑了经济增长。 劳动力市场仍具韧性。",
@@ -55,8 +55,59 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 07时55分]"
+        },
+        {
+          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
+          "url": "https://wallstreetcn.com/articles/3775650",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 07时55分]"
+        },
+        {
+          "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
+          "url": "https://wallstreetcn.com/articles/3775663",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 07时55分]"
+        },
+        {
+          "title": "我喜欢的漫画被AI改编了",
+          "url": "https://www.douyin.com/hot/2549059",
+          "source": "抖音",
+          "ranks": [
+            13,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时14分 ~ 07时55分]"
+        },
+        {
+          "title": "纯中二?美官员把AI当英雄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 07时55分]"
         },
         {
           "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
@@ -69,54 +120,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时58分 ~ 06时55分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
-          "url": "https://wallstreetcn.com/articles/3775650",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 06时55分]"
-        },
-        {
-          "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
-          "url": "https://wallstreetcn.com/articles/3775663",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 06时55分]"
-        },
-        {
-          "title": "纯中二?美官员把AI当英雄",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 06时55分]"
-        },
-        {
-          "title": "我喜欢的漫画被AI改编了",
-          "url": "https://www.douyin.com/hot/2549059",
-          "source": "抖音",
-          "ranks": [
-            13,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时14分 ~ 06时55分]"
         },
         {
           "title": "李荣浩呼和浩特演唱会",
@@ -153,6 +156,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 05时54分]"
+        },
+        {
+          "title": "英伟达AI版图再扩张！数据中心以太网交换机收入暴增193%，悄然登顶全球第一",
+          "url": "https://wallstreetcn.com/articles/3775674",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         }
       ]
     }
