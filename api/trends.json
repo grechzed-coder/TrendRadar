@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T02:29:36.028781+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-07-01T04:52:21.366228+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 02时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时52分]"
         },
         {
           "title": "OpenAI首席经济学家称AI不会取代人类劳动者",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 02时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时52分]"
         },
         {
           "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
@@ -49,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 02时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时52分]"
         },
         {
           "title": "A股上半年收官！创业板涨超35%，科创50暴涨64%，算力硬件、芯片半导体全线飙涨",
@@ -60,19 +60,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 02时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时52分]"
         },
         {
           "title": "【每日收评】科创50再度涨近4%，算力硬件股集体反弹，半导体产业链反复活跃",
           "url": "https://www.cls.cn/detail/2413033",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 02时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时52分]"
         },
         {
           "title": "【年中盘点】2026上半年十大牛熊股出炉：算力产业链狂揽涨幅榜 十余股涨超500%",
@@ -82,8 +83,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 02时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时52分]"
         },
         {
           "title": "终于明白AI免费和订阅的区别了",
