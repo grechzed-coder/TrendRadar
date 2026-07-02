@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T01:27:32.665580+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-07-03T03:09:35.155793+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时09分]"
         },
         {
           "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时09分]"
         },
         {
           "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时09分]"
         },
         {
           "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
@@ -48,19 +48,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时09分]"
         },
         {
-          "title": "AI演员已经能演出情绪变化了",
-          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E8%83%BD%E6%BC%94%E5%87%BA%E6%83%85%E7%BB%AA%E5%8F%98%E5%8C%96%E4%BA%86",
-          "source": "百度热搜",
+          "title": "Meta Platforms(META.O)CEO：2026年初，高管们曾担心在人工智能领域“行动不够迅速”。",
+          "url": "https://flash.jin10.com/detail/20260703030444713800",
+          "source": "金十数据",
           "ranks": [
-            7
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "03时09分"
+        },
+        {
+          "title": "AI软件开发公司ElevenLabs与投资者洽谈按大约220亿美元估值进行二次（股票）发行。",
+          "url": "https://wallstreetcn.com/livenews/3128187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
         },
         {
           "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
@@ -70,19 +81,77 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时09分]"
+        },
+        {
+          "title": "AI演员已经能演出情绪变化了",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E8%83%BD%E6%BC%94%E5%87%BA%E6%83%85%E7%BB%AA%E5%8F%98%E5%8C%96%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时09分]"
         },
         {
           "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
           "url": "https://www.cls.cn/detail/2415407",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时09分]"
+        },
+        {
+          "title": "Meta下场“卖算力”，是产能过剩信号还是巨头战略转身？",
+          "url": "https://www.cls.cn/detail/2415679",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时09分]"
+        },
+        {
+          "title": "随着AI矿产热潮吸引投资关注，刚果（金）计划建立首个证券交易所。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3128155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时09分]"
+        },
+        {
+          "title": "美国AI三大巨头争抢哲学家",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E4%B8%89%E5%A4%A7%E5%B7%A8%E5%A4%B4%E4%BA%89%E6%8A%A2%E5%93%B2%E5%AD%A6%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时09分]"
+        },
+        {
+          "title": "Meta Platforms(META.O)CEO：过去四个月里，AI智能体的开发并未“如我们预期的那样加速”。",
+          "url": "https://flash.jin10.com/detail/20260703025612811800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "03时09分"
         },
         {
           "title": "传特朗普政府未与Anthropic讨论入股 OpenAI曾涉5%股权提议",
@@ -96,26 +165,15 @@
           "time_info": "01时27分"
         },
         {
-          "title": "Meta下场“卖算力”，是产能过剩信号还是巨头战略转身？",
-          "url": "https://www.cls.cn/detail/2415679",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "随着AI矿产热潮吸引投资关注，刚果（金）计划建立首个证券交易所。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3128155",
+          "title": "微软正合并其企业与消费者端AI聊天机器人。 该公司正将多个Copilot AI聊天机器人整合到一个APP。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3128176",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "03时09分"
         },
         {
           "title": "市场消息：随着人工智能矿业热潮吸引投资目光，刚果（金）计划建立其首个证券交易所。",
@@ -156,17 +214,6 @@
           "source": "bilibili 热搜",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "美国AI三大巨头争抢哲学家",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E4%B8%89%E5%A4%A7%E5%B7%A8%E5%A4%B4%E4%BA%89%E6%8A%A2%E5%93%B2%E5%AD%A6%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 1,
