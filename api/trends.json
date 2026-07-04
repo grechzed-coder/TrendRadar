@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T14:11:13.878962+08:00",
-  "total_titles_processed": 876,
+  "generated_at": "2026-07-04T17:14:18.037667+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "三部门调整节能汽车、新能源汽车车船税优惠政策",
@@ -73,6 +73,18 @@
           "time_info": "[01时13分 ~ 06时57分]"
         },
         {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 17时14分]"
+        },
+        {
           "title": "新能源汽车车船税优惠政策调整",
           "url": "https://www.douyin.com/hot/2557214",
           "source": "抖音",
@@ -114,18 +126,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时13分 ~ 14时11分]"
-        },
-        {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时58分 ~ 14时11分]"
         },
         {
           "title": "王源上海演唱会",
@@ -389,6 +389,30 @@
           "time_info": "[03时02分 ~ 04时53分]"
         },
         {
+          "title": "韩红基金会回应八大问题，涉及电脑采购、人员薪资、投资理财等，能挽回公众信任吗？",
+          "url": "https://www.zhihu.com/question/2056125863993914328",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 17时14分]"
+        },
+        {
+          "title": "三部门：调整节能汽车、新能源汽车车船税优惠政策",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33511352",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 17时14分]"
+        },
+        {
           "title": "王俊凯演唱会万份伴手礼",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%87%E4%BB%BD%E4%BC%B4%E6%89%8B%E7%A4%BC%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -406,7 +430,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时11分"
         },
@@ -422,6 +446,17 @@
           "time_info": "10时34分"
         },
         {
+          "title": "王俊凯演唱会8000张票",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A8000%E5%BC%A0%E7%A5%A8%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "SemiAnalysis：AI数据中心内存支出占比2027年或突破40%",
           "url": "https://flash.jin10.com/detail/20260704084017236800",
           "source": "金十数据",
@@ -433,28 +468,6 @@
           "time_info": "10时34分"
         },
         {
-          "title": "三部门：调整节能汽车、新能源汽车车船税优惠政策",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33511352",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "韩红基金会回应八大问题，涉及电脑采购、人员薪资、投资理财等，能挽回公众信任吗？",
-          "url": "https://www.zhihu.com/question/2056125863993914328",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时11分"
-        },
-        {
           "title": "如何看待AI模型蒸馏",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85AI%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -464,6 +477,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "业内首个AI-eSIM产业协同平台成立",
+          "url": "https://wallstreetcn.com/livenews/3128902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "王俊凯演唱会初五漫潮初六收潮",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E5%88%9D%E4%BA%94%E6%BC%AB%E6%BD%AE%E5%88%9D%E5%85%AD%E6%94%B6%E6%BD%AE%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "行业最直观的风向标闪烁红灯，词元经济学动摇AI热潮叙事",
