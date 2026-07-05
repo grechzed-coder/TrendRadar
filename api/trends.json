@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T07:54:18.309384+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-07-05T10:04:31.948177+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -17,19 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 07时54分]"
-        },
-        {
-          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
-          "url": "https://wallstreetcn.com/livenews/3128944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 10时04分]"
         },
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
@@ -43,6 +32,18 @@
           "time_info": "[00时54分 ~ 06时48分]"
         },
         {
+          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
+          "url": "https://wallstreetcn.com/livenews/3128944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 10时04分]"
+        },
+        {
           "title": "王力宏成都演唱会摔倒受伤",
           "url": "https://www.douyin.com/hot/2558662",
           "source": "抖音",
@@ -51,20 +52,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 07时54分]"
-        },
-        {
-          "title": "王力宏演唱会摔倒 面部出血",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E6%91%94%E5%80%92+%E9%9D%A2%E9%83%A8%E5%87%BA%E8%A1%80",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 07时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 10时04分]"
         },
         {
           "title": "韩国存储扩产、Meta出租算力--野村谈“存储两大利空”",
@@ -76,8 +65,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 10时04分]"
+        },
+        {
+          "title": "王力宏演唱会摔倒 面部出血",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E6%91%94%E5%80%92+%E9%9D%A2%E9%83%A8%E5%87%BA%E8%A1%80",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 10时04分]"
         },
         {
           "title": "王力宏演唱会摔倒脸部流血",
@@ -87,11 +89,12 @@
             6,
             7,
             13,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 10时04分]"
         },
         {
           "title": "韩红基金会回应八大问题，涉及电脑采购、人员薪资、投资理财等，能挽回公众信任吗？",
@@ -101,8 +104,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 10时04分]"
         },
         {
           "title": "说唱巅峰对决持续上强度",
@@ -113,8 +116,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时08分 ~ 05时49分]"
+          "appearance_count": 5,
+          "time_info": "[04时08分 ~ 10时04分]"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
@@ -127,6 +130,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时57分]"
+        },
+        {
+          "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
+          "url": "https://wallstreetcn.com/articles/3776203",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 10时04分]"
         },
         {
           "title": "吴宣仪演唱会",
@@ -152,15 +167,15 @@
           "time_info": "[06时47分 ~ 06时48分]"
         },
         {
-          "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
-          "url": "https://wallstreetcn.com/articles/3776203",
-          "source": "华尔街见闻",
+          "title": "光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
+          "url": "https://flash.jin10.com/detail/20260705082204108800",
+          "source": "金十数据",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时54分"
+          "time_info": "10时04分"
         },
         {
           "title": "美蓓亚三美将提高用于AI数据中心的轴承产量",
@@ -180,7 +195,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
