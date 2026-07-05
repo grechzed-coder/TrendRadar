@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-06T06:53:17.335614+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-07-06T07:57:38.492728+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
       "match_count": 14,
       "titles": [
+        {
+          "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
+          "url": "https://wallstreetcn.com/articles/3776219",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 07时57分]"
+        },
         {
           "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
           "url": "https://wallstreetcn.com/articles/3776218",
@@ -16,20 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 06时53分]"
-        },
-        {
-          "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
-          "url": "https://wallstreetcn.com/articles/3776219",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 07时57分]"
         },
         {
           "title": "说唱巅峰对决第二期舞台锐评",
@@ -39,11 +40,12 @@
             25,
             28,
             29,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时57分]"
         },
         {
           "title": "王力宏演唱会摔倒缝了39针",
@@ -66,11 +68,12 @@
             5,
             6,
             10,
-            16
+            16,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 07时57分]"
         },
         {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
@@ -78,11 +81,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 07时57分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
@@ -90,11 +94,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 07时57分]"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
@@ -104,11 +109,12 @@
             13,
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 07时57分]"
         },
         {
           "title": "王力宏演唱会摔倒面部、耳朵受伤，缝了 39 针，工作室回应是威亚操作不当，如何避免类似事故再发生？",
@@ -120,8 +126,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 07时57分]"
         },
         {
           "title": "王力宏演唱会边唱边流血",
@@ -179,11 +185,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时52分 ~ 06时53分]"
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 07时57分]"
         }
       ]
     }
