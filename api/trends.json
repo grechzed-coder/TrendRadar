@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T21:08:01.594956+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-07-05T23:06:40.044398+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -89,6 +89,19 @@
           "time_info": "[00时54分 ~ 10时04分]"
         },
         {
+          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
+          "url": "https://wallstreetcn.com/articles/3776218",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时35分 ~ 23时06分]"
+        },
+        {
           "title": "王力宏演唱会摔倒脸部流血",
           "url": "https://www.toutiao.com/trending/7658655424954076682/",
           "source": "今日头条",
@@ -115,27 +128,28 @@
           "time_info": "[00时54分 ~ 10时04分]"
         },
         {
-          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
-          "url": "https://wallstreetcn.com/articles/3776218",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时35分 ~ 21时08分]"
-        },
-        {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
           "url": "https://wallstreetcn.com/articles/3776219",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 21时08分]"
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 23时06分]"
+        },
+        {
+          "title": "王力宏演唱会摔倒缝了39针",
+          "url": "https://www.douyin.com/hot/2558924",
+          "source": "抖音",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时30分 ~ 23时06分]"
         },
         {
           "title": "王力宏演唱会摔倒面部、耳朵受伤，缝了 39 针，工作室回应是威亚操作不当，如何避免类似事故再发生？",
@@ -143,11 +157,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 21时08分]"
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 23时06分]"
         },
         {
           "title": "《北京数字经济发展报告（2025—2026）》发布 2025年人工智能核心产业规模约4500亿元",
@@ -161,28 +176,39 @@
           "time_info": "14时31分"
         },
         {
-          "title": "王力宏演唱会摔倒缝了39针",
-          "url": "https://www.douyin.com/hot/2558924",
-          "source": "抖音",
-          "ranks": [
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时30分 ~ 21时08分]"
-        },
-        {
           "title": "智能体下线,AI女友凉了？",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时35分 ~ 21时08分]"
+          "appearance_count": 4,
+          "time_info": "[17时35分 ~ 23时06分]"
+        },
+        {
+          "title": "国泰海通：机器人、商业航天、AI新材料等主题投资再次兴起",
+          "url": "https://flash.jin10.com/detail/20260705225805600800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
+          "title": "张新成演唱会翻唱率",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BF%BB%E5%94%B1%E7%8E%87%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
@@ -197,6 +223,20 @@
           "time_info": "[07时54分 ~ 19时23分]"
         },
         {
+          "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长；整体运营前景预计季度和同比都会增长。",
+          "url": "https://wallstreetcn.com/livenews/3128984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时35分 ~ 23时06分]"
+        },
+        {
           "title": "说唱巅峰对决持续上强度",
           "url": "https://www.douyin.com/hot/2558424",
           "source": "抖音",
@@ -209,17 +249,29 @@
           "time_info": "[04时08分 ~ 10时04分]"
         },
         {
-          "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长；整体运营前景预计季度和同比都会增长。",
-          "url": "https://wallstreetcn.com/livenews/3128984",
-          "source": "华尔街见闻-快讯",
+          "title": "AI称野蘑菇无毒 9岁娃吃完抢救8天",
+          "url": "https://www.baidu.com/s?wd=AI%E7%A7%B0%E9%87%8E%E8%98%91%E8%8F%87%E6%97%A0%E6%AF%92+9%E5%B2%81%E5%A8%83%E5%90%83%E5%AE%8C%E6%8A%A2%E6%95%918%E5%A4%A9",
+          "source": "百度热搜",
           "ranks": [
-            5,
-            10,
-            15
+            23,
+            27,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时35分 ~ 21时08分]"
+          "time_info": "[19时23分 ~ 23时06分]"
+        },
+        {
+          "title": "说唱巅峰对决第二期舞台锐评",
+          "url": "https://www.douyin.com/hot/2558957",
+          "source": "抖音",
+          "ranks": [
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时07分 ~ 23时06分]"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
@@ -246,29 +298,6 @@
           "time_info": "[01时57分 ~ 02时59分]"
         },
         {
-          "title": "AI称野蘑菇无毒 9岁娃吃完抢救8天",
-          "url": "https://www.baidu.com/s?wd=AI%E7%A7%B0%E9%87%8E%E8%98%91%E8%8F%87%E6%97%A0%E6%AF%92+9%E5%B2%81%E5%A8%83%E5%90%83%E5%AE%8C%E6%8A%A2%E6%95%918%E5%A4%A9",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 21时08分]"
-        },
-        {
-          "title": "说唱巅峰对决第二期舞台锐评",
-          "url": "https://www.douyin.com/hot/2558957",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时07分 ~ 21时08分]"
-        },
-        {
           "title": "加木民乐风说唱太上头了",
           "url": "https://www.douyin.com/hot/2558437",
           "source": "抖音",
@@ -278,6 +307,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时47分 ~ 06时48分]"
+        },
+        {
+          "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
+          "url": "https://wallstreetcn.com/livenews/3129011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
@@ -302,6 +342,17 @@
           "time_info": "05时49分"
         },
         {
+          "title": "SK海力士寻求通过在美上市吸引更多AI投资者",
+          "url": "https://flash.jin10.com/detail/20260705221127542800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "野村证券：当前全球存储行业仍严重供应短缺 AI驱动的结构性需求增长尚未见顶",
           "url": "https://flash.jin10.com/detail/20260705113833548800",
           "source": "金十数据",
@@ -324,6 +375,17 @@
           "time_info": "17时35分"
         },
         {
+          "title": "上海演唱会万人齐喊“歌王”！胡彦斌：成事靠秘，我会努力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33521876",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "应采儿Jasper现身陈小春演唱会",
           "url": "https://www.toutiao.com/trending/7658300615705526308/",
           "source": "今日头条",
@@ -344,6 +406,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
+        },
+        {
+          "title": "短视频最火声音被AI偷走了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E8%A7%86%E9%A2%91%E6%9C%80%E7%81%AB%E5%A3%B0%E9%9F%B3%E8%A2%ABAI%E5%81%B7%E8%B5%B0%E4%BA%86%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "鹿晗去了周震南演唱会",
