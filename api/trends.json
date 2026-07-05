@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T00:56:07.715045+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-06T01:56:53.920073+08:00",
+  "total_titles_processed": 357,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/articles/3776218",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时56分]"
         },
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
           "url": "https://wallstreetcn.com/articles/3776219",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时56分]"
         },
         {
           "title": "张新成演唱会翻唱率",
@@ -36,31 +38,33 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时56分]"
         },
         {
           "title": "说唱巅峰对决第二期舞台锐评",
           "url": "https://www.douyin.com/hot/2558957",
           "source": "抖音",
           "ranks": [
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时56分]"
         },
         {
           "title": "王力宏演唱会摔倒缝了39针",
           "url": "https://www.douyin.com/hot/2558924",
           "source": "抖音",
           "ranks": [
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时56分]"
         },
         {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
@@ -69,31 +73,45 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时56分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时56分]"
         },
         {
           "title": "王力宏演唱会边唱边流血",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E8%BE%B9%E5%94%B1%E8%BE%B9%E6%B5%81%E8%A1%80",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时56分]"
+        },
+        {
+          "title": "王力宏演唱会摔倒面部、耳朵受伤，缝了 39 针，工作室回应是威亚操作不当，如何避免类似事故再发生？",
+          "url": "https://www.zhihu.com/question/2056836082835121433",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时56分]"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
@@ -102,20 +120,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "王力宏演唱会摔倒面部、耳朵受伤，缝了 39 针，工作室回应是威亚操作不当，如何避免类似事故再发生？",
-          "url": "https://www.zhihu.com/question/2056836082835121433",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时56分]"
         },
         {
           "title": "上海演唱会万人齐喊“歌王”！胡彦斌：成事靠秘，我会努力",
@@ -124,9 +131,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时56分]"
         },
         {
           "title": "电诈人员用AI同时和100多人聊天",
@@ -135,9 +142,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时56分]"
         },
         {
           "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长；整体运营前景预计季度和同比都会增长。",
@@ -146,9 +153,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时56分]"
         }
       ]
     }
