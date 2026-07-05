@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T01:56:53.920073+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2026-07-06T03:04:11.249379+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时04分]"
         },
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
@@ -28,19 +28,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时04分]"
         },
         {
           "title": "张新成演唱会翻唱率",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BF%BB%E5%94%B1%E7%8E%87%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时04分]"
         },
         {
           "title": "说唱巅峰对决第二期舞台锐评",
@@ -51,8 +52,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 03时04分]"
         },
         {
           "title": "王力宏演唱会摔倒缝了39针",
@@ -60,11 +61,12 @@
           "source": "抖音",
           "ranks": [
             26,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 03时04分]"
         },
         {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
@@ -74,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时04分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
@@ -86,8 +88,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时04分]"
         },
         {
           "title": "王力宏演唱会边唱边流血",
@@ -98,8 +100,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时04分]"
         },
         {
           "title": "王力宏演唱会摔倒面部、耳朵受伤，缝了 39 针，工作室回应是威亚操作不当，如何避免类似事故再发生？",
@@ -107,44 +109,48 @@
           "source": "知乎",
           "ranks": [
             13,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时04分]"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
           "url": "https://www.cls.cn/detail/2417353",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时56分]"
-        },
-        {
-          "title": "上海演唱会万人齐喊“歌王”！胡彦斌：成事靠秘，我会努力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33521876",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时04分]"
         },
         {
           "title": "电诈人员用AI同时和100多人聊天",
           "url": "https://www.baidu.com/s?wd=%E7%94%B5%E8%AF%88%E4%BA%BA%E5%91%98%E7%94%A8AI%E5%90%8C%E6%97%B6%E5%92%8C100%E5%A4%9A%E4%BA%BA%E8%81%8A%E5%A4%A9",
           "source": "百度热搜",
           "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时04分]"
+        },
+        {
+          "title": "上海演唱会万人齐喊“歌王”！胡彦斌：成事靠秘，我会努力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33521876",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时04分]"
         },
         {
           "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长；整体运营前景预计季度和同比都会增长。",
@@ -154,8 +160,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时04分]"
         }
       ]
     }
