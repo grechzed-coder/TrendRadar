@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T07:11:44.664249+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-07-09T09:57:44.237567+08:00",
+  "total_titles_processed": 765,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 25,
+      "match_count": 31,
       "titles": [
         {
           "title": "我国人工智能产业加速发展壮大",
@@ -15,8 +15,43 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时20分 ~ 09时57分]"
+        },
+        {
+          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
+          "url": "https://wallstreetcn.com/articles/3776428",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时20分 ~ 07时11分]"
+          "time_info": "[01时20分 ~ 09时57分]"
+        },
+        {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时20分 ~ 09时57分]"
+        },
+        {
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时20分 ~ 09时57分]"
         },
         {
           "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
@@ -36,7 +71,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -101,40 +136,6 @@
           "time_info": "[01时20分 ~ 07时11分]"
         },
         {
-          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
-          "url": "https://wallstreetcn.com/articles/3776428",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 07时11分]"
-        },
-        {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 07时11分]"
-        },
-        {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 07时11分]"
-        },
-        {
           "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
           "url": "https://www.zhihu.com/question/2058166406420460573",
           "source": "知乎",
@@ -183,6 +184,17 @@
           "time_info": "[01时20分 ~ 03时08分]"
         },
         {
+          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
+          "url": "https://wallstreetcn.com/articles/3776500",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
           "title": "穆迪：具备数字现金能力的AI智能代理将改变金融业，但也会扩大风险范围。",
           "url": "https://flash.jin10.com/detail/20260709041822379800",
           "source": "金十数据",
@@ -192,6 +204,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "A股算力租赁板块再度拉升，浪潮信息2连板创新高，广脉科技涨超10%，赛意信息、利通电子、深桑达A、宏景科技、广电运通跟涨。",
+          "url": "https://flash.jin10.com/detail/20260709094111441800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
           "title": "SpaceXAI与Cursor联合发布Grok AI模型，主打法律与金融任务",
@@ -205,13 +228,35 @@
           "time_info": "03时08分"
         },
         {
+          "title": "英伟达估值跌回AI热潮前 华尔街看多热情未减",
+          "url": "https://www.cls.cn/detail/2420934",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "阶跃星辰将发布AI智能体手机",
+          "url": "https://wallstreetcn.com/livenews/3130994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
           "title": "多家算力产业链公司上半年业绩预增",
           "url": "https://wallstreetcn.com/livenews/3130919",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -225,6 +270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "港股算力硬件股走高，兆易创新(03986.HK)涨近12%，澜起科技(06809.HK)涨8.6%，大族数控(03200.HK)涨超7%，联想集团(00992.HK)涨超5%，长飞光纤光缆(06869.HK)涨4.8%。",
+          "url": "https://flash.jin10.com/detail/20260709094024581800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
           "title": "华纳兄弟探索（WBD）与亚马逊旗下AWS开发Agentic AI广告体验。",
@@ -258,6 +314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "Meta测试“超级感知”AI眼镜 “全视全听”挑战隐私边界",
+          "url": "https://flash.jin10.com/detail/20260709093845465800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         },
         {
           "title": "OpenAI：将扩大与美国政府及盟友在关键防御领域的合作。",
