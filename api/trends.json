@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T03:23:10.242299+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2026-07-10T05:13:30.457524+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 05时13分]"
         },
         {
           "title": "李荣浩演唱会天津站取消",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 05时13分]"
         },
         {
           "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 05时13分]"
         },
         {
           "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
@@ -51,8 +51,43 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 05时13分]"
+        },
+        {
+          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
+          "url": "https://wallstreetcn.com/articles/3776515",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 05时13分]"
+        },
+        {
+          "title": "TOP青岛演唱会抢票时间",
+          "url": "https://s.weibo.com/weibo?q=%23TOP%E9%9D%92%E5%B2%9B%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8%E6%97%B6%E9%97%B4%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 05时13分]"
+        },
+        {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时48分 ~ 05时13分]"
         },
         {
           "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
@@ -61,17 +96,6 @@
           "ranks": [
             6,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 03时23分]"
-        },
-        {
-          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
-          "url": "https://wallstreetcn.com/articles/3776515",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -89,27 +113,27 @@
           "time_info": "[01时48分 ~ 03时23分]"
         },
         {
-          "title": "TOP青岛演唱会抢票时间",
-          "url": "https://s.weibo.com/weibo?q=%23TOP%E9%9D%92%E5%B2%9B%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8%E6%97%B6%E9%97%B4%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "哈兰德全网征集中国旅行攻略",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%85%B0%E5%BE%B7%E5%85%A8%E7%BD%91%E5%BE%81%E9%9B%86%E4%B8%AD%E5%9B%BD%E6%97%85%E8%A1%8C%E6%94%BB%E7%95%A5",
+          "source": "百度热搜",
           "ranks": [
-            16,
-            19
+            26,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时48分 ~ 03时23分]"
+          "time_info": "[01时48分 ~ 05时13分]"
         },
         {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
+          "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
+          "url": "https://www.cls.cn/detail/2422188",
+          "source": "财联社热门",
           "ranks": [
-            29
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 03时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "Meta：探索AI云业务是合理的，考虑出租算力",
@@ -118,7 +142,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
         },
@@ -132,6 +156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "OpenAI：GPT‑5.6现已成为微软365 Copilot的首选模型。",
+          "url": "https://flash.jin10.com/detail/20260710040649835800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "阿波罗350亿美元AI芯片信贷交易即将开始交易",
@@ -162,7 +197,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
         },
@@ -184,9 +219,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "OpenAI：微软将通过API调用其模型，向Microsoft 365客户推出GPT-5.6服务。",
+          "url": "https://flash.jin10.com/detail/20260710040229258800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "谷歌公司在广告中提高AI透明度。 谷歌在搜索、Youtube广告中新增AI信息披露标签。",
@@ -211,6 +257,17 @@
           "time_info": "01时48分"
         },
         {
+          "title": "一条AI短片演绎杨戬劈山",
+          "url": "https://www.douyin.com/hot/2564959",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
           "title": "OpenAI：GPT-5.6系列模型Sol、Terra、Luna将登陆Chatgpt、Codex及API。",
           "url": "https://flash.jin10.com/detail/20260710010603930800",
           "source": "金十数据",
@@ -222,15 +279,26 @@
           "time_info": "01时48分"
         },
         {
-          "title": "哈兰德全网征集中国旅行攻略",
-          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%85%B0%E5%BE%B7%E5%85%A8%E7%BD%91%E5%BE%81%E9%9B%86%E4%B8%AD%E5%9B%BD%E6%97%85%E8%A1%8C%E6%94%BB%E7%95%A5",
-          "source": "百度热搜",
+          "title": "据The Information：Cursor正开发AI智能代理，欲对标Claude Cowork。",
+          "url": "https://flash.jin10.com/detail/20260710035905609800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "扎克伯格否认Meta算力过剩，称：租出去可能更划算",
+          "url": "https://wallstreetcn.com/livenews/3131522",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "05时13分"
         }
       ]
     }
