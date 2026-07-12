@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T15:59:55.061069+08:00",
-  "total_titles_processed": 913,
+  "generated_at": "2026-07-12T17:51:18.839714+08:00",
+  "total_titles_processed": 1032,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 15时59分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 17时51分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 15时59分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 17时51分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -120,6 +120,33 @@
           "time_info": "[04时47分 ~ 07时44分]"
         },
         {
+          "title": "成也 Seedance 2.0，败也 Seedance 2.0！AI漫剧行业已经没有了？",
+          "url": "https://wallstreetcn.com/articles/3776704",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 17时51分]"
+        },
+        {
+          "title": "赵露思澳门演唱会再唱星河叹",
+          "url": "https://www.douyin.com/hot/2567668",
+          "source": "抖音",
+          "ranks": [
+            11,
+            23,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时47分 ~ 17时51分]"
+        },
+        {
           "title": "锐评说唱巅峰2v2舞台",
           "url": "https://www.douyin.com/hot/2567692",
           "source": "抖音",
@@ -132,29 +159,28 @@
           "time_info": "[00时43分 ~ 05时40分]"
         },
         {
-          "title": "赵露思澳门演唱会再唱星河叹",
-          "url": "https://www.douyin.com/hot/2567668",
-          "source": "抖音",
+          "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
+          "url": "https://wallstreetcn.com/livenews/3132380",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            23,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时47分 ~ 15时59分]"
-        },
-        {
-          "title": "成也 Seedance 2.0，败也 Seedance 2.0！AI漫剧行业已经没有了？",
-          "url": "https://wallstreetcn.com/articles/3776704",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
+            10,
+            16,
+            24
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时47分 ~ 15时59分]"
+          "time_info": "[13时18分 ~ 17时51分]"
+        },
+        {
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 17时51分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -168,27 +194,16 @@
           "time_info": "[03时59分 ~ 05时40分]"
         },
         {
-          "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
-          "url": "https://wallstreetcn.com/livenews/3132380",
-          "source": "华尔街见闻-快讯",
+          "title": "韩红演唱会武汉站取消",
+          "url": "https://www.toutiao.com/trending/7660494002474516486/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            16
+            6,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时18分 ~ 15时59分]"
-        },
-        {
-          "title": "无人机吊起2人神图系AI合成",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 15时59分]"
+          "time_info": "[15时59分 ~ 17时51分]"
         },
         {
           "title": "算力芯片爆发",
@@ -203,26 +218,48 @@
           "time_info": "[13时18分 ~ 15时59分]"
         },
         {
-          "title": "韩红演唱会武汉站取消",
-          "url": "https://www.toutiao.com/trending/7660494002474516486/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        },
-        {
           "title": "机构：HBM4价格今年下半年或涨至4-5美元/千比特 AI需求与产能瓶颈致全球DRAM半数产能被大厂锁定",
           "url": "https://flash.jin10.com/detail/20260712150627108800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
+        },
+        {
+          "title": "韩红武汉演唱会宣布取消",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E6%AD%A6%E6%B1%89%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%A3%E5%B8%83%E5%8F%96%E6%B6%88",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "周末要闻汇总：国常会最新部署！加快新一代通信网、算力网建设；长江存储IPO有最新进展",
+          "url": "https://www.cls.cn/detail/2423777",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "据福克斯新闻：人工智能连续第三个月成为美国裁员的主要原因。",
@@ -264,7 +301,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         }
