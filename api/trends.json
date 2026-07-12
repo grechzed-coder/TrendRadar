@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T19:05:45.988973+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2026-07-12T20:56:38.442999+08:00",
+  "total_titles_processed": 1218,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 19时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 20时56分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -28,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 19时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 20时56分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -96,6 +97,21 @@
           "time_info": "[00时43分 ~ 02时45分]"
         },
         {
+          "title": "赵露思澳门演唱会再唱星河叹",
+          "url": "https://www.douyin.com/hot/2567668",
+          "source": "抖音",
+          "ranks": [
+            11,
+            23,
+            12,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 20时56分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
           "url": "https://flash.jin10.com/detail/20260712043502920800",
           "source": "金十数据",
@@ -108,6 +124,19 @@
           "time_info": "[04时47分 ~ 07时44分]"
         },
         {
+          "title": "周末要闻汇总：国常会最新部署！加快新一代通信网、算力网建设；长江存储IPO有最新进展",
+          "url": "https://www.cls.cn/detail/2423777",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 20时56分]"
+        },
+        {
           "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
           "url": "https://flash.jin10.com/detail/20260712032711538800",
           "source": "金十数据",
@@ -118,20 +147,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时47分 ~ 07时44分]"
-        },
-        {
-          "title": "赵露思澳门演唱会再唱星河叹",
-          "url": "https://www.douyin.com/hot/2567668",
-          "source": "抖音",
-          "ranks": [
-            11,
-            23,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 19时05分]"
         },
         {
           "title": "成也 Seedance 2.0，败也 Seedance 2.0！AI漫剧行业已经没有了？",
@@ -159,16 +174,16 @@
           "time_info": "[00时43分 ~ 05时40分]"
         },
         {
-          "title": "周末要闻汇总：国常会最新部署！加快新一代通信网、算力网建设；长江存储IPO有最新进展",
-          "url": "https://www.cls.cn/detail/2423777",
-          "source": "财联社热门",
+          "title": "人口第一大国，被AI做空了",
+          "url": "https://wallstreetcn.com/articles/3776722",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            4
+            9,
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时51分 ~ 19时05分]"
+          "time_info": "[19时05分 ~ 20时56分]"
         },
         {
           "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
@@ -196,6 +211,19 @@
           "time_info": "[13时18分 ~ 19时05分]"
         },
         {
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 20时56分]"
+        },
+        {
           "title": "韩红演唱会武汉站取消",
           "url": "https://www.toutiao.com/trending/7660494002474516486/",
           "source": "今日头条",
@@ -209,6 +237,19 @@
           "time_info": "[15时59分 ~ 19时05分]"
         },
         {
+          "title": "韩红武汉演唱会宣布取消",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E6%AD%A6%E6%B1%89%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%A3%E5%B8%83%E5%8F%96%E6%B6%88",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 20时56分]"
+        },
+        {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
           "url": "https://www.cls.cn/detail/2423447",
           "source": "财联社热门",
@@ -218,30 +259,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时59分 ~ 05时40分]"
-        },
-        {
-          "title": "韩红武汉演唱会宣布取消",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E6%AD%A6%E6%B1%89%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%A3%E5%B8%83%E5%8F%96%E6%B6%88",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 19时05分]"
-        },
-        {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 19时05分]"
         },
         {
           "title": "算力芯片爆发",
@@ -267,17 +284,6 @@
           "time_info": "15时59分"
         },
         {
-          "title": "人口第一大国，被AI做空了",
-          "url": "https://wallstreetcn.com/articles/3776722",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时05分"
-        },
-        {
           "title": "据福克斯新闻：人工智能连续第三个月成为美国裁员的主要原因。",
           "url": "https://flash.jin10.com/detail/20260712090326604800",
           "source": "金十数据",
@@ -295,7 +301,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
         },
