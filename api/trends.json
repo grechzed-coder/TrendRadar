@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T20:56:38.442999+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2026-07-12T22:24:08.470732+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 20时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 22时24分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 20时56分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 22时24分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -57,6 +57,22 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时43分 ~ 09时47分]"
+        },
+        {
+          "title": "赵露思澳门演唱会再唱星河叹",
+          "url": "https://www.douyin.com/hot/2567668",
+          "source": "抖音",
+          "ranks": [
+            11,
+            23,
+            12,
+            16,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 22时24分]"
         },
         {
           "title": "谢霆锋郑州演唱会",
@@ -86,6 +102,20 @@
           "time_info": "[00时43分 ~ 07时44分]"
         },
         {
+          "title": "周末要闻汇总：国常会最新部署！加快新一代通信网、算力网建设；长江存储IPO有最新进展",
+          "url": "https://www.cls.cn/detail/2423777",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 22时24分]"
+        },
+        {
           "title": "国常会：要系统推进数字中国建设，加快新一代通信网、算力网建设，全面赋能经济社会发展",
           "url": "https://www.cls.cn/detail/2423220",
           "source": "财联社热门",
@@ -95,21 +125,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时43分 ~ 02时45分]"
-        },
-        {
-          "title": "赵露思澳门演唱会再唱星河叹",
-          "url": "https://www.douyin.com/hot/2567668",
-          "source": "抖音",
-          "ranks": [
-            11,
-            23,
-            12,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时47分 ~ 20时56分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
@@ -122,19 +137,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时47分 ~ 07时44分]"
-        },
-        {
-          "title": "周末要闻汇总：国常会最新部署！加快新一代通信网、算力网建设；长江存储IPO有最新进展",
-          "url": "https://www.cls.cn/detail/2423777",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 20时56分]"
         },
         {
           "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
@@ -162,6 +164,40 @@
           "time_info": "[09时47分 ~ 17时51分]"
         },
         {
+          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
+          "url": "https://wallstreetcn.com/articles/3776632",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "招商证券：海外科技波动加大 关注国产算力机会",
+          "url": "https://flash.jin10.com/detail/20260712215048587800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "人口第一大国，被AI做空了",
+          "url": "https://wallstreetcn.com/articles/3776722",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时05分 ~ 22时24分]"
+        },
+        {
           "title": "锐评说唱巅峰2v2舞台",
           "url": "https://www.douyin.com/hot/2567692",
           "source": "抖音",
@@ -174,16 +210,18 @@
           "time_info": "[00时43分 ~ 05时40分]"
         },
         {
-          "title": "人口第一大国，被AI做空了",
-          "url": "https://wallstreetcn.com/articles/3776722",
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            3
+            8,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时05分 ~ 20时56分]"
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 22时24分]"
         },
         {
           "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
@@ -209,19 +247,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时18分 ~ 19时05分]"
-        },
-        {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 20时56分]"
         },
         {
           "title": "韩红演唱会武汉站取消",
