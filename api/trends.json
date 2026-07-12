@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T05:40:35.715468+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-07-13T06:38:46.923901+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 05时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 06时38分]"
         },
         {
           "title": "人口第一大国，被AI做空了",
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 05时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 06时38分]"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
           "url": "https://www.cls.cn/detail/2423546",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 05时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 06时38分]"
         },
         {
           "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
@@ -48,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 05时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 06时38分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -59,8 +60,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 05时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 06时38分]"
         },
         {
           "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
@@ -70,8 +71,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 05时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 06时38分]"
         },
         {
           "title": "AI是如何“杀死”印度IT行业的",
@@ -79,22 +80,24 @@
           "source": "今日头条",
           "ranks": [
             27,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 02时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 06时38分]"
         },
         {
           "title": "韩红演唱会武汉站取消",
           "url": "https://www.toutiao.com/trending/7660494002474516486/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时03分 ~ 05时40分]"
+          "appearance_count": 3,
+          "time_info": "[04时03分 ~ 06时38分]"
         }
       ]
     }
