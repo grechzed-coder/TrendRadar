@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T19:18:20.823628+08:00",
-  "total_titles_processed": 1431,
+  "generated_at": "2026-07-14T21:08:16.369485+08:00",
+  "total_titles_processed": 1581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 48,
+      "match_count": 59,
       "titles": [
         {
           "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -42,8 +42,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时06分 ~ 19时18分]"
+          "appearance_count": 12,
+          "time_info": "[01时06分 ~ 21时08分]"
         },
         {
           "title": "解锁2026世界人工智能大会新亮点",
@@ -122,11 +122,26 @@
           "source": "微博",
           "ranks": [
             2,
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 19时18分]"
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 21时08分]"
+        },
+        {
+          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 21时08分]"
         },
         {
           "title": "AI预测法国vs西班牙赛果",
@@ -135,11 +150,25 @@
           "ranks": [
             3,
             21,
-            29
+            29,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 21时08分]"
+        },
+        {
+          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
+          "url": "https://www.zhihu.com/question/2059349642496710015",
+          "source": "知乎",
+          "ranks": [
+            7,
+            13,
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时42分 ~ 19时18分]"
+          "time_info": "[15时05分 ~ 21时08分]"
         },
         {
           "title": "疑AI生成环卫工照片获摄影比赛一等奖",
@@ -159,18 +188,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "AI生成图片被评摄影一等奖 官方通报",
-          "url": "https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87%E8%A2%AB%E8%AF%84%E6%91%84%E5%BD%B1%E4%B8%80%E7%AD%89%E5%A5%96+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -186,17 +204,31 @@
           "time_info": "12时42分"
         },
         {
-          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
-          "url": "https://www.zhihu.com/question/2059349642496710015",
-          "source": "知乎",
+          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
+            20,
+            17,
             13,
-            4
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时05分 ~ 19时18分]"
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 21时08分]"
+        },
+        {
+          "title": "AI生成图片被评摄影一等奖 官方通报",
+          "url": "https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E5%9B%BE%E7%89%87%E8%A2%AB%E8%AF%84%E6%91%84%E5%BD%B1%E4%B8%80%E7%AD%89%E5%A5%96+%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 21时08分]"
         },
         {
           "title": "AI恐慌缓和，美股盘前存储芯片股普涨，韩股深V反弹，原油上涨，黄金小幅上扬",
@@ -223,19 +255,6 @@
           "time_info": "[04时50分 ~ 05时45分]"
         },
         {
-          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 19时18分]"
-        },
-        {
           "title": "惠誉：未来几年，人工智能带来的行业颠覆对大多数北美多元化服务公司的信用风险仍处于可控范围。",
           "url": "https://flash.jin10.com/detail/20260714041440304800",
           "source": "金十数据",
@@ -260,18 +279,17 @@
           "time_info": "[05时45分 ~ 06时45分]"
         },
         {
-          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
-          "source": "澎湃新闻",
+          "title": "孙正义：核聚变是人工智能未来的关键 15年后将取代天然气",
+          "url": "https://www.cls.cn/detail/2425710",
+          "source": "财联社热门",
           "ranks": [
-            20,
-            17,
             13,
-            12
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 19时18分]"
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 21时08分]"
         },
         {
           "title": "中国自研AI芯片取得架构突破",
@@ -287,6 +305,18 @@
           "time_info": "[01时06分 ~ 09时26分]"
         },
         {
+          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
+          "url": "https://wallstreetcn.com/articles/3776903",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 21时08分]"
+        },
+        {
           "title": "看陈泽AI跳舞是一种挑战",
           "url": "https://www.douyin.com/hot/2570068",
           "source": "抖音",
@@ -299,16 +329,16 @@
           "time_info": "[09时26分 ~ 12时42分]"
         },
         {
-          "title": "孙正义：核聚变是人工智能未来的关键 15年后将取代天然气",
-          "url": "https://www.cls.cn/detail/2425710",
+          "title": "【每日收评】午后市场集体反攻！创业板指探底回升涨超3%， PCB等算力硬件股卷土重来",
+          "url": "https://www.cls.cn/detail/2425939",
           "source": "财联社热门",
           "ranks": [
-            13,
+            12,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时47分 ~ 19时18分]"
+          "time_info": "[19时18分 ~ 21时08分]"
         },
         {
           "title": "AI杀死时尚行业",
@@ -346,6 +376,17 @@
           "time_info": "[17时47分 ~ 19时18分]"
         },
         {
+          "title": "AI生成环卫工照片获摄影比赛一等奖",
+          "url": "https://www.toutiao.com/trending/7662295509886697491/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "2026世界人工智能大会看点速览。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3133040",
           "source": "华尔街见闻-快讯",
@@ -368,6 +409,17 @@
           "time_info": "07时44分"
         },
         {
+          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
+          "url": "https://www.zhihu.com/question/2060385485915263811",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "UP主解读AI浪潮下的资本周期",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBAI%E6%B5%AA%E6%BD%AE%E4%B8%8B%E7%9A%84%E8%B5%84%E6%9C%AC%E5%91%A8%E6%9C%9F",
           "source": "bilibili 热搜",
@@ -379,15 +431,15 @@
           "time_info": "17时47分"
         },
         {
-          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
-          "url": "https://wallstreetcn.com/articles/3776903",
-          "source": "华尔街见闻",
+          "title": "美联储主席沃什：我们尚不清楚经济将从AI建设中获得多大益处。",
+          "url": "https://flash.jin10.com/detail/20260714204501084800",
+          "source": "金十数据",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时18分"
+          "time_info": "21时08分"
         },
         {
           "title": "DeepSeek最新一轮融资后，梁文锋身家超越Anthropic达里奥和OpenAI布罗克曼",
@@ -399,6 +451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "美联储主席沃什：当前经济最突出的特征是商业投资。其快速步伐——且似乎还在加快——在很大程度上反映了数据中心的建设以及填满这些中心的AI相关设备和软件的庞大需求。",
+          "url": "https://flash.jin10.com/detail/20260714204440954800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "AI生成环卫工照片获摄影比赛一等奖",
@@ -445,15 +508,26 @@
           "time_info": "07时44分"
         },
         {
-          "title": "【每日收评】午后市场集体反攻！创业板指探底回升涨超3%， PCB等算力硬件股卷土重来",
-          "url": "https://www.cls.cn/detail/2425939",
-          "source": "财联社热门",
+          "title": "邹市明夫妇投资理财亏损 2 亿，为什么会亏这么多？投资理财时要注意些什么？",
+          "url": "https://www.zhihu.com/question/2060364904519791870",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "美联储主席沃什：美联储对持续高通胀“零容忍”。 商业投资是当前经济最显著的特征。 美国经济具有韧性，增长步伐稳健。 消费增长温和，住房市场持续滞后。 AI机遇对决策者构成挑战。 正在监测AI对通胀和劳动力市场的影响。 劳动力市场总体稳定，名义工资增长稳健。 （沃什未就利率前景发表评论）",
+          "url": "https://wallstreetcn.com/livenews/3133664",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时18分"
+          "time_info": "21时08分"
         },
         {
           "title": "美国光伏巨头进军“卖算力”赛道 CEO声称用户每月能挣数百美元",
@@ -465,6 +539,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）我们将摧毁镐山（Pickaxe Mountain）。",
@@ -500,6 +585,17 @@
           "time_info": "15时05分"
         },
         {
+          "title": "谷歌：Chrome浏览器AI功能将于下月扩展至iOS平台。 将Chrome浏览器内嵌Gemini AI功能扩展至英国用户。",
+          "url": "https://wallstreetcn.com/livenews/3133659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "据英国金融时报：威尔士党(Plaid Cymru) 籍威尔士首席大臣向“未来首相”安迪·伯纳姆发起挑战，要求其通过向位于卡迪夫的威尔士政府下放一系列新权力，来证明其对权力下放政策的承诺。",
           "url": "https://flash.jin10.com/detail/20260714120511509800",
           "source": "金十数据",
@@ -509,6 +605,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "美联储主席沃什：AI机遇对决策者构成挑战。正在监测AI对通胀和劳动力市场的影响。",
+          "url": "https://flash.jin10.com/detail/20260714203815370800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "A股三大指数均跌超1%，创业板指此前一度涨近2%，军工、半导体、游戏、算力租赁等方向跌幅居前，沪深京三市下跌个股近3500只。",
@@ -522,6 +629,17 @@
           "time_info": "12时42分"
         },
         {
+          "title": "DeepSeek梁文锋成AI公司新首富",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%88%90AI%E5%85%AC%E5%8F%B8%E6%96%B0%E9%A6%96%E5%AF%8C",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "创业板指涨超3%，深成指涨超2%，沪指涨0.63%，算力硬件、医药、油气等方向领涨，沪深京三市上涨个股近3900只。",
           "url": "https://wallstreetcn.com/livenews/3133346",
           "source": "华尔街见闻-快讯",
@@ -533,13 +651,24 @@
           "time_info": "15时05分"
         },
         {
+          "title": "智谱：公司英文名称已由\"Knowledge Atlas Technology Joint Stock Company Limited\"变更为\"Z.AI Co., Ltd.\"",
+          "url": "https://wallstreetcn.com/livenews/3133639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "Plus图示：AI需求推高美通胀，但影响或接近触顶",
           "url": "https://flash.jin10.com/detail/20260714184820271800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
