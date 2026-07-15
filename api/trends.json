@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T21:12:44.707503+08:00",
-  "total_titles_processed": 1668,
+  "generated_at": "2026-07-15T23:18:59.327159+08:00",
+  "total_titles_processed": 1793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 79,
+      "match_count": 96,
       "titles": [
         {
           "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
@@ -88,6 +88,40 @@
           "time_info": "[01时03分 ~ 15时07分]"
         },
         {
+          "title": "5张图看懂中国人工智能进化之路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586048",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 23时18分]"
+        },
+        {
+          "title": "国行苹果AI完成备案",
+          "url": "https://www.douyin.com/hot/2572485",
+          "source": "抖音",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 23时18分]"
+        },
+        {
+          "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33589310",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 23时18分]"
+        },
+        {
           "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
           "url": "https://www.cls.cn/detail/2426403",
           "source": "财联社热门",
@@ -98,6 +132,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时03分 ~ 09时23分]"
+        },
+        {
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
+          "ranks": [
+            16,
+            6,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时41分 ~ 23时18分]"
         },
         {
           "title": "AI生成环卫工照片获摄影比赛一等奖",
@@ -126,52 +174,20 @@
           "time_info": "[01时03分 ~ 09时23分]"
         },
         {
-          "title": "5张图看懂中国人工智能进化之路",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586048",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 21时12分]"
-        },
-        {
-          "title": "国行苹果AI完成备案",
-          "url": "https://www.douyin.com/hot/2572485",
-          "source": "抖音",
+          "title": "AI拿冠军,摄影比赛闹笑话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
+          "source": "贴吧",
           "ranks": [
             4,
-            2
+            7,
+            10,
+            11,
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 21时12分]"
-        },
-        {
-          "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33589310",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 21时12分]"
-        },
-        {
-          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
-          "url": "https://www.zhihu.com/question/2060645375338180828",
-          "source": "知乎",
-          "ranks": [
-            16,
-            6,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时41分 ~ 21时12分]"
+          "appearance_count": 6,
+          "time_info": "[12时41分 ~ 23时18分]"
         },
         {
           "title": "摩根士丹利CEO：预计人工智能资本支出将持续增长。",
@@ -180,7 +196,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -199,21 +215,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时03分 ~ 09时23分]"
-        },
-        {
-          "title": "AI拿冠军,摄影比赛闹笑话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            7,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时41分 ~ 21时12分]"
         },
         {
           "title": "【佰维存储：预计上半年净利润70亿元至75亿元，上年同期亏损2.26亿元】本期业绩大幅增长，主要受益于AI算力爆发与存储行业进入高景气周期，公司的产品和客户结构持续优化，同时公司在芯片设计、解决方案、先进封测及测试设备等领域不断加大投入力度，增强市场竞争力。",
@@ -260,6 +261,19 @@
           "time_info": "19时22分"
         },
         {
+          "title": "【焦点复盘】科创50长阴反包逼近30日线，算力硬件股全天低迷，大消费板块全线回暖",
+          "url": "https://www.cls.cn/detail/2427336",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 23时18分]"
+        },
+        {
           "title": "争抢AI人才，腾讯校招实习生有机会享受正式员工薪资待遇",
           "url": "https://wallstreetcn.com/livenews/3134267",
           "source": "华尔街见闻-快讯",
@@ -269,6 +283,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
+        },
+        {
+          "title": "美联储主席沃什：认为大学毕业生具备应对AI所需的技能与直觉。",
+          "url": "https://wallstreetcn.com/livenews/3134476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "逐玉一念演唱会官宣",
@@ -292,19 +317,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
-        },
-        {
-          "title": "【焦点复盘】科创50长阴反包逼近30日线，算力硬件股全天低迷，大消费板块全线回暖",
-          "url": "https://www.cls.cn/detail/2427336",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 21时12分]"
         },
         {
           "title": "美联储理事、曾经担任金融监管事务的副主席迈克尔·巴尔表示，尽管他欢迎创新，但AI究竟会减少还是加剧收入和财富不平等，目前尚不清楚。 “关于AI在不远和遥远的未来将能做到什么，我们听到了许多大胆论断。有些可能会成为现实，有些则不会。但未来的不平等不仅取决于AI能做什么，也取决于我们选择用AI做什么，”巴尔表示。",
@@ -521,6 +533,39 @@
           "time_info": "05时47分"
         },
         {
+          "title": "美联储主席沃什：我认为美国的大学毕业生具备应对人工智能所需的技能和直觉。",
+          "url": "https://flash.jin10.com/detail/20260715225337412800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "创新药“算力”告急？“猴哥”单价冲至20万 谁在推高这股风",
+          "url": "https://www.cls.cn/detail/2427627",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "沃什：AI是否会导致通胀取决于美联储",
+          "url": "https://flash.jin10.com/detail/20260715225310593800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "白宫启动网络安全“金鹰”AI倡议，优先应对网络安全漏洞",
           "url": "https://wallstreetcn.com/livenews/3133922",
           "source": "华尔街见闻-快讯",
@@ -637,9 +682,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
+        },
+        {
+          "title": "市场消息：欧盟与印度同意加强在芯片、人工智能、6G和量子领域的合作。",
+          "url": "https://flash.jin10.com/detail/20260715225144065800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "据媒体报道，人工智能云计算公司 CoreWeave正在探索使用金融衍生品，作为防范未来内存和存储芯片价格下跌的潜在对冲手段。",
@@ -675,6 +731,28 @@
           "time_info": "07时43分"
         },
         {
+          "title": "欧盟与印度围绕霍尔木兹海峡问题“启动正式磋商”达成共识。 双方希望，在2026年年底之前完成相关讨论。 双方还同意，围绕芯片、AI、6G、量子进行合作。",
+          "url": "https://wallstreetcn.com/livenews/3134467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "沃什：近期通胀数据未完全反映真实压力 AI投资短期内有利就业",
+          "url": "https://flash.jin10.com/detail/20260715224958848800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "上海市新增2款已备案生成式人工智能服务，包括Apple 智能、努比亚豆包手机大模型",
           "url": "https://wallstreetcn.com/livenews/3134245",
           "source": "华尔街见闻-快讯",
@@ -708,6 +786,17 @@
           "time_info": "17时51分"
         },
         {
+          "title": "沃什：怀疑AI将在未来12个月推高价格",
+          "url": "https://wallstreetcn.com/livenews/3134465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "印媒：“悄然转向”，印度企业青睐中国AI大模型",
           "url": "https://flash.jin10.com/detail/20260715064114258800",
           "source": "金十数据",
@@ -725,9 +814,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
+        },
+        {
+          "title": "美联储主席沃什：人工智能引发的价格飙升是真实存在的，我不想对此轻描淡写。",
+          "url": "https://flash.jin10.com/detail/20260715224720664800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "美联储主席沃什：我一直都要求获得关于一些列新AI模型的权限。",
+          "url": "https://wallstreetcn.com/livenews/3134462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "受创纪录销售额及AI需求激增推动，韩美半导体股价飙升",
@@ -750,6 +861,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
+        },
+        {
+          "title": "美联储主席沃什：关于人工智能的短期影响，我无法保证不会造成就业颠覆，也无法在就业问题上让人安心。",
+          "url": "https://flash.jin10.com/detail/20260715224637511800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "为什么目前 AI 的设备是用 Mac 为主，而不是熟知的 Windows？",
@@ -785,6 +907,17 @@
           "time_info": "07时43分"
         },
         {
+          "title": "美联储主席沃什：相信人工智能是长期的就业创造者，可能会带来颠覆性影响。",
+          "url": "https://flash.jin10.com/detail/20260715224531095800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "当我让AI算亲戚称呼",
           "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E6%88%91%E8%AE%A9AI%E7%AE%97%E4%BA%B2%E6%88%9A%E7%A7%B0%E5%91%BC&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -816,6 +949,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
+        },
+        {
+          "title": "美联储主席沃什：预计未来12个月人工智能将推高可观测到的物价水平，AI是否会导致通胀取决于美联储。",
+          "url": "https://flash.jin10.com/detail/20260715224507553800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "OpenAI置评苹果公司发起的窃密诉讼：对原告的任何证据都不知情。 我们严肃对待苹果的指控。",
@@ -862,6 +1006,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "美联储主席沃什：我们看到人工智能对需求的影响比对供给的影响来得更快。",
+          "url": "https://flash.jin10.com/detail/20260715224319239800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "苹果正与一家能将AI模型压缩至在iPhone上运行的初创公司洽谈",
           "url": "https://wallstreetcn.com/livenews/3133806",
           "source": "华尔街见闻-快讯",
@@ -895,13 +1050,35 @@
           "time_info": "17时51分"
         },
         {
+          "title": "世界人工智能大会逛展攻略来了",
+          "url": "https://www.douyin.com/hot/2570881",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "苹果公司寻找AI芯片交易。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3134452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "苹果AI完成国内备案，千问、百度各有合作侧重",
           "url": "https://wallstreetcn.com/livenews/3134386",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -926,6 +1103,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
+        },
+        {
+          "title": "戴上墨镜原地开启演唱会",
+          "url": "https://www.douyin.com/hot/2572747",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         }
       ]
     }
