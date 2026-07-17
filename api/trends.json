@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T06:39:26.170310+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-07-18T07:43:18.471219+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "2026世界人工智能大会亮点速览",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时00分 ~ 06时39分]"
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 07时43分]"
         },
         {
           "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时39分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时43分]"
         },
         {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
@@ -37,19 +37,33 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时39分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时43分]"
         },
         {
           "title": "高志凯：要对美国“人工智能霸凌”说“不”",
           "url": "https://news.ifeng.com/c/8upHX3E0KP3",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时07分 ~ 06时39分]"
+          "appearance_count": 6,
+          "time_info": "[02时07分 ~ 07时43分]"
+        },
+        {
+          "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+          "url": "https://wallstreetcn.com/articles/3777168",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时43分]"
         },
         {
           "title": "单依纯上海演唱会",
@@ -58,11 +72,12 @@
           "ranks": [
             22,
             13,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时00分 ~ 06时39分]"
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 07时43分]"
         },
         {
           "title": "王力宏长沙演唱会",
@@ -75,8 +90,23 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时00分 ~ 06时39分]"
+          "appearance_count": 10,
+          "time_info": "[01时00分 ~ 07时43分]"
+        },
+        {
+          "title": "UP主手搓WAIC逛展小助手",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93WAIC%E9%80%9B%E5%B1%95%E5%B0%8F%E5%8A%A9%E6%89%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            6,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时43分]"
         },
         {
           "title": "说唱巅峰名人堂争夺抢先看",
@@ -93,30 +123,17 @@
           "time_info": "[01时00分 ~ 06时39分]"
         },
         {
-          "title": "UP主手搓WAIC逛展小助手",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93WAIC%E9%80%9B%E5%B1%95%E5%B0%8F%E5%8A%A9%E6%89%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时39分]"
-        },
-        {
-          "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
-          "url": "https://wallstreetcn.com/articles/3777168",
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://wallstreetcn.com/articles/3777174",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            6
+            8,
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时39分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时43分]"
         },
         {
           "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
@@ -139,8 +156,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时39分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时43分]"
         },
         {
           "title": "中国拉群搞AI,28国兄弟入伙",
@@ -150,20 +167,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时39分]"
-        },
-        {
-          "title": "习近平宣布中国支持全球人工智能发展重大举措",
-          "url": "https://wallstreetcn.com/articles/3777174",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时39分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时43分]"
         },
         {
           "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
@@ -171,11 +176,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时39分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时43分]"
         },
         {
           "title": "2026世界人工智能大会有哪些不同",
@@ -184,11 +190,51 @@
           "ranks": [
             6,
             14,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时39分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时43分]"
+        },
+        {
+          "title": "大瓦特·让每一度电都有AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33604737",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时43分]"
+        },
+        {
+          "title": "一图世界｜外媒渲染“陷阱”，开源和闭源AI究竟有什么区别？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33603374",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时43分]"
+        },
+        {
+          "title": "演唱会版酣梦于彼岸深红",
+          "url": "https://search.bilibili.com/all?keyword=%E6%BC%94%E5%94%B1%E4%BC%9A%E7%89%88%E9%85%A3%E6%A2%A6%E4%BA%8E%E5%BD%BC%E5%B2%B8%E6%B7%B1%E7%BA%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            24,
+            22,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时43分]"
         },
         {
           "title": "伊朗革命卫队打击并摧毁了美军驻巴林的无人艇存放基地，大量无人艇被大火焚毁。此外，巴林的主要人工智能中心也遭到多枚弹道导弹和数十架无人机的打击，已被完全摧毁。该中心被美国用于定位敌方目标，以实施战争罪行。（央视）",
@@ -200,30 +246,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
-        },
-        {
-          "title": "大瓦特·让每一度电都有AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33604737",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时39分]"
-        },
-        {
-          "title": "一图世界｜外媒渲染“陷阱”，开源和闭源AI究竟有什么区别？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33603374",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时39分]"
         },
         {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
@@ -245,20 +267,6 @@
           "ranks": [
             13,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时39分]"
-        },
-        {
-          "title": "演唱会版酣梦于彼岸深红",
-          "url": "https://search.bilibili.com/all?keyword=%E6%BC%94%E5%94%B1%E4%BC%9A%E7%89%88%E9%85%A3%E6%A2%A6%E4%BA%8E%E5%BD%BC%E5%B2%B8%E6%B7%B1%E7%BA%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            24,
-            22,
-            25
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -314,11 +322,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时39分]"
+          "appearance_count": 3,
+          "time_info": "[05时42分 ~ 07时43分]"
         },
         {
           "title": "报道：美国考虑设立类似FINRA的监管机构，来审查顶尖AI模型",
@@ -326,11 +335,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时39分]"
+          "appearance_count": 3,
+          "time_info": "[05时42分 ~ 07时43分]"
         },
         {
           "title": "伊朗革命卫队：如果美国继续打击伊朗目标，伊方将扩大对美国在中东地区相关工业、科技和人工智能资产的攻击。",
@@ -338,11 +348,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时39分]"
+          "appearance_count": 3,
+          "time_info": "[05时42分 ~ 07时43分]"
         },
         {
           "title": "据纽约时报，扎克伯格旗下Meta Platforms Inc.洽谈向Anthropic出租算力。 未来两年的潜在交易金额可能高达100亿美元。 相关磋商还处于早期阶段。 Meta跌幅收窄至3%。",
@@ -357,6 +368,19 @@
           "time_info": "[01时01分 ~ 02时07分]"
         },
         {
+          "title": "伊朗革命卫队：伊军袭击了美国驻巴林的基础设施，摧毁无人艇仓库及一处人工智能中心。此次行动是对美国此前袭击伊朗桥梁等基础设施事件的回应。",
+          "url": "https://flash.jin10.com/detail/20260718044353532800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时42分 ~ 07时43分]"
+        },
+        {
           "title": "今年的世界人工智能大会（WAIC）有哪些看点？",
           "url": "https://www.zhihu.com/question/2059240244864611894",
           "source": "知乎",
@@ -367,18 +391,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时01分 ~ 03时59分]"
-        },
-        {
-          "title": "伊朗革命卫队：伊军袭击了美国驻巴林的基础设施，摧毁无人艇仓库及一处人工智能中心。此次行动是对美国此前袭击伊朗桥梁等基础设施事件的回应。",
-          "url": "https://flash.jin10.com/detail/20260718044353532800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时39分]"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX洽谈向美国五角大楼提供算力。 协议规模将小于与Anthropic和谷歌公司签署的协议。（华尔街日报）",
@@ -416,6 +428,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
+          "url": "https://wallstreetcn.com/articles/3777230",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
           "title": "据悉SpaceX正洽谈为美国防部的AI项目提供数十亿美元算力",
           "url": "https://flash.jin10.com/detail/20260718030935465800",
           "source": "金十数据",
@@ -436,6 +459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "经纬度：AI走向物理世界，经济新引擎的机遇与考验",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33606069",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "“一片惨绿”席卷新兴市场股市，AI担忧重创全球市场",
