@@ -1,33 +1,49 @@
 {
-  "generated_at": "2026-07-19T06:39:51.149196+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-07-19T07:43:19.725321+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
           "url": "https://wallstreetcn.com/articles/3777275",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时43分]"
         },
         {
-          "title": "超300款AI新品迎来全球首发",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%85300%E6%AC%BEAI%E6%96%B0%E5%93%81%E8%BF%8E%E6%9D%A5%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "AI牛市结束了吗？市场充满疑虑",
+          "url": "https://wallstreetcn.com/articles/3777289",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时43分]"
+        },
+        {
+          "title": "李荣浩赣州演唱会",
+          "url": "https://www.douyin.com/hot/2576178",
+          "source": "抖音",
+          "ranks": [
+            27,
+            29,
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时43分]"
         },
         {
           "title": "黄子韬成都演唱会",
@@ -37,35 +53,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 06时39分]"
-        },
-        {
-          "title": "美CIA局长：中国5G与AI领先是大问题",
-          "url": "https://www.toutiao.com/trending/7663822176776208390/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时39分]"
-        },
-        {
-          "title": "李荣浩赣州演唱会",
-          "url": "https://www.douyin.com/hot/2576178",
-          "source": "抖音",
-          "ranks": [
-            27,
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 05时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时43分]"
         },
         {
           "title": "王俊凯演唱会退场天才",
@@ -79,8 +68,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时43分]"
         },
         {
           "title": "《大众摄影》回应刊发“五腿牛”照片：作者承认系使用AI失误",
@@ -92,30 +81,35 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时43分]"
         },
         {
-          "title": "AI牛市结束了吗？市场充满疑虑",
-          "url": "https://wallstreetcn.com/articles/3777289",
-          "source": "华尔街见闻",
+          "title": "美CIA局长：中国5G与AI领先是大问题",
+          "url": "https://www.toutiao.com/trending/7663822176776208390/",
+          "source": "今日头条",
           "ranks": [
-            6
+            5,
+            4,
+            19,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时43分]"
+        },
+        {
+          "title": "超300款AI新品迎来全球首发",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%85300%E6%AC%BEAI%E6%96%B0%E5%93%81%E8%BF%8E%E6%9D%A5%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3,
+            20
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时39分]"
-        },
-        {
-          "title": "外交部驳斥“蒸馏论”：矮化中国AI创新能力，居心叵测",
-          "url": "https://news.ifeng.com/c/8urOVdXg5Y1",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 02时46分]"
+          "time_info": "[01时47分 ~ 07时43分]"
         },
         {
           "title": "直击2026WAIC：超300台真机扎堆，具身智能离GPT时刻还差海量物理数据",
@@ -126,8 +120,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时43分]"
         },
         {
           "title": "95后夫妻手搓500集AI漫剧爆火",
@@ -139,8 +133,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时43分]"
+        },
+        {
+          "title": "上游订单爆表、下游不计代价！“大空头”查诺斯：AI这笔账为什么算不过来",
+          "url": "https://wallstreetcn.com/articles/3777307",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时43分]"
         },
         {
           "title": "上海标志性太空算力星座工程发布 剑指千星部署 商业航天再迎催化",
@@ -150,20 +157,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时39分]"
-        },
-        {
-          "title": "上游订单爆表、下游不计代价！“大空头”查诺斯：AI这笔账为什么算不过来",
-          "url": "https://wallstreetcn.com/articles/3777307",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时43分]"
         },
         {
           "title": "世界人工智能大会超全攻略",
@@ -173,8 +168,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时43分]"
         },
         {
           "title": "报道：白宫正主导前沿AI模型的访问权限，权力正从科技巨头手中转移",
@@ -186,8 +181,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时43分]"
         },
         {
           "title": "曦智科技全栈光电算力技术亮相WAIC 2026",
@@ -199,8 +194,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时43分]"
         },
         {
           "title": "聚焦极端天气与城市灾害预警，“华雨GeoAI”大模型在WAIC首发",
@@ -212,8 +207,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时43分]"
         },
         {
           "title": "美企抄袭中国AI玩双标被点名",
@@ -223,8 +218,30 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时43分]"
+        },
+        {
+          "title": "中国拉群搞AI,28国兄弟入伙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356275&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8B%89%E7%BE%A4%E6%90%9EAI%2C28%E5%9B%BD%E5%85%84%E5%BC%9F%E5%85%A5%E4%BC%99",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时43分]"
+        },
+        {
+          "title": "外交部驳斥“蒸馏论”：矮化中国AI创新能力，居心叵测",
+          "url": "https://news.ifeng.com/c/8urOVdXg5Y1",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 02时46分]"
         },
         {
           "title": "2026世界人工智能大会有哪些不同",
@@ -243,15 +260,15 @@
           "time_info": "[00时45分 ~ 06时39分]"
         },
         {
-          "title": "中国拉群搞AI,28国兄弟入伙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356275&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8B%89%E7%BE%A4%E6%90%9EAI%2C28%E5%9B%BD%E5%85%84%E5%BC%9F%E5%85%A5%E4%BC%99",
-          "source": "贴吧",
+          "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
+          "url": "https://flash.jin10.com/detail/20260719055403527800",
+          "source": "金十数据",
           "ranks": [
-            23
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时39分]"
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时43分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -289,17 +306,6 @@
           "time_info": "[01时46分 ~ 05时41分]"
         },
         {
-          "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
-          "url": "https://flash.jin10.com/detail/20260719055403527800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
           "title": "AI赋能先进核能凝练八大共识",
           "url": "https://www.toutiao.com/trending/7663872937329430062/",
           "source": "今日头条",
@@ -309,6 +315,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
+          "url": "https://www.cls.cn/detail/2430308",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时59分 ~ 07时43分]"
         },
         {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
@@ -321,19 +341,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时45分 ~ 04时45分]"
-        },
-        {
-          "title": "华为、阿里等集体亮剑 超节点多成果亮相WAIC 国产算力向互联和系统集成延伸",
-          "url": "https://www.cls.cn/detail/2430308",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时59分 ~ 06时39分]"
         },
         {
           "title": "国产AI算力迈入万卡集群时代：超节点市场刚起步，供应链依旧紧张",
@@ -382,6 +389,18 @@
           "time_info": "[01时46分 ~ 02时46分]"
         },
         {
+          "title": "阿里云WAIC论坛： “AI爆发不靠一两颗芯片”、SaaS将转向“按结果付费”、模型不再是唯一核心",
+          "url": "https://wallstreetcn.com/articles/3777301",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时43分]"
+        },
+        {
           "title": "日媒：印企越来越依赖中国AI大模型",
           "url": "https://www.toutiao.com/trending/7662655184850780187/",
           "source": "今日头条",
@@ -406,6 +425,17 @@
           "time_info": "[00时45分 ~ 01时47分]"
         },
         {
+          "title": "曝蔡依林演唱会报酬税后仅90万",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A5%E9%85%AC%E7%A8%8E%E5%90%8E%E4%BB%8590%E4%B8%87%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
           "title": "Meta算力变现迎首位大客户，报道：拟向Anthropic出租算力，合同达100亿美元",
           "url": "https://wallstreetcn.com/articles/3777257",
           "source": "华尔街见闻",
@@ -415,17 +445,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
-        },
-        {
-          "title": "阿里云WAIC论坛： “AI爆发不靠一两颗芯片”、SaaS将转向“按结果付费”、模型不再是唯一核心",
-          "url": "https://wallstreetcn.com/articles/3777301",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
         },
         {
           "title": "CORTIS演唱会被吐槽",
