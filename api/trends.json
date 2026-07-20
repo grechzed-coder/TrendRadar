@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T16:40:45.631393+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2026-07-20T19:36:54.471404+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 62,
+      "match_count": 69,
       "titles": [
         {
           "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
@@ -79,6 +79,18 @@
           "time_info": "[00时45分 ~ 07时48分]"
         },
         {
+          "title": "鸣潮演唱会官方录播",
+          "url": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E6%96%B9%E5%BD%95%E6%92%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 19时36分]"
+        },
+        {
           "title": "上海标志性太空算力星座工程发布 剑指千星部署 商业航天再迎催化",
           "url": "https://www.cls.cn/detail/2430247",
           "source": "财联社热门",
@@ -130,15 +142,27 @@
           "time_info": "[00时45分 ~ 07时48分]"
         },
         {
-          "title": "鸣潮演唱会官方录播",
-          "url": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E6%96%B9%E5%BD%95%E6%92%AD",
-          "source": "bilibili 热搜",
+          "title": "中国人工智能发展到什么程度了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%E4%BA%86%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时42分 ~ 16时40分]"
+          "time_info": "[16时40分 ~ 19时36分]"
+        },
+        {
+          "title": "院士谈年轻人该如何学AI",
+          "url": "https://search.bilibili.com/all?keyword=%E9%99%A2%E5%A3%AB%E8%B0%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%AF%A5%E5%A6%82%E4%BD%95%E5%AD%A6AI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 19时36分]"
         },
         {
           "title": "中国信通院在2026年人工智能向善全球峰会期间举办“脑机接口：技术向善与标准合作”研讨会",
@@ -158,7 +182,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -174,24 +198,13 @@
           "time_info": "13时42分"
         },
         {
-          "title": "院士谈年轻人该如何学AI",
-          "url": "https://search.bilibili.com/all?keyword=%E9%99%A2%E5%A3%AB%E8%B0%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%AF%A5%E5%A6%82%E4%BD%95%E5%AD%A6AI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
           "title": "上海市人工智能重点项目签约仪式举行",
           "url": "https://flash.jin10.com/detail/20260720163142168800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -207,17 +220,6 @@
           "time_info": "13时42分"
         },
         {
-          "title": "中国人工智能发展到什么程度了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%91%E5%B1%95%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6%E4%BA%86%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
           "title": "《人工智能发展与安全倡议书》发布：为构建安全、可信、可控的人工智能共同奋斗",
           "url": "https://wallstreetcn.com/livenews/3136307",
           "source": "华尔街见闻-快讯",
@@ -229,6 +231,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时45分 ~ 04时03分]"
+        },
+        {
+          "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
+          "url": "https://wallstreetcn.com/articles/3777388",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "AI服务器、算力租赁概念大幅走强，浪潮信息、行云科技、利通电子、杭钢股份、紫光股份、美利云、浙大网新等多股涨停，亚康股份、首都在线、宏景科技等涨超10%。",
@@ -278,6 +291,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时41分 ~ 10时02分]"
+        },
+        {
+          "title": "Kimi：算力紧缺，即日起暂停C端新用户订阅，将已有算力全部投入于服务已订阅用户",
+          "url": "https://wallstreetcn.com/articles/3777376",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 19时36分]"
         },
         {
           "title": "超节点集中亮相WAIC 国产算力进入系统级竞争时代",
@@ -341,6 +367,18 @@
           "time_info": "[04时03分 ~ 05时42分]"
         },
         {
+          "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
+          "url": "https://www.zhihu.com/question/2062518030224061737",
+          "source": "知乎",
+          "ranks": [
+            13,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 19时36分]"
+        },
+        {
           "title": "从算力底座到应用现场，上海AI跑出产业正循环生态",
           "url": "https://wallstreetcn.com/livenews/3136321",
           "source": "华尔街见闻-快讯",
@@ -351,6 +389,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时03分 ~ 05时42分]"
+        },
+        {
+          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 19时36分]"
         },
         {
           "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
@@ -378,29 +430,16 @@
           "time_info": "[00时45分 ~ 02时52分]"
         },
         {
-          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
-          "source": "澎湃新闻",
+          "title": "AI不准用,日本漫画家被迫停更",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
+          "source": "贴吧",
           "ranks": [
-            17,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 16时40分]"
-        },
-        {
-          "title": "Kimi：算力紧缺，即日起暂停C端新用户订阅，将已有算力全部投入于服务已订阅用户",
-          "url": "https://wallstreetcn.com/articles/3777376",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
+            6,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时42分 ~ 16时40分]"
+          "time_info": "[16时40分 ~ 19时36分]"
         },
         {
           "title": "Kimi：即日起暂停C端新用户订阅，将已有算力全部投入于服务已订阅用户，已在全速推进算力扩容",
@@ -413,6 +452,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时03分 ~ 05时42分]"
+        },
+        {
+          "title": "王祖贤肖像授权网易AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356337&amp;topic_name=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%82%96%E5%83%8F%E6%8E%88%E6%9D%83%E7%BD%91%E6%98%93AI",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 19时36分]"
         },
         {
           "title": "OpenAI称Kimi开源是减速主义",
@@ -491,9 +542,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
+        },
+        {
+          "title": "工信部：深入实施“人工智能+制造”行动 加强算力、模型、数据等核心技术供给",
+          "url": "https://flash.jin10.com/detail/20260720190708159800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "台积电CFO：看到AI芯片有“强劲且可持续多年”的需求。 亚利桑那州工厂建设存在物理制约因素，正与美国政府紧密合作。 若市场时机有利，不排除发行债券来资助资本支出。",
@@ -507,15 +569,15 @@
           "time_info": "07时48分"
         },
         {
-          "title": "AI不准用,日本漫画家被迫停更",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
-          "source": "贴吧",
+          "title": "百时美施贵宝：将与英伟达(NVDA.O)合作建设制药行业“最强大的”人工智能超级计算机。",
+          "url": "https://flash.jin10.com/detail/20260720190600516800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时40分"
+          "time_info": "19时36分"
         },
         {
           "title": "创业板指涨超3%，沪指涨1.32%，深成指涨1.73%，油气、算力租赁、半导体芯片、CPO等方向涨幅居前，沪深京三市上涨个股超4200只。",
@@ -529,15 +591,26 @@
           "time_info": "10时02分"
         },
         {
-          "title": "王祖贤肖像授权网易AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356337&amp;topic_name=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%82%96%E5%83%8F%E6%8E%88%E6%9D%83%E7%BD%91%E6%98%93AI",
-          "source": "贴吧",
+          "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
+          "url": "https://wallstreetcn.com/articles/3777377",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时40分"
+          "time_info": "19时36分"
+        },
+        {
+          "title": "【每日收评】双创指数探底回升尾盘翻红，电力、油气板块持续活跃，算力硬件股延续调整",
+          "url": "https://www.cls.cn/detail/2431396",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "台积电(TSM.N)首席财务官：AI芯片需求“强劲且将持续多年”。",
@@ -568,7 +641,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -590,18 +663,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
-          "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
-          "url": "https://www.zhihu.com/question/2062518030224061737",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -634,7 +696,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -667,7 +729,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -700,9 +762,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
+        },
+        {
+          "title": "谢霆锋青岛演唱会暂未取消",
+          "url": "https://www.douyin.com/hot/2578688",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "月之暗面Kimi：算力紧缺 暂停C端新用户订阅",
@@ -716,13 +789,24 @@
           "time_info": "00时45分"
         },
         {
+          "title": "大麦回应谢霆锋青岛演唱会是否取消",
+          "url": "https://www.toutiao.com/trending/7664217120696123433/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "如何看90年数学难题被AI证伪",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B90%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98%E8%A2%ABAI%E8%AF%81%E4%BC%AA",
           "source": "bilibili 热搜",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
