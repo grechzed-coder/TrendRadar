@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T07:48:08.388807+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-07-20T10:02:01.155762+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "世界人工智能合作组织重要阶段性进展",
@@ -17,6 +17,46 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时45分 ~ 04时03分]"
+        },
+        {
+          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777355",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 10时02分]"
+        },
+        {
+          "title": "人工智能换了一种“打开方式”|WAIC观察",
+          "url": "https://www.cls.cn/detail/2430557",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 10时02分]"
+        },
+        {
+          "title": "成立世界人工智能合作组织，中国参与全球治理核心战略的历史性转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33614666",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 10时02分]"
         },
         {
           "title": "如何看待 OpenAI 战略未来负责人对 kimi k3 开源的公开发言？",
@@ -34,37 +74,11 @@
           "time_info": "[00时45分 ~ 07时48分]"
         },
         {
-          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777355",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 07时48分]"
-        },
-        {
           "title": "上海标志性太空算力星座工程发布 剑指千星部署 商业航天再迎催化",
           "url": "https://www.cls.cn/detail/2430247",
           "source": "财联社热门",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 07时48分]"
-        },
-        {
-          "title": "人工智能换了一种“打开方式”|WAIC观察",
-          "url": "https://www.cls.cn/detail/2430557",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10,
-            8
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -89,18 +103,6 @@
           "ranks": [
             11,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 07时48分]"
-        },
-        {
-          "title": "成立世界人工智能合作组织，中国参与全球治理核心战略的历史性转型",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33614666",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -136,6 +138,17 @@
           "time_info": "[00时45分 ~ 04时03分]"
         },
         {
+          "title": "AI服务器、算力租赁概念大幅走强，浪潮信息、行云科技、利通电子、杭钢股份、紫光股份、美利云、浙大网新等多股涨停，亚康股份、首都在线、宏景科技等涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3136464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "蔡依林成都演唱会",
           "url": "https://www.douyin.com/hot/2577282",
           "source": "抖音",
@@ -159,6 +172,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时45分 ~ 07时48分]"
+        },
+        {
+          "title": "Yamy粤语说唱太绝了",
+          "url": "https://www.douyin.com/hot/2577242",
+          "source": "抖音",
+          "ranks": [
+            20,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时41分 ~ 10时02分]"
         },
         {
           "title": "业内：“模数共振”建设可大幅提升工业人工智能模型对场景的适配性",
@@ -210,16 +236,15 @@
           "time_info": "[00时45分 ~ 02时52分]"
         },
         {
-          "title": "Yamy粤语说唱太绝了",
-          "url": "https://www.douyin.com/hot/2577242",
-          "source": "抖音",
+          "title": "如何看待月之暗面 kimi 在 2026 年 7 月 19 日宣布算力紧张，暂停会员开放？",
+          "url": "https://www.zhihu.com/question/2062310754481656074",
+          "source": "知乎",
           "ranks": [
-            20,
-            24
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时41分 ~ 06时42分]"
+          "appearance_count": 2,
+          "time_info": "[07时48分 ~ 10时02分]"
         },
         {
           "title": "Kimi：即日起暂停C端新用户订阅，将已有算力全部投入于服务已订阅用户，已在全速推进算力扩容",
@@ -275,20 +300,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
         {
-          "title": "如何看待月之暗面 kimi 在 2026 年 7 月 19 日宣布算力紧张，暂停会员开放？",
-          "url": "https://www.zhihu.com/question/2062310754481656074",
-          "source": "知乎",
+          "title": "创业板指涨超3%，沪指涨1.32%，深成指涨1.73%，油气、算力租赁、半导体芯片、CPO等方向涨幅居前，沪深京三市上涨个股超4200只。",
+          "url": "https://wallstreetcn.com/livenews/3136456",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时48分"
+          "time_info": "10时02分"
         },
         {
           "title": "台积电(TSM.N)首席财务官：AI芯片需求“强劲且将持续多年”。",
@@ -297,7 +322,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
@@ -311,6 +336,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "全美出现数据中心出售潮，「反数据中心运动」又向红蓝州同时蔓延，这会对市场和 AI 产业形成多大影响？",
+          "url": "https://www.zhihu.com/question/2062127994513183627",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "A股算力概念震荡走高，星宸科技、行云科技20CM涨停，并行科技涨超16%，平治信息、协创数据、宏景科技、利通电子等个股跟涨。消息面上，月之暗面Kimi表示，因算力紧缺，暂停C端新用户订阅。",
+          "url": "https://flash.jin10.com/detail/20260720094631333800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "光电融合芯片有望让Token成本降50% 国产算力集群或成降本关键",
@@ -330,7 +388,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
         },
