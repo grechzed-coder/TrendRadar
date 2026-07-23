@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T04:12:18.067303+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2026-07-24T05:57:22.713558+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 04时12分]"
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 05时57分]"
         },
         {
           "title": "北京：鼓励发展Token（词元）经济，加大算力券等支持力度",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 04时12分]"
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 05时57分]"
         },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 04时12分]"
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 05时57分]"
         },
         {
           "title": "AMD(AMD.O)发布Helios人工智能服务器整机柜。",
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "英特尔(INTC.O)首席财务官：人工智能个人电脑业务收入环比增长26%，现在占我们客户收入结构的三分之二。",
+          "url": "https://flash.jin10.com/detail/20260724052517417800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
         },
         {
           "title": "AMD正式发布Helios机架级AI服务器。",
@@ -74,6 +85,17 @@
           "time_info": "01时10分"
         },
         {
+          "title": "谢霆锋抵达青岛备战演唱会",
+          "url": "https://www.douyin.com/hot/2582607",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 05时57分]"
+        },
+        {
           "title": "花旗包括Andrew Gardiner在内的分析师在一份报告中指出：意法半导体（STMicroelectronics NV）业绩展望显示出终端市场正在建立周期性复苏，且AI/数据中心的增长持续加速。 但相应的，市场预期和股价今年也已大幅上涨。在缺乏进一步上调盈利预期的动力下，该股短期内可能面临压力。",
           "url": "https://wallstreetcn.com/livenews/3139028",
           "source": "华尔街见闻-快讯",
@@ -86,17 +108,6 @@
           "time_info": "[02时59分 ~ 04时12分]"
         },
         {
-          "title": "谢霆锋抵达青岛备战演唱会",
-          "url": "https://www.douyin.com/hot/2582607",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时12分]"
-        },
-        {
           "title": "AI每赚1块钱，谷歌花出去2块",
           "url": "https://wallstreetcn.com/articles/3777748",
           "source": "华尔街见闻",
@@ -104,8 +115,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 04时12分]"
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 05时57分]"
         },
         {
           "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
@@ -117,8 +128,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 04时12分]"
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 05时57分]"
         },
         {
           "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
@@ -130,8 +141,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 04时12分]"
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 05时57分]"
         },
         {
           "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
@@ -141,8 +152,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 04时12分]"
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 05时57分]"
         },
         {
           "title": "不要随意把照片和视频发给AI",
@@ -151,11 +162,12 @@
           "ranks": [
             14,
             15,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 04时12分]"
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 05时57分]"
         },
         {
           "title": "绿茵场上的“技术合伙人”：海信如何用AI重新定义未来",
@@ -166,8 +178,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 04时12分]"
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 05时57分]"
         },
         {
           "title": "美五大科技巨头AI隐性债务被曝达1.65万亿美元",
@@ -221,7 +233,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
         },
@@ -246,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，Stripe正在洽谈收购人工智能模型聚合平台OpenRouter。",
+          "url": "https://flash.jin10.com/detail/20260724045621832800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时57分"
         },
         {
           "title": "xAI：将Grok 4.5投放到苹果公司iOS、安卓、网页、以及X平台。",
@@ -298,7 +321,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
         },
