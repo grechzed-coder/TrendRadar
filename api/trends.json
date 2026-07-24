@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T05:57:14.253248+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-07-25T06:54:37.429938+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时18分 ~ 05时57分]"
+        },
+        {
+          "title": "邓紫棋天津演唱会",
+          "url": "https://www.douyin.com/hot/2584035",
+          "source": "抖音",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 06时54分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：希望美国在开源AI模型方面获胜，希望我们在闭源AI模型方面也能获胜。",
@@ -66,16 +78,17 @@
           "time_info": "00时18分"
         },
         {
-          "title": "邓紫棋天津演唱会",
-          "url": "https://www.douyin.com/hot/2584035",
-          "source": "抖音",
+          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
+          "url": "https://wallstreetcn.com/articles/3777849",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            18
+            10,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时18分 ~ 05时57分]"
+          "time_info": "[00时18分 ~ 06时54分]"
         },
         {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
@@ -83,11 +96,12 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 05时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 06时54分]"
         },
         {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
@@ -102,16 +116,43 @@
           "time_info": "[00时18分 ~ 02时15分]"
         },
         {
-          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
-          "url": "https://wallstreetcn.com/articles/3777849",
+          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
+          "url": "https://wallstreetcn.com/articles/3777836",
           "source": "华尔街见闻",
           "ranks": [
             10,
+            9,
             8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时18分 ~ 05时57分]"
+          "time_info": "[02时15分 ~ 06时54分]"
+        },
+        {
+          "title": "3天3箭15星！多颗“算力卫星”入轨，商业航天迈入规模化商用新周期",
+          "url": "https://www.cls.cn/detail/2436472",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 06时54分]"
+        },
+        {
+          "title": "大厂挤爆AI宠物赛道",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%8E%82%E6%8C%A4%E7%88%86AI%E5%AE%A0%E7%89%A9%E8%B5%9B%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            20,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时15分 ~ 06时54分]"
         },
         {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
@@ -125,18 +166,6 @@
           "time_info": "[00时18分 ~ 04时11分]"
         },
         {
-          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
-          "url": "https://wallstreetcn.com/articles/3777836",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 05时57分]"
-        },
-        {
           "title": "AI重现狼牙山五壮士英雄壮举",
           "url": "https://www.toutiao.com/trending/7666058970050183209/",
           "source": "今日头条",
@@ -148,30 +177,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时18分 ~ 04时11分]"
-        },
-        {
-          "title": "3天3箭15星！多颗“算力卫星”入轨，商业航天迈入规模化商用新周期",
-          "url": "https://www.cls.cn/detail/2436472",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 05时57分]"
-        },
-        {
-          "title": "大厂挤爆AI宠物赛道",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%8E%82%E6%8C%A4%E7%88%86AI%E5%AE%A0%E7%89%A9%E8%B5%9B%E9%81%93",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时15分 ~ 05时57分]"
         },
         {
           "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
