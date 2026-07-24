@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T06:54:37.429938+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-07-25T07:56:41.334071+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,40 @@
           "source": "抖音",
           "ranks": [
             17,
-            18
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 07时56分]"
+        },
+        {
+          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
+          "url": "https://wallstreetcn.com/articles/3777849",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时18分 ~ 06时54分]"
+          "time_info": "[00时18分 ~ 07时56分]"
+        },
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 07时56分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：希望美国在开源AI模型方面获胜，希望我们在闭源AI模型方面也能获胜。",
@@ -78,30 +107,18 @@
           "time_info": "00时18分"
         },
         {
-          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
-          "url": "https://wallstreetcn.com/articles/3777849",
+          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
+          "url": "https://wallstreetcn.com/articles/3777836",
           "source": "华尔街见闻",
           "ranks": [
             10,
+            9,
             8,
             7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时18分 ~ 06时54分]"
-        },
-        {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 06时54分]"
+          "time_info": "[02时15分 ~ 07时56分]"
         },
         {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
@@ -114,19 +131,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 02时15分]"
-        },
-        {
-          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
-          "url": "https://wallstreetcn.com/articles/3777836",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时15分 ~ 06时54分]"
         },
         {
           "title": "3天3箭15星！多颗“算力卫星”入轨，商业航天迈入规模化商用新周期",
