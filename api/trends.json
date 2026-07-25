@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T17:28:44.116786+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2026-07-25T19:02:47.163805+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 52,
+      "match_count": 56,
       "titles": [
         {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
@@ -49,16 +49,18 @@
           "time_info": "[00时18分 ~ 05时57分]"
         },
         {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
+          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
+          "url": "https://wallstreetcn.com/articles/3777901",
+          "source": "华尔街见闻",
           "ranks": [
+            7,
+            5,
             3,
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 17时28分]"
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 19时02分]"
         },
         {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
@@ -73,6 +75,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 09时48分]"
+        },
+        {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 19时02分]"
         },
         {
           "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
@@ -103,19 +118,6 @@
           "time_info": "[02时15分 ~ 09时48分]"
         },
         {
-          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
-          "url": "https://wallstreetcn.com/articles/3777901",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 17时28分]"
-        },
-        {
           "title": "李在明：韩国将成为全球AI供应链中不可替代的核心国家",
           "url": "https://flash.jin10.com/detail/20260725092900836800",
           "source": "金十数据",
@@ -125,6 +127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "消息称，OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
+          "url": "https://wallstreetcn.com/livenews/3139736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：希望美国在开源AI模型方面获胜，希望我们在闭源AI模型方面也能获胜。",
@@ -171,6 +184,19 @@
           "time_info": "00时18分"
         },
         {
+          "title": "SK海力士：与英伟达达成长期AI内存合作协议。",
+          "url": "https://wallstreetcn.com/livenews/3139724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时11分 ~ 19时02分]"
+        },
+        {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
           "url": "https://www.zhihu.com/question/2063832242242184073",
           "source": "知乎",
@@ -183,28 +209,17 @@
           "time_info": "[00时18分 ~ 02时15分]"
         },
         {
-          "title": "SK海力士：与英伟达达成长期AI内存合作协议。",
-          "url": "https://wallstreetcn.com/livenews/3139724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 17时28分]"
-        },
-        {
           "title": "三星电子：与博通签署谅解备忘录，计划至2030年在内存芯片、代工服务及先进封装等领域合作，规模最高可达2000亿美元。 将与博通合作，基于三星HBM技术开发博通下一代AI加速器。 将提供2纳米以下代工工艺及先进封装解决方案。",
           "url": "https://wallstreetcn.com/livenews/3139723",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 17时28分]"
+          "appearance_count": 3,
+          "time_info": "[15时11分 ~ 19时02分]"
         },
         {
           "title": "3天3箭15星！多颗“算力卫星”入轨，商业航天迈入规模化商用新周期",
@@ -233,6 +248,19 @@
           "time_info": "[02时15分 ~ 06时54分]"
         },
         {
+          "title": "韩国科学部：SK集团将与Anthropic在韩国推进千兆瓦级AI数据中心项目投资合作。",
+          "url": "https://wallstreetcn.com/livenews/3139722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时11分 ~ 19时02分]"
+        },
+        {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
           "url": "https://wallstreetcn.com/articles/3777819",
           "source": "华尔街见闻",
@@ -242,6 +270,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时18分 ~ 04时11分]"
+        },
+        {
+          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+          "url": "https://www.zhihu.com/question/2064272326489628784",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时11分 ~ 19时02分]"
         },
         {
           "title": "AI重现狼牙山五壮士英雄壮举",
@@ -257,28 +298,17 @@
           "time_info": "[00时18分 ~ 04时11分]"
         },
         {
-          "title": "韩国科学部：SK集团将与Anthropic在韩国推进千兆瓦级AI数据中心项目投资合作。",
-          "url": "https://wallstreetcn.com/livenews/3139722",
-          "source": "华尔街见闻-快讯",
+          "title": "陈楚生三亚演唱会",
+          "url": "https://www.douyin.com/hot/2584505",
+          "source": "抖音",
           "ranks": [
-            6,
-            12
+            23,
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 17时28分]"
-        },
-        {
-          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
-          "url": "https://www.zhihu.com/question/2064272326489628784",
-          "source": "知乎",
-          "ranks": [
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 17时28分]"
+          "appearance_count": 3,
+          "time_info": "[15时11分 ~ 19时02分]"
         },
         {
           "title": "谢霆锋更新青岛演唱会彩排花絮",
@@ -292,16 +322,27 @@
           "time_info": "[15时11分 ~ 17时28分]"
         },
         {
-          "title": "陈楚生三亚演唱会",
-          "url": "https://www.douyin.com/hot/2584505",
-          "source": "抖音",
+          "title": "TOP青岛演唱会",
+          "url": "https://s.weibo.com/weibo?q=TOP%E9%9D%92%E5%B2%9B%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=24&Refer=top",
+          "source": "微博",
           "ranks": [
-            23,
-            27
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时11分 ~ 17时28分]"
+          "time_info": "[17时28分 ~ 19时02分]"
+        },
+        {
+          "title": "AI已经摸不透柯洁了",
+          "url": "https://www.douyin.com/hot/2584747",
+          "source": "抖音",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 19时02分]"
         },
         {
           "title": "据韩国媒体Newsis援引韩国总统顾问：韩国正推进SK电讯、英伟达等合作建设配备200万块GPU的AI数据中心。",
@@ -335,6 +376,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "马斯克：中国很有可能成AI领导者",
+          "url": "https://www.toutiao.com/trending/7666381434109578761/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "SpaceX股价大跌后或迎来机会 摩根士丹利分析师看好其AI业务估值",
@@ -401,6 +453,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
+        },
+        {
+          "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
+          "url": "https://flash.jin10.com/detail/20260725172016965800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "谢霆锋青岛演唱会",
+          "url": "https://www.douyin.com/hot/2584764",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "Anthropic推出更具成本效益的日常任务AI模型",
@@ -524,17 +598,6 @@
           "time_info": "15时11分"
         },
         {
-          "title": "TOP青岛演唱会",
-          "url": "https://s.weibo.com/weibo?q=TOP%E9%9D%92%E5%B2%9B%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
           "title": "APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明",
           "url": "https://wallstreetcn.com/livenews/3139538",
           "source": "华尔街见闻-快讯",
@@ -555,17 +618,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
-        },
-        {
-          "title": "AI已经摸不透柯洁了",
-          "url": "https://www.douyin.com/hot/2584747",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "摩根士丹利：如果SpaceX股价跌至10%，将意味着该公司的人工智能（AI）毫无价值。",
