@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-28T09:41:22.171893+08:00",
-  "total_titles_processed": 744,
+  "generated_at": "2026-07-28T12:55:40.912205+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 42,
+      "match_count": 53,
       "titles": [
+        {
+          "title": "长鑫科技上市首日暴涨465%，成交破1400亿！创业板大涨3%，算力硬件午后拉升，恒科指涨逾1%，小米大涨超7%",
+          "url": "https://wallstreetcn.com/articles/3777980",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时31分 ~ 12时55分]"
+        },
         {
           "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
           "url": "https://www.cls.cn/detail/2438053",
@@ -14,18 +27,6 @@
           "ranks": [
             1,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 09时41分]"
-        },
-        {
-          "title": "长鑫科技上市首日暴涨465%，成交破1400亿！创业板大涨3%，算力硬件午后拉升，恒科指涨逾1%，小米大涨超7%",
-          "url": "https://wallstreetcn.com/articles/3777980",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -50,8 +51,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 09时41分]"
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 12时55分]"
         },
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
@@ -60,11 +61,12 @@
           "ranks": [
             14,
             15,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 09时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时31分 ~ 12时55分]"
         },
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
@@ -73,11 +75,23 @@
           "ranks": [
             19,
             20,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 09时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时31分 ~ 12时55分]"
+        },
+        {
+          "title": "我国启动人工智能大模型IPv6能力提升专项行动",
+          "url": "https://wallstreetcn.com/livenews/3140739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "AI忧虑盖过油价下跌，美股高开低走，阿斯麦一度跌8%，中概股逆市收涨，美元走V",
@@ -89,6 +103,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
+        },
+        {
+          "title": "我国启动人工智能大模型IPv6能力提升专项行动",
+          "url": "https://flash.jin10.com/detail/20260728122609482800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "各个行业被AI取代的概率",
@@ -143,6 +168,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时03分 ~ 06时53分]"
+        },
+        {
+          "title": "英伟达五年期CDS创纪录狂飙 AI循环融资担忧彻底引爆？",
+          "url": "https://www.cls.cn/detail/2438458",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 12时55分]"
         },
         {
           "title": "安徽卫视播AI剧 明确标注AI制作",
@@ -270,6 +307,29 @@
           "time_info": "[05时03分 ~ 06时53分]"
         },
         {
+          "title": "佛得角门将签约泪洒现场？图是AI的",
+          "url": "https://www.toutiao.com/trending/7666819334011584518/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 12时55分]"
+        },
+        {
+          "title": "如何评价大连理工 2026 在陕招生，普通批仅 10 人全部为计算机人工智能？",
+          "url": "https://www.zhihu.com/question/2063239728175043416",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 12时55分]"
+        },
+        {
           "title": "报道：英伟达将向Ilya Sutskever的AI研究实验室投资50亿美元",
           "url": "https://wallstreetcn.com/livenews/3140439",
           "source": "华尔街见闻-快讯",
@@ -305,6 +365,17 @@
           "time_info": "[07时55分 ~ 07时56分]"
         },
         {
+          "title": "AI烧钱疑虑重燃，韩股重挫10%再熔断，日股跌4%、铠侠大跌18%，芯片股全线承压",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
           "title": "AI挤占DRAM颗粒供应 又一模组厂预警“无货可卖”风险",
           "url": "https://www.cls.cn/detail/2437715",
           "source": "财联社热门",
@@ -338,17 +409,6 @@
           "time_info": "01时31分"
         },
         {
-          "title": "英伟达五年期CDS创纪录狂飙 AI循环融资担忧彻底引爆？",
-          "url": "https://www.cls.cn/detail/2438458",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
           "title": "贝莱德避开AI债券滑铁卢，123亿美元债务发行受追捧",
           "url": "https://wallstreetcn.com/livenews/3140555",
           "source": "华尔街见闻-快讯",
@@ -358,6 +418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "港股午评：恒指收跌0.11% AI硬件股大幅回调",
+          "url": "https://flash.jin10.com/detail/20260728120430398800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "佛得角门将泪流满面图片为AI生成",
@@ -371,15 +442,15 @@
           "time_info": "07时56分"
         },
         {
-          "title": "佛得角门将签约泪洒现场？图是AI的",
-          "url": "https://www.toutiao.com/trending/7666819334011584518/",
-          "source": "今日头条",
+          "title": "IDC：2025年中国AI游戏云市场规模已达18.6亿人民币",
+          "url": "https://flash.jin10.com/detail/20260728120152293800",
+          "source": "金十数据",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时41分"
+          "time_info": "12时55分"
         },
         {
           "title": "英伟达集结产业链成立“开放安全AI联盟” 并力挺开放权重模型",
@@ -421,20 +492,42 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
         {
-          "title": "如何评价大连理工 2026 在陕招生，普通批仅 10 人全部为计算机人工智能？",
-          "url": "https://www.zhihu.com/question/2063239728175043416",
-          "source": "知乎",
+          "title": "金十数据整理：每日人工智能动态汇总（2026-07-28）",
+          "url": "https://flash.jin10.com/detail/20260728115559661800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "AI漫剧就是一场巨大的侵权事件",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E6%BC%AB%E5%89%A7%E5%B0%B1%E6%98%AF%E4%B8%80%E5%9C%BA%E5%B7%A8%E5%A4%A7%E7%9A%84%E4%BE%B5%E6%9D%83%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时41分"
+          "time_info": "12时55分"
+        },
+        {
+          "title": "创业板指跌超6%，沪指跌1.44%，深成指跌3.93%，算力硬件、半导体芯片、煤炭、贵金属等板块跌幅居前，沪深京三市下跌个股超2900只。",
+          "url": "https://wallstreetcn.com/livenews/3140706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "阿里云真武超节点Day0适配Kimi K3大模型，双方展开国产算力合作",
@@ -443,7 +536,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -465,9 +558,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
+        },
+        {
+          "title": "A股午评：创业板指大幅回调跌5.37% AI硬件板块重挫",
+          "url": "https://flash.jin10.com/detail/20260728115102973800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "美韩科技股联动加深，AI投资共振或令投资者担忧",
+          "url": "https://flash.jin10.com/detail/20260728114529869800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "美国总统特朗普谴责全美汽车工人联合会（UAW）的领导人Shawn Fain。",
@@ -487,7 +602,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -501,6 +616,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "登陆少年邀你演唱会见",
+          "url": "https://www.douyin.com/hot/2587602",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         }
       ]
     }
