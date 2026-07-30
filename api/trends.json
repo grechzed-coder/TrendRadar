@@ -1,12 +1,84 @@
 {
-  "generated_at": "2026-07-30T07:53:40.475317+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2026-07-30T09:25:35.514269+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "新能源汽车智驾小蓝灯将禁用",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356616&amp;topic_name=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%99%BA%E9%A9%BE%E5%B0%8F%E8%93%9D%E7%81%AF%E5%B0%86%E7%A6%81%E7%94%A8",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 09时25分]"
+        },
+        {
+          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
+          "url": "https://wallstreetcn.com/articles/3778177",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 09时25分]"
+        },
+        {
+          "title": "KT宫斗实锤,Aiming被抬走",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356617&amp;topic_name=KT%E5%AE%AB%E6%96%97%E5%AE%9E%E9%94%A4%2CAiming%E8%A2%AB%E6%8A%AC%E8%B5%B0",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 09时25分]"
+        },
+        {
+          "title": "法学何为｜张凌寒：法律如何回应人工智能时代的责任追问？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33672802",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            12,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 09时25分]"
+        },
+        {
+          "title": "AI漫剧走红,国动流量狂跌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356621&amp;topic_name=AI%E6%BC%AB%E5%89%A7%E8%B5%B0%E7%BA%A2%2C%E5%9B%BD%E5%8A%A8%E6%B5%81%E9%87%8F%E7%8B%82%E8%B7%8C",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 09时25分]"
+        },
+        {
+          "title": "赢学入脑,法国声称AI超中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 09时25分]"
+        },
         {
           "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
           "url": "https://www.zhihu.com/question/2065710393360479149",
@@ -24,85 +96,15 @@
           "time_info": "[01时04分 ~ 07时53分]"
         },
         {
-          "title": "新能源汽车智驾小蓝灯将禁用",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356616&amp;topic_name=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%99%BA%E9%A9%BE%E5%B0%8F%E8%93%9D%E7%81%AF%E5%B0%86%E7%A6%81%E7%94%A8",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 07时53分]"
-        },
-        {
-          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
-          "url": "https://wallstreetcn.com/articles/3778177",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 07时53分]"
-        },
-        {
-          "title": "KT宫斗实锤,Aiming被抬走",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356617&amp;topic_name=KT%E5%AE%AB%E6%96%97%E5%AE%9E%E9%94%A4%2CAiming%E8%A2%AB%E6%8A%AC%E8%B5%B0",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 07时53分]"
-        },
-        {
           "title": "AI热潮下的“冰火两重天”：芯片商笑纳现金，云厂商仍在等回报",
           "url": "https://flash.jin10.com/detail/20260730073649960800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
-        },
-        {
-          "title": "法学何为｜张凌寒：法律如何回应人工智能时代的责任追问？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33672802",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 07时53分]"
-        },
-        {
-          "title": "AI漫剧走红,国动流量狂跌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356621&amp;topic_name=AI%E6%BC%AB%E5%89%A7%E8%B5%B0%E7%BA%A2%2C%E5%9B%BD%E5%8A%A8%E6%B5%81%E9%87%8F%E7%8B%82%E8%B7%8C",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 07时53分]"
-        },
-        {
-          "title": "赢学入脑,法国声称AI超中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 07时53分]"
         },
         {
           "title": "Meta Platforms(META.O)首席执行官：将全部算力出售以换取短期利润是愚蠢的行为。",
@@ -174,6 +176,18 @@
           "time_info": "[01时04分 ~ 07时53分]"
         },
         {
+          "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778264",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 09时25分]"
+        },
+        {
           "title": "扎克伯格在电话会上说，开源AI模型并没有前沿模型那么强大。Meta目前跌9.8%。 （但）开源模型在全世界有着“重要的地位”。 开放权重模型的成功并不会削弱API的机会，因为拥有运行模型推理的计算能力是商业优势的来源。",
           "url": "https://wallstreetcn.com/livenews/3141925",
           "source": "华尔街见闻-快讯",
@@ -184,6 +198,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时49分 ~ 06时51分]"
+        },
+        {
+          "title": "曝多家 AI 公司大量收购旧书训练模型后销毁，此前先例被法院认定合理，这会成为常态吗？可能带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2065707692950123437",
+          "source": "知乎",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 09时25分]"
         },
         {
           "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
@@ -224,6 +250,17 @@
           "time_info": "[05时49分 ~ 06时51分]"
         },
         {
+          "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
+          "url": "https://wallstreetcn.com/articles/3778258",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
           "title": "美国总统特朗普：（关于人工智能）正在关注监管问题。",
           "url": "https://flash.jin10.com/detail/20260730033706723800",
           "source": "金十数据",
@@ -241,18 +278,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778264",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -301,17 +327,6 @@
           "time_info": "01时04分"
         },
         {
-          "title": "曝多家 AI 公司大量收购旧书训练模型后销毁，此前先例被法院认定合理，这会成为常态吗？可能带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2065707692950123437",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
           "title": "伊拉克真主党旅（Kataib Hezbollah）：将把沙特阿拉伯境内美国的“工具”（代理人/相关设施）作为打击目标。 对美国和沙特阿拉伯的联合袭击作出反击是不可避免的。 向伊拉克政府下最后通牒，要求在8月6日之前证明其能够捍卫伊拉克的主权。",
           "url": "https://wallstreetcn.com/livenews/3141783",
           "source": "华尔街见闻-快讯",
@@ -340,7 +355,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -351,7 +366,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
