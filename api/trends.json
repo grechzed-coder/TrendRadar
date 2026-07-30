@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T12:49:06.431067+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-07-30T15:28:26.507243+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
         {
           "title": "法学何为｜张凌寒：法律如何回应人工智能时代的责任追问？",
@@ -17,11 +17,12 @@
             12,
             11,
             6,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 12时49分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 15时28分]"
         },
         {
           "title": "新能源汽车智驾小蓝灯将禁用",
@@ -29,11 +30,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 12时49分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 15时28分]"
         },
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -41,11 +43,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 12时49分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 15时28分]"
         },
         {
           "title": "AI漫剧走红,国动流量狂跌",
@@ -53,11 +56,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 12时49分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 15时28分]"
         },
         {
           "title": "赢学入脑,法国声称AI超中国",
@@ -65,11 +69,26 @@
           "source": "贴吧",
           "ranks": [
             16,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 12时49分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 15时28分]"
+        },
+        {
+          "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778264",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时53分 ~ 15时28分]"
         },
         {
           "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
@@ -83,6 +102,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时04分 ~ 09时25分]"
+        },
+        {
+          "title": "曝多家 AI 公司大量收购旧书训练模型后销毁，此前先例被法院认定合理，这会成为常态吗？可能带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2065707692950123437",
+          "source": "知乎",
+          "ranks": [
+            13,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时53分 ~ 15时28分]"
         },
         {
           "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
@@ -99,32 +131,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时04分 ~ 07时53分]"
-        },
-        {
-          "title": "曝多家 AI 公司大量收购旧书训练模型后销毁，此前先例被法院认定合理，这会成为常态吗？可能带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2065707692950123437",
-          "source": "知乎",
-          "ranks": [
-            13,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 12时49分]"
-        },
-        {
-          "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778264",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 12时49分]"
         },
         {
           "title": "AI热潮下的“冰火两重天”：芯片商笑纳现金，云厂商仍在等回报",
@@ -171,6 +177,18 @@
           "time_info": "04时09分"
         },
         {
+          "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
+          "url": "https://wallstreetcn.com/articles/3778258",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 15时28分]"
+        },
+        {
           "title": "美联储主席沃什：人工智能投资为未来增长奠定基础。",
           "url": "https://flash.jin10.com/detail/20260730023737858800",
           "source": "金十数据",
@@ -205,18 +223,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时04分 ~ 07时53分]"
-        },
-        {
-          "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
-          "url": "https://wallstreetcn.com/articles/3778258",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 12时49分]"
         },
         {
           "title": "扎克伯格在电话会上说，开源AI模型并没有前沿模型那么强大。Meta目前跌9.8%。 （但）开源模型在全世界有着“重要的地位”。 开放权重模型的成功并不会削弱API的机会，因为拥有运行模型推理的计算能力是商业优势的来源。",
@@ -269,6 +275,30 @@
           "time_info": "[05时49分 ~ 06时51分]"
         },
         {
+          "title": "Margin Call响起！AI暴跌导致对冲基金“史诗级”亏损，高盛、摩根大通率先追保",
+          "url": "https://wallstreetcn.com/articles/3778220",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 15时28分]"
+        },
+        {
+          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
+          "url": "https://www.zhihu.com/question/2065729146383071132",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 15时28分]"
+        },
+        {
           "title": "美国总统特朗普：（关于人工智能）正在关注监管问题。",
           "url": "https://flash.jin10.com/detail/20260730033706723800",
           "source": "金十数据",
@@ -289,6 +319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778263",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "市场消息：OpenAI首席执行官奥尔特曼在与美国共和党参议员特德·克鲁兹会晤后向记者发表评论，双方讨论了新的人工智能模型，奥尔特曼表达了对人工智能安全法案的支持，但未透露具体细节。",
@@ -313,15 +354,15 @@
           "time_info": "01时04分"
         },
         {
-          "title": "Margin Call响起！AI暴跌导致对冲基金“史诗级”亏损，高盛、摩根大通率先追保",
-          "url": "https://wallstreetcn.com/articles/3778220",
+          "title": "微软电话会：2026年资本开支“变相”下降，Azure需求持续超越可用容量，AI变现进入加速轨道",
+          "url": "https://wallstreetcn.com/articles/3778268",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时49分"
+          "time_info": "15时28分"
         },
         {
           "title": "Meta Platforms(META.O)CFO：可预见的未来内，行业整体算力仍将保持紧张。",
@@ -385,7 +426,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -401,26 +442,26 @@
           "time_info": "07时53分"
         },
         {
-          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
-          "url": "https://www.zhihu.com/question/2065729146383071132",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
           "title": "港股午评：恒指收跌0.05% AI次新股再度大跌",
           "url": "https://flash.jin10.com/detail/20260730122231938800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        },
+        {
+          "title": "AI 焚书",
+          "url": "https://s.weibo.com/weibo?q=AI%20%E7%84%9A%E4%B9%A6&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "卡特彼勒因AI退潮及Baird对数据中心的警告而暴跌",
@@ -462,7 +503,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -506,7 +547,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -517,9 +558,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        },
+        {
+          "title": "AI服务器制造商技嘉据悉寻求15亿美元银团贷款。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3142209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         }
       ]
     }
