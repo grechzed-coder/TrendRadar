@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-01T22:23:44.512773+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2026-08-01T23:53:26.724587+08:00",
+  "total_titles_processed": 1514,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 62,
+      "match_count": 66,
       "titles": [
+        {
+          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时55分 ~ 23时53分]"
+        },
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
           "url": "https://www.cls.cn/detail/2442818",
@@ -20,17 +31,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时20分 ~ 19时58分]"
-        },
-        {
-          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时55分 ~ 22时23分]"
         },
         {
           "title": "4万亿元将投向算力网建设",
@@ -110,8 +110,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时19分 ~ 20时57分]"
+          "appearance_count": 17,
+          "time_info": "[01时19分 ~ 23时53分]"
         },
         {
           "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
@@ -162,6 +162,19 @@
           "time_info": "[01时19分 ~ 13时18分]"
         },
         {
+          "title": "“AI股神”最新表态：再也不碰杠杆了",
+          "url": "https://www.cls.cn/detail/2443109",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时54分 ~ 23时53分]"
+        },
+        {
           "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
           "url": "https://wallstreetcn.com/articles/3778376",
           "source": "华尔街见闻",
@@ -201,19 +214,6 @@
           "time_info": "[07时54分 ~ 20时57分]"
         },
         {
-          "title": "“AI股神”最新表态：再也不碰杠杆了",
-          "url": "https://www.cls.cn/detail/2443109",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时54分 ~ 22时23分]"
-        },
-        {
           "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
           "url": "https://www.cls.cn/detail/2442641",
           "source": "财联社热门",
@@ -251,8 +251,64 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时04分 ~ 23时53分]"
+        },
+        {
+          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            10,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时04分 ~ 23时53分]"
+        },
+        {
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时04分 ~ 22时23分]"
+          "time_info": "[18时28分 ~ 23时53分]"
+        },
+        {
+          "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
+          "url": "https://wallstreetcn.com/articles/3778475",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 23时53分]"
+        },
+        {
+          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
+          "url": "https://wallstreetcn.com/articles/3778474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时04分 ~ 23时53分]"
         },
         {
           "title": "市场不相信“神话”：“AI股神”死于杠杆？",
@@ -290,6 +346,19 @@
           "time_info": "09时53分"
         },
         {
+          "title": "李荣浩襄阳演唱会",
+          "url": "https://www.douyin.com/hot/2593563",
+          "source": "抖音",
+          "ranks": [
+            20,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时28分 ~ 23时53分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：Gemini Spark正在向美国以外的GoogleAI Pro用户推出。",
           "url": "https://flash.jin10.com/detail/20260801052517590800",
           "source": "金十数据",
@@ -316,32 +385,16 @@
           "time_info": "[05时58分 ~ 09时53分]"
         },
         {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
+          "title": "人工智能助力直肠癌个性化化疗",
+          "url": "https://wallstreetcn.com/livenews/3143612",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            7,
-            5,
-            6
+            1,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时28分 ~ 22时23分]"
-        },
-        {
-          "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
-          "url": "https://wallstreetcn.com/articles/3778475",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时28分 ~ 22时23分]"
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 23时53分]"
         },
         {
           "title": "如何评价OpenAI的数学能力",
@@ -353,33 +406,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
-        },
-        {
-          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
-          "url": "https://wallstreetcn.com/articles/3778474",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时04分 ~ 22时23分]"
-        },
-        {
-          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时04分 ~ 22时23分]"
         },
         {
           "title": "AI公司批量抢购旧书",
@@ -409,19 +435,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时20分 ~ 06时55分]"
-        },
-        {
-          "title": "李荣浩襄阳演唱会",
-          "url": "https://www.douyin.com/hot/2593563",
-          "source": "抖音",
-          "ranks": [
-            20,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时28分 ~ 22时23分]"
         },
         {
           "title": "AI男主都能带货了",
@@ -462,18 +475,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时58分 ~ 07时54分]"
-        },
-        {
-          "title": "人工智能助力直肠癌个性化化疗",
-          "url": "https://wallstreetcn.com/livenews/3143612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 22时23分]"
         },
         {
           "title": "OpenAI发现其他AI智能体逃离隔离环境的证据。（路透）",
@@ -657,6 +658,17 @@
           "time_info": "09时53分"
         },
         {
+          "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
+          "url": "https://flash.jin10.com/detail/20260801222340904800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "00后AI股神清仓 血亏1400亿",
           "url": "https://www.baidu.com/s?wd=00%E5%90%8EAI%E8%82%A1%E7%A5%9E%E6%B8%85%E4%BB%93+%E8%A1%80%E4%BA%8F1400%E4%BA%BF",
           "source": "百度热搜",
@@ -723,6 +735,17 @@
           "time_info": "09时53分"
         },
         {
+          "title": "王力宏西安演唱会",
+          "url": "https://www.douyin.com/hot/2593764",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "杰创智能：2026年以来公司在国产算力领域已签约项目金额合计约4.3亿元",
           "url": "https://flash.jin10.com/detail/20260801163355722800",
           "source": "金十数据",
@@ -776,6 +799,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
+        },
+        {
+          "title": "OpenAI 价格战",
+          "url": "https://s.weibo.com/weibo?q=OpenAI%20%E4%BB%B7%E6%A0%BC%E6%88%98&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "美两家AI巨头承认自家大模型“失控”",
+          "url": "https://www.toutiao.com/trending/7668948314036899378/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "华尔街AI股神高杠杆爆仓出局",
