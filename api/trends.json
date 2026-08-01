@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T09:53:21.038714+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2026-08-01T13:18:59.945347+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "4万亿元将投向算力网建设",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 09时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 13时18分]"
         },
         {
           "title": "【焦点复盘】科创50高开低走录得日线4连阴，算力硬件股批量炸板回落，机器人概念卷土重来",
@@ -37,11 +37,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 09时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 13时18分]"
         },
         {
           "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
@@ -56,19 +57,6 @@
           "time_info": "[01时20分 ~ 07时54分]"
         },
         {
-          "title": "AI生成的作品算艺术吗",
-          "url": "https://www.douyin.com/hot/2591797",
-          "source": "抖音",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时19分 ~ 09时53分]"
-        },
-        {
           "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
           "url": "https://wallstreetcn.com/articles/3778413",
           "source": "华尔街见闻",
@@ -79,8 +67,68 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 09时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 13时18分]"
+        },
+        {
+          "title": "AI生成的作品算艺术吗",
+          "url": "https://www.douyin.com/hot/2591797",
+          "source": "抖音",
+          "ranks": [
+            7,
+            6,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时19分 ~ 13时18分]"
+        },
+        {
+          "title": "凤凰传奇成都演唱会",
+          "url": "https://www.douyin.com/hot/2591707",
+          "source": "抖音",
+          "ranks": [
+            20,
+            22,
+            19,
+            18,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时19分 ~ 13时18分]"
+        },
+        {
+          "title": "罗正甩衣架版冷笑话说唱",
+          "url": "https://www.douyin.com/hot/2591962",
+          "source": "抖音",
+          "ranks": [
+            21,
+            23,
+            22,
+            29,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时19分 ~ 13时18分]"
+        },
+        {
+          "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
+          "url": "https://wallstreetcn.com/articles/3778421",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 13时18分]"
         },
         {
           "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
@@ -107,51 +155,6 @@
           "time_info": "[01时20分 ~ 05时58分]"
         },
         {
-          "title": "凤凰传奇成都演唱会",
-          "url": "https://www.douyin.com/hot/2591707",
-          "source": "抖音",
-          "ranks": [
-            20,
-            22,
-            19,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时19分 ~ 09时53分]"
-        },
-        {
-          "title": "罗正甩衣架版冷笑话说唱",
-          "url": "https://www.douyin.com/hot/2591962",
-          "source": "抖音",
-          "ranks": [
-            21,
-            23,
-            22,
-            29,
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时19分 ~ 09时53分]"
-        },
-        {
-          "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
-          "url": "https://wallstreetcn.com/articles/3778421",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 09时53分]"
-        },
-        {
           "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
           "url": "https://wallstreetcn.com/articles/3778379",
           "source": "华尔街见闻",
@@ -159,8 +162,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时55分 ~ 09时53分]"
+          "appearance_count": 4,
+          "time_info": "[06时55分 ~ 13时18分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
@@ -170,11 +173,24 @@
             8,
             7,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 09时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 13时18分]"
+        },
+        {
+          "title": "Aiming回应宫斗:对方先骂人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 13时18分]"
         },
         {
           "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
@@ -185,17 +201,6 @@
             8,
             10,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 09时53分]"
-        },
-        {
-          "title": "Aiming回应宫斗:对方先骂人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -232,7 +237,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
@@ -395,6 +400,31 @@
           "time_info": "[04时53分 ~ 07时54分]"
         },
         {
+          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
+          "url": "https://wallstreetcn.com/articles/3778448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 13时18分]"
+        },
+        {
+          "title": "“AI股神”最新表态：再也不碰杠杆了",
+          "url": "https://www.cls.cn/detail/2443109",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 13时18分]"
+        },
+        {
           "title": "发改委连续3场发布会回应算力发展",
           "url": "https://www.baidu.com/s?wd=%E5%8F%91%E6%94%B9%E5%A7%94%E8%BF%9E%E7%BB%AD3%E5%9C%BA%E5%8F%91%E5%B8%83%E4%BC%9A%E5%9B%9E%E5%BA%94%E7%AE%97%E5%8A%9B%E5%8F%91%E5%B1%95",
           "source": "百度热搜",
@@ -418,30 +448,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时19分 ~ 03时08分]"
-        },
-        {
-          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
-          "url": "https://wallstreetcn.com/articles/3778448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 09时53分]"
-        },
-        {
-          "title": "“AI股神”最新表态：再也不碰杠杆了",
-          "url": "https://www.cls.cn/detail/2443109",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 09时53分]"
         },
         {
           "title": "美国四大科技巨头竞逐AI，支出承诺总计超2万亿美元",
@@ -485,7 +491,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
@@ -496,7 +502,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
@@ -507,7 +513,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
@@ -518,7 +524,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
@@ -540,7 +546,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
@@ -554,6 +560,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "AI女团选秀108位参赛9人成团",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%A5%B3%E5%9B%A2%E9%80%89%E7%A7%80108%E4%BD%8D%E5%8F%82%E8%B5%9B9%E4%BA%BA%E6%88%90%E5%9B%A2&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "华尔街AI股神高杠杆爆仓出局",
