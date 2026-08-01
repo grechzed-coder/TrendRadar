@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T01:53:14.978960+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2026-08-02T02:55:12.531076+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时55分]"
         },
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时55分]"
         },
         {
           "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
           "url": "https://wallstreetcn.com/articles/3778475",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时55分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -48,19 +49,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时55分]"
         },
         {
           "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
           "url": "https://wallstreetcn.com/articles/3778476",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时55分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -70,8 +72,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 01时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时48分 ~ 02时55分]"
         },
         {
           "title": "王力宏西安演唱会",
@@ -82,8 +84,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 01时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时48分 ~ 02时55分]"
         },
         {
           "title": "李荣浩襄阳演唱会",
@@ -93,8 +95,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时48分 ~ 01时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时48分 ~ 02时55分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -104,19 +106,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时55分]"
         },
         {
           "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
           "url": "https://wallstreetcn.com/articles/3778474",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时55分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -126,8 +129,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时55分]"
+        },
+        {
+          "title": "人工智能助力直肠癌个性化化疗",
+          "url": "https://wallstreetcn.com/livenews/3143612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时55分]"
         },
         {
           "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
@@ -142,15 +156,27 @@
           "time_info": "[00时49分 ~ 01时53分]"
         },
         {
-          "title": "人工智能助力直肠癌个性化化疗",
-          "url": "https://wallstreetcn.com/livenews/3143612",
-          "source": "华尔街见闻-快讯",
+          "title": "时代少年团演唱会收官场",
+          "url": "https://www.douyin.com/hot/2593701",
+          "source": "抖音",
           "ranks": [
-            13
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时53分]"
+          "time_info": "[02时54分 ~ 02时55分]"
+        },
+        {
+          "title": "赵露思演唱会服装丢失 公司：已报案",
+          "url": "https://www.baidu.com/s?wd=%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9C%8D%E8%A3%85%E4%B8%A2%E5%A4%B1+%E5%85%AC%E5%8F%B8%EF%BC%9A%E5%B7%B2%E6%8A%A5%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时53分 ~ 02时55分]"
         },
         {
           "title": "杨丞琳照片被判AI",
@@ -162,17 +188,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
-        },
-        {
-          "title": "赵露思演唱会服装丢失 公司：已报案",
-          "url": "https://www.baidu.com/s?wd=%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9C%8D%E8%A3%85%E4%B8%A2%E5%A4%B1+%E5%85%AC%E5%8F%B8%EF%BC%9A%E5%B7%B2%E6%8A%A5%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时53分"
         }
       ]
     }
