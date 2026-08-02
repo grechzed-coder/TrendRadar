@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-08-02T07:49:18.989269+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-08-02T09:49:26.940884+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 09时49分]"
+        },
+        {
+          "title": "神了,OpenAI攻克十年数学难题",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 09时49分]"
+        },
         {
           "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
           "url": "https://wallstreetcn.com/articles/3778475",
@@ -16,17 +39,6 @@
             3,
             2,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时49分 ~ 07时49分]"
-        },
-        {
-          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -47,17 +59,6 @@
           "time_info": "[00时49分 ~ 07时49分]"
         },
         {
-          "title": "神了,OpenAI攻克十年数学难题",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时49分 ~ 07时49分]"
-        },
-        {
           "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
           "url": "https://wallstreetcn.com/articles/3778379",
           "source": "华尔街见闻",
@@ -67,6 +68,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时49分 ~ 06时44分]"
+        },
+        {
+          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
+          "url": "https://wallstreetcn.com/articles/3778474",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 09时49分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -89,22 +105,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时48分 ~ 07时49分]"
-        },
-        {
-          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
-          "url": "https://wallstreetcn.com/articles/3778474",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时49分 ~ 07时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时48分 ~ 09时49分]"
         },
         {
           "title": "王力宏西安演唱会",
@@ -113,22 +115,24 @@
           "ranks": [
             13,
             19,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 04时06分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 09时49分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
           "url": "https://www.cls.cn/detail/2443270",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时49分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 09时49分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -136,11 +140,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时49分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 09时49分]"
         },
         {
           "title": "人工智能助力直肠癌个性化化疗",
@@ -148,11 +153,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时49分 ~ 07时49分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 09时49分]"
         },
         {
           "title": "赵露思演唱会服装丢失 公司：已报案",
@@ -162,11 +168,12 @@
             29,
             24,
             9,
-            22
+            22,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时53分 ~ 07时49分]"
+          "appearance_count": 7,
+          "time_info": "[01时53分 ~ 09时49分]"
         },
         {
           "title": "这届AI进化到开始玩心眼了",
@@ -175,9 +182,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 09时49分]"
+        },
+        {
+          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
+          "url": "https://wallstreetcn.com/articles/3778497",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时49分 ~ 09时49分]"
         },
         {
           "title": "时代少年团演唱会收官场",
@@ -204,15 +223,26 @@
           "time_info": "[00时49分 ~ 01时53分]"
         },
         {
-          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
-          "url": "https://wallstreetcn.com/articles/3778497",
+          "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
+          "url": "https://wallstreetcn.com/articles/3778495",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时49分"
+          "time_info": "09时49分"
+        },
+        {
+          "title": "晒出你的蔡徐坤演唱会穿搭",
+          "url": "https://www.douyin.com/hot/2593518",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "美两家AI巨头承认自家大模型“失控”",
@@ -221,7 +251,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -235,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "李小冉晒刘雨昕演唱会plog",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E6%99%92%E5%88%98%E9%9B%A8%E6%98%95%E6%BC%94%E5%94%B1%E4%BC%9Aplog%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         }
       ]
     }
