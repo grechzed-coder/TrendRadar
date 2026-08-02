@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T04:06:24.125275+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-08-03T05:45:37.596797+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 05时45分]"
         },
         {
           "title": "观察｜算力狂奔，电力共振：比特与瓦特如何“双向赋能”？",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 05时45分]"
         },
         {
           "title": "这届AI进化到开始玩心眼了",
@@ -35,11 +35,12 @@
           "source": "抖音",
           "ranks": [
             11,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 04时06分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 05时45分]"
         },
         {
           "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
@@ -49,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 05时45分]"
         },
         {
           "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
@@ -60,8 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 05时45分]"
         },
         {
           "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
@@ -71,8 +72,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 05时45分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -82,8 +83,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 05时45分]"
         },
         {
           "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
@@ -94,8 +95,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 05时45分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -106,8 +107,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 04时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 05时45分]"
         },
         {
           "title": "晒出你的蔡徐坤演唱会穿搭",
@@ -122,6 +123,18 @@
           "time_info": "[00时46分 ~ 04时06分]"
         },
         {
+          "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
+          "url": "https://www.zhihu.com/question/2065010626171293829",
+          "source": "知乎",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时06分 ~ 05时45分]"
+        },
+        {
           "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
           "url": "https://wallstreetcn.com/livenews/3143681",
           "source": "华尔街见闻-快讯",
@@ -134,6 +147,18 @@
           "time_info": "[00时47分 ~ 01时53分]"
         },
         {
+          "title": "TOP登陆少年组合梦寐以求演唱会",
+          "url": "https://s.weibo.com/weibo?q=TOP%E7%99%BB%E9%99%86%E5%B0%91%E5%B9%B4%E7%BB%84%E5%90%88%E6%A2%A6%E5%AF%90%E4%BB%A5%E6%B1%82%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时53分 ~ 05时45分]"
+        },
+        {
           "title": "许嵩演唱会四万人齐唱《断桥残雪》",
           "url": "https://www.baidu.com/s?wd=%E8%AE%B8%E5%B5%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9B%9B%E4%B8%87%E4%BA%BA%E9%BD%90%E5%94%B1%E3%80%8A%E6%96%AD%E6%A1%A5%E6%AE%8B%E9%9B%AA%E3%80%8B",
           "source": "百度热搜",
@@ -144,28 +169,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时53分 ~ 04时06分]"
-        },
-        {
-          "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
-          "url": "https://www.zhihu.com/question/2065010626171293829",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "TOP登陆少年组合梦寐以求演唱会",
-          "url": "https://s.weibo.com/weibo?q=TOP%E7%99%BB%E9%99%86%E5%B0%91%E5%B9%B4%E7%BB%84%E5%90%88%E6%A2%A6%E5%AF%90%E4%BB%A5%E6%B1%82%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
         }
       ]
     }
