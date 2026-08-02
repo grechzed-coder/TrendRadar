@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T20:59:32.910470+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2026-08-02T22:27:56.385330+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -49,20 +49,6 @@
           "time_info": "[00时49分 ~ 07时49分]"
         },
         {
-          "title": "神了,OpenAI攻克十年数学难题",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            9,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时49分 ~ 20时59分]"
-        },
-        {
           "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
           "url": "https://wallstreetcn.com/articles/3778379",
           "source": "华尔街见闻",
@@ -72,6 +58,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时49分 ~ 06时44分]"
+        },
+        {
+          "title": "这届AI进化到开始玩心眼了",
+          "url": "https://www.douyin.com/hot/2592773",
+          "source": "抖音",
+          "ranks": [
+            5,
+            10,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时49分 ~ 22时27分]"
         },
         {
           "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
@@ -89,6 +90,21 @@
           "time_info": "[00时49分 ~ 09时49分]"
         },
         {
+          "title": "神了,OpenAI攻克十年数学难题",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            9,
+            12,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时49分 ~ 22时27分]"
+        },
+        {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
           "url": "https://www.cls.cn/detail/2443270",
           "source": "财联社热门",
@@ -99,22 +115,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时49分 ~ 20时59分]"
-        },
-        {
-          "title": "这届AI进化到开始玩心眼了",
-          "url": "https://www.douyin.com/hot/2592773",
-          "source": "抖音",
-          "ranks": [
-            5,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时49分 ~ 20时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时49分 ~ 22时27分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -181,6 +183,20 @@
           "time_info": "[07时49分 ~ 19时54分]"
         },
         {
+          "title": "怎么看待AI大回调，大摩120页研报深度解读",
+          "url": "https://wallstreetcn.com/articles/3778502",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时18分 ~ 22时27分]"
+        },
+        {
           "title": "人工智能助力直肠癌个性化化疗",
           "url": "https://wallstreetcn.com/livenews/3143612",
           "source": "华尔街见闻-快讯",
@@ -203,20 +219,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时05分 ~ 19时54分]"
-        },
-        {
-          "title": "怎么看待AI大回调，大摩120页研报深度解读",
-          "url": "https://wallstreetcn.com/articles/3778502",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时18分 ~ 20时59分]"
         },
         {
           "title": "赵露思演唱会服装丢失 公司：已报案",
@@ -249,6 +251,20 @@
           "time_info": "[09时49分 ~ 19时54分]"
         },
         {
+          "title": "在抖音看演唱会直播",
+          "url": "https://www.douyin.com/hot/2593701",
+          "source": "抖音",
+          "ranks": [
+            21,
+            19,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时05分 ~ 22时27分]"
+        },
+        {
           "title": "张远广州演唱会",
           "url": "https://www.douyin.com/hot/2593910",
           "source": "抖音",
@@ -262,29 +278,17 @@
           "time_info": "[13时17分 ~ 19时54分]"
         },
         {
-          "title": "在抖音看演唱会直播",
-          "url": "https://www.douyin.com/hot/2593701",
-          "source": "抖音",
+          "title": "观察｜算力狂奔，电力共振：比特与瓦特如何“双向赋能”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33697237",
+          "source": "澎湃新闻",
           "ranks": [
-            21,
-            19,
-            17
+            11,
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时05分 ~ 20时59分]"
-        },
-        {
-          "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
-          "url": "https://wallstreetcn.com/livenews/3143681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 20时59分]"
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 22时27分]"
         },
         {
           "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
@@ -292,11 +296,38 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时05分 ~ 22时27分]"
+        },
+        {
+          "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
+          "url": "https://wallstreetcn.com/livenews/3143681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时54分 ~ 22时27分]"
+        },
+        {
+          "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
+          "url": "https://wallstreetcn.com/articles/3778505",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时05分 ~ 20时59分]"
+          "time_info": "[18时26分 ~ 22时27分]"
         },
         {
           "title": "时代少年团演唱会收官场",
@@ -311,19 +342,6 @@
           "time_info": "[02时54分 ~ 04时06分]"
         },
         {
-          "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
-          "url": "https://wallstreetcn.com/articles/3778505",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 20时59分]"
-        },
-        {
           "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
           "url": "https://wallstreetcn.com/articles/3778495",
           "source": "华尔街见闻",
@@ -336,16 +354,17 @@
           "time_info": "[09时49分 ~ 16时05分]"
         },
         {
-          "title": "观察｜算力狂奔，电力共振：比特与瓦特如何“双向赋能”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33697237",
-          "source": "澎湃新闻",
+          "title": "蔡徐坤演唱会",
+          "url": "https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=17&Refer=top",
+          "source": "微博",
           "ranks": [
-            11,
-            10
+            17,
+            25,
+            26
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时26分 ~ 20时59分]"
+          "time_info": "[19时54分 ~ 22时27分]"
         },
         {
           "title": "广发策略：AI资产在7月份的快速回撤之后 后续大概率有较可观的修正空间",
@@ -396,18 +415,6 @@
           "time_info": "[18时26分 ~ 19时54分]"
         },
         {
-          "title": "蔡徐坤演唱会",
-          "url": "https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 20时59分]"
-        },
-        {
           "title": "陆毅鲍蕾看女儿做的AI生日短片",
           "url": "https://www.douyin.com/hot/2594728",
           "source": "抖音",
@@ -439,6 +446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
+          "url": "https://wallstreetcn.com/articles/3778516",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "怎么看 GCC 正式拒绝所有 AI 代码，基于 AI 代码人改的都不行？",
@@ -527,6 +545,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
+        },
+        {
+          "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696805",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "Ella演唱会摔下台阶 立马返回舞台",
