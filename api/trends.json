@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T00:08:04.525178+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-08-05T02:23:49.880110+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
         },
@@ -23,33 +23,36 @@
           "url": "https://www.douyin.com/hot/2595151",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时23分]"
+        },
+        {
+          "title": "F4演唱会言承旭逮住谁搂谁",
+          "url": "https://www.baidu.com/s?wd=F4%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A8%80%E6%89%BF%E6%97%AD%E9%80%AE%E4%BD%8F%E8%B0%81%E6%90%82%E8%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时07分 ~ 00时08分]"
+          "time_info": "[00时08分 ~ 02时23分]"
         },
         {
           "title": "创业板暴涨超5.6%，算力硬件全线反攻、光通信\"满屏涨停\"，医药股爆发、药明康德涨停，半导体强劲反弹",
           "url": "https://wallstreetcn.com/articles/3778628",
           "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
-          "url": "https://wallstreetcn.com/articles/3778632",
-          "source": "华尔街见闻",
-          "ranks": [
+            8,
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 02时23分]"
         },
         {
           "title": "AI做题吊打日本名校状元",
@@ -58,31 +61,67 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 02时23分]"
         },
         {
-          "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
-          "url": "https://www.zhihu.com/question/2066578072997049748",
-          "source": "知乎",
+          "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
+          "url": "https://wallstreetcn.com/articles/3778632",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 02时23分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
           "url": "https://www.cls.cn/detail/2445244",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 02时23分]"
+        },
+        {
+          "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
+          "url": "https://www.zhihu.com/question/2066578072997049748",
+          "source": "知乎",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 02时23分]"
+        },
+        {
+          "title": "活力中国调研行｜之江实验室王坚院士：人工智能应该像纸一样便宜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33711893",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 02时23分]"
+        },
+        {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 02时23分]"
         },
         {
           "title": "张月遭AI生成兽图涉嫌双重侵权",
@@ -91,18 +130,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "F4演唱会言承旭逮住谁搂谁",
-          "url": "https://www.baidu.com/s?wd=F4%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A8%80%E6%89%BF%E6%97%AD%E9%80%AE%E4%BD%8F%E8%B0%81%E6%90%82%E8%B0%81",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
         },
@@ -113,18 +141,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "活力中国调研行｜之江实验室王坚院士：人工智能应该像纸一样便宜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33711893",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
         },
@@ -135,20 +152,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
         },
         {
-          "title": "OpenAI降价,老日高喊中国万岁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
-          "source": "贴吧",
+          "title": "张远演唱会嘉宾是张智霖",
+          "url": "https://www.douyin.com/hot/2596650",
+          "source": "抖音",
           "ranks": [
-            25
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时08分"
+          "time_info": "02时23分"
         },
         {
           "title": "AI初创公司Listen Labs按15亿美元估值融资1.25亿美元。（The Information）",
@@ -157,7 +174,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
         }
