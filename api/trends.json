@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T08:05:00.442504+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-08-04T12:11:01.275904+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 27,
+      "match_count": 38,
       "titles": [
         {
           "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
@@ -49,6 +49,47 @@
           "time_info": "[01时48分 ~ 08时05分]"
         },
         {
+          "title": "魔都眼｜一场演唱会的三重图景：粉丝赴约、家长守候与警方护航",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33708528",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时48分 ~ 12时11分]"
+        },
+        {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时48分 ~ 12时11分]"
+        },
+        {
+          "title": "UP主自制AI短片 洪流之上",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E7%9F%AD%E7%89%87%20%E6%B4%AA%E6%B5%81%E4%B9%8B%E4%B8%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            13,
+            12,
+            18,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时48分 ~ 12时11分]"
+        },
+        {
           "title": "赛力斯7月新能源汽车销量同比降45%",
           "url": "https://www.toutiao.com/trending/7669619798967484459/",
           "source": "今日头条",
@@ -64,42 +105,31 @@
           "time_info": "[01时48分 ~ 06时58分]"
         },
         {
-          "title": "魔都眼｜一场演唱会的三重图景：粉丝赴约、家长守候与警方护航",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33708528",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时48分 ~ 08时05分]"
-        },
-        {
-          "title": "OpenAI降价,老日高喊中国万岁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时48分 ~ 08时05分]"
-        },
-        {
-          "title": "UP主自制AI短片 洪流之上",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E7%9F%AD%E7%89%87%20%E6%B4%AA%E6%B5%81%E4%B9%8B%E4%B8%8A",
+          "title": "我用AI创造虚拟世界 弹幕即神谕",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%88%9B%E9%80%A0%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%20%E5%BC%B9%E5%B9%95%E5%8D%B3%E7%A5%9E%E8%B0%95",
           "source": "bilibili 热搜",
           "ranks": [
-            20,
-            13,
-            12,
-            18,
-            28
+            7,
+            26,
+            10,
+            29,
+            8,
+            17
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时48分 ~ 08时05分]"
+          "time_info": "[03时32分 ~ 12时11分]"
+        },
+        {
+          "title": "国家出手 新能源汽车充电将全面升级",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%AE%B6%E5%87%BA%E6%89%8B+%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%85%85%E7%94%B5%E5%B0%86%E5%85%A8%E9%9D%A2%E5%8D%87%E7%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         },
         {
           "title": "为什么好多人不想买新能源汽车？",
@@ -124,19 +154,26 @@
           "time_info": "03时32分"
         },
         {
-          "title": "我用AI创造虚拟世界 弹幕即神谕",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%88%9B%E9%80%A0%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%20%E5%BC%B9%E5%B9%95%E5%8D%B3%E7%A5%9E%E8%B0%95",
-          "source": "bilibili 热搜",
+          "title": "北美“四朵云”联袂上涨！AI行情从“卖铲人”切换到“用铲人” 有哪些逻辑支撑？",
+          "url": "https://www.cls.cn/detail/2444783",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            26,
-            10,
-            29,
-            8
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时32分 ~ 08时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "A股午评：创业板指半日涨4.83% 算力租赁板块走强",
+          "url": "https://flash.jin10.com/detail/20260804113513473800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         },
         {
           "title": "中金：AI之外还有什么值得买",
@@ -189,6 +226,19 @@
           "time_info": "[01时48分 ~ 08时05分]"
         },
         {
+          "title": "“InP短缺将比内存更严峻”！Lumentum、SemiAnalysis警告：光互联成AI新瓶颈",
+          "url": "https://wallstreetcn.com/articles/3778565",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时58分 ~ 12时11分]"
+        },
+        {
           "title": "核能初创公司Valar首席执行官Isaiah Taylor：人工智能正在飞速发展。我们在各个方面都需要大量电力。对我们来说，这关乎规模化。这正是我们去建设所需的火力。 预计8月初这笔融资我们希望证明我们的生产节奏。我们希望将建造一座反应堆的周期从一年缩短到六个月，再到一个月一次，甚至更快。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3144373",
           "source": "华尔街见闻-快讯",
@@ -201,16 +251,16 @@
           "time_info": "[06时58分 ~ 08时05分]"
         },
         {
-          "title": "“InP短缺将比内存更严峻”！Lumentum、SemiAnalysis警告：光互联成AI新瓶颈",
-          "url": "https://wallstreetcn.com/articles/3778565",
-          "source": "华尔街见闻",
+          "title": "上半年 AI 短剧全网上线超二十万部，但播放破亿作品仅有千部，爆款率为啥这么低？大家都不爱看吗？",
+          "url": "https://www.zhihu.com/question/2067564276433401082",
+          "source": "知乎",
           "ranks": [
-            10,
-            8
+            7,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时58分 ~ 08时05分]"
+          "time_info": "[08时05分 ~ 12时11分]"
         },
         {
           "title": "OpenAI的CEO Altman被要求就AI安全事故向美国众议院介绍情况。",
@@ -225,15 +275,37 @@
           "time_info": "[05时59分 ~ 06时58分]"
         },
         {
-          "title": "上半年 AI 短剧全网上线超二十万部，但播放破亿作品仅有千部，爆款率为啥这么低？大家都不爱看吗？",
-          "url": "https://www.zhihu.com/question/2067564276433401082",
-          "source": "知乎",
+          "title": "8月4日午间收评：创业板指半日涨4.83%，算力、芯片板块集体反弹",
+          "url": "https://wallstreetcn.com/livenews/3144507",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时05分"
+          "time_info": "12时11分"
+        },
+        {
+          "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
+          "url": "https://www.zhihu.com/question/2066578072997049748",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "用AI造谣抹黑小米 两人被处罚",
+          "url": "https://www.baidu.com/s?wd=%E7%94%A8AI%E9%80%A0%E8%B0%A3%E6%8A%B9%E9%BB%91%E5%B0%8F%E7%B1%B3+%E4%B8%A4%E4%BA%BA%E8%A2%AB%E5%A4%84%E7%BD%9A",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         },
         {
           "title": "OpenAI：我们将发布这些手稿、正式的Lean证明证书以及推理过程说明，供数学家们审查这些结果，并在相关研究思路基础上进一步发展。",
@@ -269,6 +341,17 @@
           "time_info": "03时32分"
         },
         {
+          "title": "创业板指涨超4%，沪指跌0.04%，深成指涨2.28%，算力硬件、医药医疗、半导体芯片等方向涨幅居前，沪深京三市上涨个股超3600只。",
+          "url": "https://wallstreetcn.com/livenews/3144483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
           "title": "【社论】亚洲演艺之都：来上海，看演唱会",
           "url": "https://m.thepaper.cn/newsDetail_forward_33710769",
           "source": "澎湃新闻",
@@ -278,6 +361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "OpenAI等巨头大幅降价对标DeepSeek",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E7%AD%89%E5%B7%A8%E5%A4%B4%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%E5%AF%B9%E6%A0%87DeepSeek",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         },
         {
           "title": "英国数据监管机构信息专员办公室（ICO）就OpenAI与Anthropic事件发表声明：我们已知悉近期影响该行业的黑客攻击事件，正密切监控事态发展。",
@@ -333,6 +427,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
+        },
+        {
+          "title": "创业板指上涨3%。医药医疗、CPO、算力租赁等方向涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3144452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "AI在数学领域发展如何",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E6%95%B0%E5%AD%A6%E9%A2%86%E5%9F%9F%E5%8F%91%E5%B1%95%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨0.1%，深成指涨1.38%，医药医疗、CPO、算力租赁等方向涨幅居前，沪深京三市上涨个股超3900只。",
+          "url": "https://wallstreetcn.com/livenews/3144444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         }
       ]
     }
