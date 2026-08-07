@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T12:48:17.205696+08:00",
-  "total_titles_processed": 684,
+  "generated_at": "2026-08-07T16:07:23.811644+08:00",
+  "total_titles_processed": 881,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 25,
+      "match_count": 34,
       "titles": [
         {
           "title": "美前国防官员撰文炒作“中国AI威胁”，专家：贼喊捉贼",
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "ai漫剧男主唯一塌房方式被找到了",
+          "url": "https://s.weibo.com/weibo?q=%23ai%E6%BC%AB%E5%89%A7%E7%94%B7%E4%B8%BB%E5%94%AF%E4%B8%80%E5%A1%8C%E6%88%BF%E6%96%B9%E5%BC%8F%E8%A2%AB%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
+          "title": "汪峰公司因AI从1100人减到400人",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%9B%A0AI%E4%BB%8E1100%E4%BA%BA%E5%87%8F%E5%88%B0400%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         },
         {
           "title": "眼镜店老板副业做的AI视频火到海外",
@@ -31,6 +53,18 @@
           "time_info": "[07时50分 ~ 10时07分]"
         },
         {
+          "title": "“存储三巨头”2027产能已售罄？消息人士：一些AI公司已在“跪求芯片”",
+          "url": "https://www.cls.cn/detail/2448129",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 16时07分]"
+        },
+        {
           "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
           "url": "https://wallstreetcn.com/articles/3778805",
           "source": "华尔街见闻",
@@ -40,8 +74,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时50分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[07时50分 ~ 16时07分]"
         },
         {
           "title": "美银CEO：美联储年内或连加三次息，但AI投资不会因高利率踩刹车",
@@ -114,13 +148,24 @@
           "time_info": "[07时50分 ~ 10时07分]"
         },
         {
+          "title": "戚薇AI短剧 雷霆视角",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87AI%E7%9F%AD%E5%89%A7%20%E9%9B%B7%E9%9C%86%E8%A7%86%E8%A7%92&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
           "title": "机构：2026年AI服务器出货量增幅上调至近31%",
           "url": "https://flash.jin10.com/detail/20260807121555798800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -136,15 +181,26 @@
           "time_info": "10时07分"
         },
         {
-          "title": "“存储三巨头”2027产能已售罄？消息人士：一些AI公司已在“跪求芯片”",
-          "url": "https://www.cls.cn/detail/2448129",
+          "title": "Alphabet又发债了！一文读懂：AI天量资本支出疑云仍未散去？",
+          "url": "https://www.cls.cn/detail/2447998",
           "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
+          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
+          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
+          "source": "凤凰网",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时48分"
+          "time_info": "16时07分"
         },
         {
           "title": "美联储盯上AI投资狂潮：不是2008年泡沫，但金融风险正在升温",
@@ -158,13 +214,24 @@
           "time_info": "10时07分"
         },
         {
+          "title": "Bsh1把毒蛇搬到说唱巅峰对决",
+          "url": "https://www.douyin.com/hot/2600864",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
           "title": "戚薇 AI漫剧",
           "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87%20AI%E6%BC%AB%E5%89%A7&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -197,7 +264,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -224,6 +291,17 @@
           "time_info": "07时50分"
         },
         {
+          "title": "AI漫剧男主如此小众的塌房方式",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%AB%E5%89%A7%E7%94%B7%E4%B8%BB%E5%A6%82%E6%AD%A4%E5%B0%8F%E4%BC%97%E7%9A%84%E5%A1%8C%E6%88%BF%E6%96%B9%E5%BC%8F",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
           "title": "AI终结印度三十年“外包神话”",
           "url": "https://www.baidu.com/s?wd=AI%E7%BB%88%E7%BB%93%E5%8D%B0%E5%BA%A6%E4%B8%89%E5%8D%81%E5%B9%B4%E2%80%9C%E5%A4%96%E5%8C%85%E7%A5%9E%E8%AF%9D%E2%80%9D",
           "source": "百度热搜",
@@ -241,9 +319,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
+        },
+        {
+          "title": "戚薇 授权AI",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87%20%E6%8E%88%E6%9D%83AI&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         },
         {
           "title": "美国搞AI霸权“封杀”中国遭网友吐槽",
@@ -255,6 +344,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "中国AI偶像能飞",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E5%81%B6%E5%83%8F%E8%83%BD%E9%A3%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         },
         {
           "title": "报道：LG董事长与黄仁勋下周将会面，或讨论实体AI和智能工厂",
@@ -274,7 +374,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
