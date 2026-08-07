@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T10:07:55.868212+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-08-07T12:48:17.205696+08:00",
+  "total_titles_processed": 684,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "美前国防官员撰文炒作“中国AI威胁”，专家：贼喊捉贼",
@@ -36,11 +36,46 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时50分 ~ 12时48分]"
+        },
+        {
+          "title": "美银CEO：美联储年内或连加三次息，但AI投资不会因高利率踩刹车",
+          "url": "https://wallstreetcn.com/articles/3778828",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时50分 ~ 10时07分]"
+          "time_info": "[10时07分 ~ 12时48分]"
+        },
+        {
+          "title": "内娱第一人 戚薇开放形象AI授权",
+          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%A8%B1%E7%AC%AC%E4%B8%80%E4%BA%BA+%E6%88%9A%E8%96%87%E5%BC%80%E6%94%BE%E5%BD%A2%E8%B1%A1AI%E6%8E%88%E6%9D%83",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 12时48分]"
+        },
+        {
+          "title": "英伟达急寻中国AI基站供应商，明后年启动端侧算力组网",
+          "url": "https://wallstreetcn.com/articles/3778824",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 12时48分]"
         },
         {
           "title": "美银抛出激进预测：美联储将连续加息三次 AI支出周期不会脱轨",
@@ -79,37 +114,15 @@
           "time_info": "[07时50分 ~ 10时07分]"
         },
         {
-          "title": "内娱第一人 戚薇开放形象AI授权",
-          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%A8%B1%E7%AC%AC%E4%B8%80%E4%BA%BA+%E6%88%9A%E8%96%87%E5%BC%80%E6%94%BE%E5%BD%A2%E8%B1%A1AI%E6%8E%88%E6%9D%83",
-          "source": "百度热搜",
+          "title": "机构：2026年AI服务器出货量增幅上调至近31%",
+          "url": "https://flash.jin10.com/detail/20260807121555798800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "美银CEO：美联储年内或连加三次息，但AI投资不会因高利率踩刹车",
-          "url": "https://wallstreetcn.com/articles/3778828",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "英伟达急寻中国AI基站供应商，明后年启动端侧算力组网",
-          "url": "https://wallstreetcn.com/articles/3778824",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "12时48分"
         },
         {
           "title": "创业板指涨超1%，沪指跌0.18%，深成指涨0.61%，能源金属、算力硬件等板块涨幅居前。",
@@ -118,9 +131,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "“存储三巨头”2027产能已售罄？消息人士：一些AI公司已在“跪求芯片”",
+          "url": "https://www.cls.cn/detail/2448129",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         },
         {
           "title": "美联储盯上AI投资狂潮：不是2008年泡沫，但金融风险正在升温",
@@ -129,9 +153,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "戚薇 AI漫剧",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87%20AI%E6%BC%AB%E5%89%A7&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         },
         {
           "title": "汪峰公司因AI从1100人减到400人",
@@ -151,9 +186,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-08-07）",
+          "url": "https://flash.jin10.com/detail/20260807115504518800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         },
         {
           "title": "私募7月调研“钟情”科技：国产算力链成新共识",
@@ -184,9 +230,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "你最想去看谁的演唱会",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E6%9C%80%E6%83%B3%E5%8E%BB%E7%9C%8B%E8%B0%81%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         },
         {
           "title": "美国搞AI霸权“封杀”中国遭网友吐槽",
@@ -195,7 +252,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -206,9 +263,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "美国科学家首次用AI设计出病毒",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E7%94%A8AI%E8%AE%BE%E8%AE%A1%E5%87%BA%E7%97%85%E6%AF%92%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         },
         {
           "title": "美国圣路易斯联储主席穆萨勒姆（Musalem）：为了追求更高GDP而制定宽松政策是错误的。 劳动力市场已经稳定。 最近数月的美国经济具有韧性。 未来AI生产力增长具有高度不确定性。 风险朝着高通胀倾斜。",
