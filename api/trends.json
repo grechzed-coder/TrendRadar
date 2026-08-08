@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T03:22:30.612595+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-08-09T04:18:04.413976+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时18分]"
         },
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时18分]"
         },
         {
           "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时18分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时18分]"
         },
         {
           "title": "谢霆锋沈阳演唱会",
@@ -62,8 +62,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 03时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 04时18分]"
         },
         {
           "title": "李荣浩大连演唱会",
@@ -73,11 +73,24 @@
             18,
             17,
             12,
-            15
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 04时18分]"
+        },
+        {
+          "title": "当AI反过来问你问题",
+          "url": "https://www.douyin.com/hot/2600930",
+          "source": "抖音",
+          "ranks": [
+            27,
+            25
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时20分 ~ 03时22分]"
+          "time_info": "[01时21分 ~ 04时18分]"
         },
         {
           "title": "为什么体制内至今仍不鼓励用人工智能？",
@@ -103,8 +116,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时18分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -115,8 +128,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时18分]"
         },
         {
           "title": "“创系列”指数产品扩容，16只ETF集中申报，瞄准算力与金融科技",
@@ -126,8 +139,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时18分]"
         },
         {
           "title": "西村力演唱会的发言",
@@ -136,11 +149,12 @@
           "ranks": [
             23,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时18分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -148,11 +162,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时18分]"
         },
         {
           "title": "陈伟霆说我还以为去了成毅的演唱会",
@@ -162,22 +177,12 @@
             29,
             27,
             28,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时22分]"
-        },
-        {
-          "title": "当AI反过来问你问题",
-          "url": "https://www.douyin.com/hot/2600930",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时18分]"
         },
         {
           "title": "粉丝说西村力今天演唱会状态特别好",
@@ -187,8 +192,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时21分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 04时18分]"
         },
         {
           "title": "苹果AI 千问",
