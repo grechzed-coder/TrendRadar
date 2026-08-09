@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T13:41:17.522939+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2026-08-09T14:38:36.128739+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 13时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 14时38分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -85,8 +85,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 13时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 14时38分]"
         },
         {
           "title": "“创系列”指数产品扩容，16只ETF集中申报，瞄准算力与金融科技",
@@ -110,8 +110,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时20分 ~ 13时41分]"
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 14时38分]"
         },
         {
           "title": "李荣浩大连演唱会",
@@ -144,8 +144,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 13时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 14时38分]"
         },
         {
           "title": "当AI反过来问你问题",
@@ -210,6 +210,19 @@
           "time_info": "[00时21分 ~ 08时55分]"
         },
         {
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 14时38分]"
+        },
+        {
           "title": "西村力演唱会的发言",
           "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%9D%91%E5%8A%9B%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E5%8F%91%E8%A8%80%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -232,23 +245,12 @@
           "ranks": [
             1,
             3,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 13时41分]"
-        },
-        {
-          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
-          "url": "https://wallstreetcn.com/articles/3778996",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 13时41分]"
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 14时38分]"
         },
         {
           "title": "大爷听AI洒农药 150亩苗一夜枯萎",
@@ -300,6 +302,19 @@
           "time_info": "[08时55分 ~ 12时15分]"
         },
         {
+          "title": "陈伟霆：还以为是成毅的演唱会呢",
+          "url": "https://www.baidu.com/s?wd=%E9%99%88%E4%BC%9F%E9%9C%86%EF%BC%9A%E8%BF%98%E4%BB%A5%E4%B8%BA%E6%98%AF%E6%88%90%E6%AF%85%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%E5%91%A2",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 14时38分]"
+        },
+        {
           "title": "AI帮你开发以前要花钱的功能",
           "url": "https://s.weibo.com/weibo?q=AI%E5%B8%AE%E4%BD%A0%E5%BC%80%E5%8F%91%E4%BB%A5%E5%89%8D%E8%A6%81%E8%8A%B1%E9%92%B1%E7%9A%84%E5%8A%9F%E8%83%BD&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -310,6 +325,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时19分 ~ 10时58分]"
+        },
+        {
+          "title": "AI推理前瞻——从基础设施建设到商业化变现",
+          "url": "https://wallstreetcn.com/articles/3778997",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 14时38分]"
+        },
+        {
+          "title": "拯救悲剧股神后又当新娘！Anthropic幕僚长自述：在AI前沿寻找上帝",
+          "url": "https://wallstreetcn.com/articles/3779002",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 14时38分]"
         },
         {
           "title": "谢霆锋演唱会隔空祝王菲生日快乐",
@@ -324,18 +363,6 @@
           "time_info": "[10时58分 ~ 12时15分]"
         },
         {
-          "title": "陈伟霆：还以为是成毅的演唱会呢",
-          "url": "https://www.baidu.com/s?wd=%E9%99%88%E4%BC%9F%E9%9C%86%EF%BC%9A%E8%BF%98%E4%BB%A5%E4%B8%BA%E6%98%AF%E6%88%90%E6%AF%85%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%E5%91%A2",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 13时41分]"
-        },
-        {
           "title": "T1 官宣上调二队打野 Painter 首战 HLE，Oner 替补，如何评价此次换人？",
           "url": "https://www.zhihu.com/question/2069446019272724909",
           "source": "知乎",
@@ -345,17 +372,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
-        },
-        {
-          "title": "AI推理前瞻——从基础设施建设到商业化变现",
-          "url": "https://wallstreetcn.com/articles/3778997",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时41分"
         },
         {
           "title": "“AI应用龙头”归来！Palantir创2024年以来“最强单周表现”",
@@ -378,17 +394,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
-        },
-        {
-          "title": "拯救悲剧股神后又当新娘！Anthropic幕僚长自述：在AI前沿寻找上帝",
-          "url": "https://wallstreetcn.com/articles/3779002",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时41分"
         },
         {
           "title": "非农转负的另一种读法：贝莱德固收CIO称AI正让就业数据失效，加息“已无意义”",
@@ -485,7 +490,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         }
