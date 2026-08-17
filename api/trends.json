@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T13:27:18.114242+08:00",
-  "total_titles_processed": 794,
+  "generated_at": "2026-08-17T14:33:58.540262+08:00",
+  "total_titles_processed": 896,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "热门电影 热播剧集 综艺热点 演唱会 流行音乐 古风歌曲 说唱 经典老歌 游戏攻略 电竞赛事 数码测评 科技新闻 手机评测 电脑硬件 汽车资讯 新能源汽车 户外露营 徒步旅行 健身教学 减脂食谱 增肌训练 美食探店 中式菜谱 西式料理 烘焙教程 甜品制作 咖啡拉花 调酒教学 地方特色美食 奶茶测评 火锅烧烤 穿搭分享 明星穿搭 汉服穿搭 日常通勤穿搭 美妆教程 护肤分享 彩妆教程 发型设计 母婴育儿 亲子教育 职场干货 简历模板 面试技巧 投资理财 基金理财 股票入门 副业分享 自媒体运营 短视频拍摄 摄影技巧 旅行攻略 酒店测评 景点推荐 读书分享 学习方法 高效办公 AI 国际形势 娱乐八卦 人工智能 算力",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "国产算力迎扩张浪潮：大厂“超预期”加码投资 产业链多环节开启扩产",
@@ -48,11 +48,12 @@
           "source": "抖音",
           "ranks": [
             14,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 13时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 14时33分]"
         },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -82,6 +83,28 @@
           "time_info": "[00时14分 ~ 08时39分]"
         },
         {
+          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+          "url": "https://wallstreetcn.com/articles/3779545",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 14时33分]"
+        },
+        {
+          "title": "比亚迪国内销量骤降 35.6%，吉利重启销冠之争，如何看待新能源汽车市场竞争格局？",
+          "url": "https://www.zhihu.com/question/2071644037833135057",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 14时33分]"
+        },
+        {
           "title": "侯明昊深圳演唱会",
           "url": "https://www.douyin.com/hot/2612031",
           "source": "抖音",
@@ -109,28 +132,6 @@
           "time_info": "[00时14分 ~ 08时39分]"
         },
         {
-          "title": "广州：探索建立算力资源市场化交易机制",
-          "url": "https://wallstreetcn.com/livenews/3150240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
-          "url": "https://wallstreetcn.com/articles/3779545",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
           "title": "中信证券：国产算力未来将兼具工业品与公用事业属性，或将成为新一轮产业升级和资本形成的重要抓手",
           "url": "https://flash.jin10.com/detail/20260817081552395800",
           "source": "金十数据",
@@ -140,28 +141,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时39分"
-        },
-        {
-          "title": "创业板指涨超2%，深证成指涨1.57%，沪指涨0.82%，半导体芯片、农业、养殖业、算力硬件等方向涨幅居前，沪深京三市上涨个股近3700只。",
-          "url": "https://wallstreetcn.com/livenews/3150236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "比亚迪国内销量骤降 35.6%，吉利重启销冠之争，如何看待新能源汽车市场竞争格局？",
-          "url": "https://www.zhihu.com/question/2071644037833135057",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
         },
         {
           "title": "明查｜南极冰川现“神秘生物”？AI又整活了",
@@ -188,6 +167,30 @@
           "time_info": "[00时14分 ~ 08时39分]"
         },
         {
+          "title": "券商晨会精华：AI定价重心将从“涨价”转向“量增”",
+          "url": "https://www.cls.cn/detail/2455490",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 14时33分]"
+        },
+        {
+          "title": "广州：探索建立算力资源市场化交易机制",
+          "url": "https://wallstreetcn.com/livenews/3150240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 14时33分]"
+        },
+        {
           "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
           "url": "https://www.cls.cn/detail/2455252",
           "source": "财联社热门",
@@ -197,6 +200,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时14分 ~ 08时39分]"
+        },
+        {
+          "title": "创业板指涨超2%，深证成指涨1.57%，沪指涨0.82%，半导体芯片、农业、养殖业、算力硬件等方向涨幅居前，沪深京三市上涨个股近3700只。",
+          "url": "https://wallstreetcn.com/livenews/3150236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 14时33分]"
         },
         {
           "title": "南极冰川现“神秘生物”系AI生成",
@@ -261,6 +276,88 @@
           "time_info": "[00时14分 ~ 07时11分]"
         },
         {
+          "title": "报价30万美元！AI开始“吃”倒闭公司的聊天记录了",
+          "url": "https://www.cls.cn/detail/2455422",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 14时33分]"
+        },
+        {
+          "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，高管离职潮持续，上市计划悄然推迟",
+          "url": "https://wallstreetcn.com/articles/3779533",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 14时33分]"
+        },
+        {
+          "title": "上海硅巷13小时激辩：当算力重返增长快车道 产业下一站锚定何方？",
+          "url": "https://www.cls.cn/detail/2455700",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 14时33分]"
+        },
+        {
+          "title": "狂欢与危机同在：AI算力盛宴 成了全球资本的“高利率毒药”？",
+          "url": "https://www.cls.cn/detail/2455546",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 14时33分]"
+        },
+        {
+          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
+          "url": "https://www.zhihu.com/question/2061136311206073648",
+          "source": "知乎",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 14时33分]"
+        },
+        {
+          "title": "一块玻璃的进阶之路 蓝思科技向AI全域智能终端延伸 |活力中国调研行",
+          "url": "https://www.cls.cn/detail/2455402",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 14时33分]"
+        },
+        {
+          "title": "什么信号？高盛辣评Q2财报：AI支出持续激增，但盈利仍遥遥无期！",
+          "url": "https://www.cls.cn/detail/2455516",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 14时33分]"
+        },
+        {
           "title": "中信建投：当前算力产业链需求仍具韧性，A股科技修复尚未结束",
           "url": "https://wallstreetcn.com/livenews/3150060",
           "source": "华尔街见闻-快讯",
@@ -270,6 +367,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 04时12分]"
+        },
+        {
+          "title": "AI预测未来增加1.7亿新岗位",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E9%A2%84%E6%B5%8B%E6%9C%AA%E6%9D%A5%E5%A2%9E%E5%8A%A01.7%E4%BA%BF%E6%96%B0%E5%B2%97%E4%BD%8D%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 14时33分]"
         },
         {
           "title": "AI如何能辅助办公",
@@ -284,17 +392,6 @@
           "time_info": "[07时11分 ~ 08时39分]"
         },
         {
-          "title": "券商晨会精华：AI定价重心将从“涨价”转向“量增”",
-          "url": "https://www.cls.cn/detail/2455490",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
           "title": "Anthropic CEO：击败AI怀疑论者的最好方式就是兑现炒作承诺",
           "url": "https://flash.jin10.com/detail/20260817062707189800",
           "source": "金十数据",
@@ -306,81 +403,26 @@
           "time_info": "07时11分"
         },
         {
-          "title": "报价30万美元！AI开始“吃”倒闭公司的聊天记录了",
-          "url": "https://www.cls.cn/detail/2455422",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，高管离职潮持续，上市计划悄然推迟",
-          "url": "https://wallstreetcn.com/articles/3779533",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "狂欢与危机同在：AI算力盛宴 成了全球资本的“高利率毒药”？",
-          "url": "https://www.cls.cn/detail/2455546",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "上海硅巷13小时激辩：当算力重返增长快车道 产业下一站锚定何方？",
-          "url": "https://www.cls.cn/detail/2455700",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
-          "url": "https://www.zhihu.com/question/2061136311206073648",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "一块玻璃的进阶之路 蓝思科技向AI全域智能终端延伸 |活力中国调研行",
-          "url": "https://www.cls.cn/detail/2455402",
+          "title": "哪些券商的Skills率先在work buddy上线了？AI竞争换了战场",
+          "url": "https://www.cls.cn/detail/2455726",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时27分"
+          "time_info": "14时33分"
         },
         {
-          "title": "什么信号？高盛辣评Q2财报：AI支出持续激增，但盈利仍遥遥无期！",
-          "url": "https://www.cls.cn/detail/2455516",
-          "source": "财联社热门",
+          "title": "AI前沿日报-8月17日",
+          "url": "https://flash.jin10.com/detail/20260817140201865800",
+          "source": "金十数据",
           "ranks": [
-            13
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时27分"
+          "time_info": "14时33分"
         },
         {
           "title": "A股近500家公司公布半年报，AI硬件、化工能源景气度高",
@@ -394,15 +436,15 @@
           "time_info": "08时39分"
         },
         {
-          "title": "AI预测未来增加1.7亿新岗位",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E9%A2%84%E6%B5%8B%E6%9C%AA%E6%9D%A5%E5%A2%9E%E5%8A%A01.7%E4%BA%BF%E6%96%B0%E5%B2%97%E4%BD%8D%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "OpenAI CEO：大学读两年就够了",
+          "url": "https://www.baidu.com/s?wd=OpenAI+CEO%EF%BC%9A%E5%A4%A7%E5%AD%A6%E8%AF%BB%E4%B8%A4%E5%B9%B4%E5%B0%B1%E5%A4%9F%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            19
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时27分"
+          "time_info": "14时33分"
         },
         {
           "title": "市场消息：Stripe即将以超过70亿美元的价格收购人工智能公司OpenRouter。",
@@ -422,7 +464,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         }
